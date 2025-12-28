@@ -15,7 +15,7 @@
 		["Kristoffer"],
 		["Simon", "Graphics", "Buildings"],
 		["Simon", "Graphics"],
-		null,
+		false,
 		false
 	]
 }

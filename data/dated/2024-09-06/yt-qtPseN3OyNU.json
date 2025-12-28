@@ -25,7 +25,7 @@
 		["Satisfactory 1.0", "Walls", "Buildables"],
 		["Satisfactory 1.0", "Finishes"],
 		null,
-		null,
+		false,
 		false,
 		["Satisfactory 1.0", "S.A.M. Ore"],
 		["Satisfactory 1.0", "Alien Power Augmenter", "Somersloop"],

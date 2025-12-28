@@ -25,6 +25,7 @@
 		["Satisfactory Update 6", "Update 6 Teasers", "Nobelisk", "Terrible Jokes", "Final Fantasy"],
 		["Satisfactory Update 6", "Update 6 Teasers", "User Interface", "Recipes", "Crafting"],
 		null,
+		false,
 		["Satisfactory Update 6", "Update 6 Teasers", "Rebar Gun", "Nobelisk", "Creatures"]
 	]
 }
