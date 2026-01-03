@@ -1,9 +1,10 @@
 {
-	"qanda": [
-		"^((?:Mod highlight part 2 )?Q&A): ",
-		"\\?$"
-	],
 	"talk": [
+		"^(?:Misplaced the restream chat|Rearranging windows|Black Friday)$",
+		"^(?:Twitch\\/YouTube monetisation weekly reminder|Terraforming)$",
+		"^(?:Next week's video|Base Defense(?: Golf)?|Golf|Green Energy)$",
+		"^(?:Satisfactory player base|Factory Maintenance)$",
+		"^(?:Survival Elements|Technical Difficulties|✈🌏🦘|Roundup)$",
 		"^State of (Silksong|Final Fantasy XIV)$",
 		"Hannah Talk via [^:]+:.+",
 		"^The Official Satisfactory PODCAST: Episode \\d+$",
@@ -13,10 +14,19 @@
 		"^Blame Hannah: ",
 		"^(Tools Video FAQ|RE: Reporting Issues|AI Uprising|Mark joins the fight|\uD83D\uDCE3 Satisfactory Update 7 Patch Notes Director Commentary with Snutt)$"
 	],
+	"qanda": [
+		"^((?:Mod highlight part 2 )?Q&A): ",
+		"\\?$"
+	],
 	"community_fyi": [
-		"^Community FYI: "
+		"^Community FYIs$",
+		"^(Community|Signpost[Mm]arv) FYI: "
 	],
 	"state_of_dev": [
+		"^(?:Console Release Teaser|Go checkout the Console Q&A video)$",
+		"^(?:Next Week's video|New release date for Update 6)$",
+		"^(?:p\\.s\\. \"The alpha is not a scam\"|New streaming schedule)$",
+		"^(?:Timezones|Future updates on time slots)$",
 		"^Intro \\\/ Date of Stev$",
 		"^Intro \\\/ State of Everything$",
 		"^State of Dev: ",
@@ -31,11 +41,13 @@
 		"^(World Changes with Hannah|EOS Reset Account|Re: Reporting Issues|Update 6: (Spire Coast Teaser|Future Updates & Linear Overclocking change)|Blueprints Video)$"
 	],
 	"community_highlights": [
+		" on Community Highlights$",
+		"^Twitch Raid$",
 		"^(?:(?:(?:Localization) )?Community|Mod)(?: (?:Highlights?|highlight))?(?: part \\d+)?: ",
 		"^Community Highlights - "
 	],
 	"trolling": [
-		"^Trolling: "
+		"^Trolling( re)?: "
 	],
 	"jace_art": [
 		"^Jace Art: "
@@ -48,10 +60,17 @@
 	],
 	"special_guest": [
 		"^Special Guest ",
-		"^Special Guest$"
+		"^Special Guests?$"
 	],
 	"intro": [
-		"^Intro$",
+		"^(?:Intro|Welcome|Hello|Setting up the agenda|It begins\\.\\.\\.)$",
 		"^Intro &"
+	],
+	"outro": [
+		"^(?:Outro|Thanks everyone, helps a lot!)$"
+	],
+	"title_card": [
+		" End Tag$",
+		"^(?:Stream Starting Soon|End Tag|Mikael forgets to turn the stream off)$"
 	]
 }
