@@ -23,10 +23,12 @@
 		"^(Community|Signpost[Mm]arv) FYI: "
 	],
 	"state_of_dev": [
+		"^Update \\d+ (?:Information Film|Patch Notes Video|Revealed|Teaser Season Supercut|Trailer|Teaser)$",
 		"^(?:Console Release Teaser|Go checkout the Console Q&A video)$",
 		"^(?:Next Week's video|New release date for Update 6)$",
 		"^(?:p\\.s\\. \"The alpha is not a scam\"|New streaming schedule)$",
-		"^(?:Timezones|Future updates on time slots)$",
+		"^(?:Timezones|Future updates on time slots|Trailer)$",
+		"^(?:World Update): ",
 		"^Intro \\\/ Date of Stev$",
 		"^Intro \\\/ State of Everything$",
 		"^State of Dev: ",
@@ -41,10 +43,12 @@
 		"^(World Changes with Hannah|EOS Reset Account|Re: Reporting Issues|Update 6: (Spire Coast Teaser|Future Updates & Linear Overclocking change)|Blueprints Video)$"
 	],
 	"community_highlights": [
+		"^(Content Creator Highlight|Community Highlights)$",
+		"^Content Creator Highlight: ",
 		" on Community Highlights$",
 		"^Twitch Raid$",
 		"^(?:(?:(?:Localization) )?Community|Mod)(?: (?:Highlights?|highlight))?(?: part \\d+)?: ",
-		"^Community Highlights - "
+		"^(?:Community Highlights|Mod highlight) "
 	],
 	"trolling": [
 		"^Trolling( re)?: "
@@ -60,17 +64,21 @@
 	],
 	"special_guest": [
 		"^Special Guest ",
+		"^Special Guests?: ",
 		"^Special Guests?$"
 	],
 	"intro": [
 		"^(?:Intro|Welcome|Hello|Setting up the agenda|It begins\\.\\.\\.)$",
-		"^Intro &"
+		"^(?:Finishing off the agenda for the stream|Establishing shot)$",
+		"^(?:Preamble|This video is not a deep-dive|Video Agenda)$",
+		"^(Intro|Previously on|Welcome)[, ]"
 	],
 	"outro": [
+		"^Thanks for [Ww]atching$",
 		"^(?:Outro|Thanks everyone, helps a lot!)$"
 	],
 	"title_card": [
 		" End Tag$",
-		"^(?:Stream Starting Soon|End Tag|Mikael forgets to turn the stream off)$"
+		"^(?:Stream [Ss]tarting [Ss]oon|End Tag|Mikael forgets to turn the stream off)$"
 	]
 }
