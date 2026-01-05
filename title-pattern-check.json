@@ -14,13 +14,13 @@
 		"^Blame Hannah: ",
 		"^(Tools Video FAQ|RE: Reporting Issues|AI Uprising|Mark joins the fight|\uD83D\uDCE3 Satisfactory Update 7 Patch Notes Director Commentary with Snutt)$"
 	],
-	"qanda": [
-		"^((?:Mod highlight part 2 )?Q&A): ",
-		"\\?$"
-	],
 	"community_fyi": [
 		"^Community FYIs$",
 		"^(Community|Signpost[Mm]arv) FYI: "
+	],
+	"qanda": [
+		"^((?:Mod highlight part 2 )?Q&A): ",
+		"\\?$"
 	],
 	"state_of_dev": [
 		"^Update \\d+ (?:Information Film|Patch Notes Video|Revealed|Teaser Season Supercut|Trailer|Teaser)$",
