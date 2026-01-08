@@ -45,17 +45,17 @@
 		"Nobody saw that floating Gas Rock"
 	],
 	[
-		"yt-y1Znn6SBS6w,2751.486541,2764.601335",
+		"yt-y1Znn6SBS6w,2751,2765",
 		2751,
 		"Floating Rocks"
 	],
 	[
-		"yt-5NBgetrxtpw,2009.351977,2028.745653",
+		"yt-5NBgetrxtpw,2009,2029",
 		2009.351977,
 		"Community FYI: Lots of content to update for BlameHannah.com site now"
 	],
 	[
-		"yt-6X4jqMUtCwI,727.4934333333333,777.5434333333334",
+		"yt-6X4jqMUtCwI,727,778",
 		727.493,
 		"Update 8 Medium Map Changes - Outro"
 	],
@@ -70,12 +70,12 @@
 		"Q&A: Working on floating Ore rocks?"
 	],
 	[
-		"yt-Z6bo0pjYghk,7486.864999,7516.174063735765",
+		"yt-Z6bo0pjYghk,7486,7517",
 		7491.767,
 		"Looks like Hannah's been here..."
 	],
 	[
-		"yt-Z6bo0pjYghk,8382.181263,8393.711847",
+		"yt-Z6bo0pjYghk,8382,8394",
 		7326.971,
 		"🔨Hanburger: wasn't me!"
 	],
@@ -95,12 +95,12 @@
 		"Floating rocks, yo"
 	],
 	[
-		"yt-8BxYvOLpjGo,214.88133333333334,234.80123333333333",
+		"yt-8BxYvOLpjGo,214,235",
 		226.693,
 		"Limestone resource chunk floating in the work-in-progress Spire Coast biome"
 	],
 	[
-		"yt-8BxYvOLpjGo,357.6906666666667,370.70366666666666",
+		"yt-8BxYvOLpjGo,357,371",
 		368.525,
 		"That area is butt ugly at the moment. -Hannah, 2022"
 	],
@@ -150,7 +150,7 @@
 		"Screenshot of Snutt & Jace in split-screen on stream, capture mid-laughter. Jace wearing the famous red flannel."
 	],
 	[
-		"yt-cF3QleeEiJo,2105.731039,2156.762994",
+		"yt-cF3QleeEiJo,2105,2157",
 		2106,
 		"Screenshot of Community Highlights segment of the Update 4 countdown stream, with the key art of the Space Elevator in the background, the countdown timer on '01:24:22', and an inset thumbnail of Snutt speaking to other Coffee Stainers not visible on the scene."
 	],
@@ -179,5 +179,9 @@
 		24.5,
 		"Screenshot of four Coffee Stainers sitting in the cinema seating of their old office. From left to right: Jace looking at a laptop, Birk in the rear row of seats looking at Hannah, Snutt looking at Hannah, and Hannah looking in the direction of (but not into) the camera."
 	],
-	["yt-CB9bSigNYH8,3090.973157,3125.355289", 3115.332157, "Screenshot of Hannah's level design stream, showing a floating Green Power Slug in a cave tunne"]
+	[
+		"yt-CB9bSigNYH8,3090,3126",
+		3115.332157,
+		"Screenshot of Hannah's level design stream, showing a floating Green Power Slug in a cave tunne"
+	]
 ]
