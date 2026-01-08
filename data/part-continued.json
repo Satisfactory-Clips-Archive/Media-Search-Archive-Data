@@ -1,84 +1,84 @@
 {
-	"yt-ff7kc51OUeg,815,851": {
+	"yt-ny7TY7EZjv4,0,36": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,2581,2788",
+		"next": "yt-ny7TY7EZjv4,879,1086",
 		"title": "FICSMAS Comp (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2581,2788": {
-		"previous": "yt-ff7kc51OUeg,815,851",
-		"next": "yt-ff7kc51OUeg,2905,2986",
+	"yt-ny7TY7EZjv4,879,1086": {
+		"previous": "yt-ny7TY7EZjv4,0,36",
+		"next": "yt-ny7TY7EZjv4,1139,1220",
 		"title": "FICSMAS Comp (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2905,2986": {
-		"previous": "yt-ff7kc51OUeg,2581,2788",
+	"yt-ny7TY7EZjv4,1139,1220": {
+		"previous": "yt-ny7TY7EZjv4,879,1086",
 		"next": null,
 		"title": "FICSMAS Comp (Part 3)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2298,2368": {
+	"yt-Sgr1zqr0wOU,0,70": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,2385,2409",
+		"next": "yt-Sgr1zqr0wOU,69,93",
 		"title": "Final Fantasy XIV (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2385,2409": {
-		"previous": "yt-ff7kc51OUeg,2298,2368",
-		"next": "yt-ff7kc51OUeg,2425,2434",
+	"yt-Sgr1zqr0wOU,69,93": {
+		"previous": "yt-Sgr1zqr0wOU,0,70",
+		"next": "yt-Sgr1zqr0wOU,92,101",
 		"title": "Final Fantasy XIV (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2425,2434": {
-		"previous": "yt-ff7kc51OUeg,2385,2409",
-		"next": "yt-ff7kc51OUeg,2559,2582",
+	"yt-Sgr1zqr0wOU,92,101": {
+		"previous": "yt-Sgr1zqr0wOU,69,93",
+		"next": "yt-Sgr1zqr0wOU,100,123",
 		"title": "Final Fantasy XIV (Part 3)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2559,2582": {
-		"previous": "yt-ff7kc51OUeg,2425,2434",
-		"next": "yt-ff7kc51OUeg,4575,4674",
+	"yt-Sgr1zqr0wOU,100,123": {
+		"previous": "yt-Sgr1zqr0wOU,92,101",
+		"next": "yt-Sgr1zqr0wOU,122,221",
 		"title": "Final Fantasy XIV (Part 4)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,4575,4674": {
-		"previous": "yt-ff7kc51OUeg,2559,2582",
+	"yt-Sgr1zqr0wOU,122,221": {
+		"previous": "yt-Sgr1zqr0wOU,100,123",
 		"next": null,
 		"title": "Final Fantasy XIV (Part 5)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,3553,3853": {
+	"yt-n0ywF47SnHA,0,300": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,3951,3985",
+		"next": "yt-n0ywF47SnHA,299,333",
 		"title": "Q&A: Any plans for optimisation of using large volumes of Signs? (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,3951,3985": {
-		"previous": "yt-ff7kc51OUeg,3553,3853",
-		"next": "yt-ff7kc51OUeg,4060,4077",
+	"yt-n0ywF47SnHA,299,333": {
+		"previous": "yt-n0ywF47SnHA,0,300",
+		"next": "yt-n0ywF47SnHA,332,349",
 		"title": "Q&A: Any plans for optimisation of using large volumes of Signs? (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,4060,4077": {
-		"previous": "yt-ff7kc51OUeg,3951,3985",
+	"yt-n0ywF47SnHA,332,349": {
+		"previous": "yt-n0ywF47SnHA,299,333",
 		"next": null,
 		"title": "Q&A: Any plans for optimisation of using large volumes of Signs? (Part 3)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1284,1338": {
+	"yt-xKwbVWqUKVg,0,53": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,1384,1413",
+		"next": "yt-xKwbVWqUKVg,52,81",
 		"title": "Q&A: Curved Walls? (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1384,1413": {
-		"previous": "yt-ff7kc51OUeg,1284,1338",
-		"next": "yt-ff7kc51OUeg,1458,1467",
+	"yt-xKwbVWqUKVg,52,81": {
+		"previous": "yt-xKwbVWqUKVg,0,53",
+		"next": "yt-xKwbVWqUKVg,80,89",
 		"title": "Q&A: Curved Walls? (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1458,1467": {
-		"previous": "yt-ff7kc51OUeg,1384,1413",
+	"yt-xKwbVWqUKVg,80,89": {
+		"previous": "yt-xKwbVWqUKVg,52,81",
 		"next": null,
 		"title": "Q&A: Curved Walls? (Part 3)",
 		"date": "2025-12-09"
@@ -95,20 +95,26 @@
 		"title": "Q&A: Have you ever planned to add fishing into the game? (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2083,2299": {
+	"yt-XtLumwvoXls,0,215": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,2367,2386",
+		"next": "yt-XtLumwvoXls,214,232",
 		"title": "Q&A: PC Crossplay with Consoles, maybe or never? (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,4733,5107": {
+	"yt-XtLumwvoXls,214,232": {
+		"previous": "yt-XtLumwvoXls,0,215",
+		"next": null,
+		"title": "Q&A: PC Crossplay with Consoles, maybe or never? (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-XGX4HqoypQg,0,374": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,2367,2386",
+		"next": "yt-XGX4HqoypQg,373,386",
 		"title": "Q&A: What's the Satisfactory 5-year plan? (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,2367,2386": {
-		"previous": "yt-ff7kc51OUeg,4733,5107",
+	"yt-XGX4HqoypQg,373,386": {
+		"previous": "yt-XGX4HqoypQg,0,374",
 		"next": null,
 		"title": "Q&A: What's the Satisfactory 5-year plan? (Part 2)",
 		"date": "2025-12-09"
@@ -125,80 +131,80 @@
 		"title": "Q&A: What would Mikael like to add in Satisfactory? (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,5699,5705": {
+	"yt-3_qMGf_ecMU,0,6": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,5769,5772",
+		"next": "yt-3_qMGf_ecMU,5,8",
 		"title": "Q&A: When will we have Golf in the game? (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,5769,5772": {
-		"previous": "yt-ff7kc51OUeg,5699,5705",
-		"next": "yt-ff7kc51OUeg,6874,6880",
+	"yt-3_qMGf_ecMU,5,8": {
+		"previous": "yt-3_qMGf_ecMU,0,6",
+		"next": "yt-3_qMGf_ecMU,7,12",
 		"title": "Q&A: When will we have Golf in the game? (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,6874,6880": {
-		"previous": "yt-ff7kc51OUeg,5769,5772",
+	"yt-3_qMGf_ecMU,7,12": {
+		"previous": "yt-3_qMGf_ecMU,5,8",
 		"next": null,
 		"title": "Q&A: When will we have Golf in the game? (Part 3)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,6039,6102": {
+	"yt-zPy8gZ-n33I,0,62": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,6203,6214",
+		"next": "yt-zPy8gZ-n33I,61,72",
 		"title": "Q&A: Would it be possible to place Building \"ghosts\" for ease of factory planning? (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,6203,6214": {
-		"previous": "yt-ff7kc51OUeg,6039,6102",
+	"yt-zPy8gZ-n33I,61,72": {
+		"previous": "yt-zPy8gZ-n33I,0,62",
 		"next": null,
 		"title": "Q&A: Would it be possible to place Building \"ghosts\" for ease of factory planning? (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,693,816": {
+	"yt-7PcIoZs2njY,0,122": {
 		"previous": null,
-		"next": "yt-ff7kc51OUeg,850,944",
+		"next": "yt-7PcIoZs2njY,121,215",
 		"title": "State of Silksong (Part 1)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,850,944": {
-		"previous": "yt-ff7kc51OUeg,693,816",
-		"next": "yt-ff7kc51OUeg,1272,1285",
+	"yt-7PcIoZs2njY,121,215": {
+		"previous": "yt-7PcIoZs2njY,0,122",
+		"next": "yt-7PcIoZs2njY,214,227",
 		"title": "State of Silksong (Part 2)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1272,1285": {
-		"previous": "yt-ff7kc51OUeg,850,944",
-		"next": "yt-ff7kc51OUeg,1412,1459",
+	"yt-7PcIoZs2njY,214,227": {
+		"previous": "yt-7PcIoZs2njY,121,215",
+		"next": "yt-7TCZm_nIZFU,2064,2085",
 		"title": "State of Silksong (Part 3)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1412,1459": {
-		"previous": "yt-ff7kc51OUeg,1272,1285",
-		"next": "yt-ff7kc51OUeg,1466,1473",
+	"yt-7TCZm_nIZFU,2064,2085": {
+		"previous": "yt-7TCZm_nIZFU,1917,2002",
+		"next": "yt-7TCZm_nIZFU,2112,2242",
 		"title": "State of Silksong (Part 4)",
-		"date": "2025-12-09"
+		"date": "2025-12-02"
 	},
-	"yt-ff7kc51OUeg,1466,1473": {
-		"previous": "yt-ff7kc51OUeg,1412,1459",
-		"next": "yt-ff7kc51OUeg,1511,1587",
+	"yt-7PcIoZs2njY,271,278": {
+		"previous": "yt-7TCZm_nIZFU,2064,2085",
+		"next": "yt-7PcIoZs2njY,277,353",
 		"title": "State of Silksong (Part 5)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1511,1587": {
-		"previous": "yt-ff7kc51OUeg,1466,1473",
-		"next": "yt-ff7kc51OUeg,1599,1642",
+	"yt-7PcIoZs2njY,277,353": {
+		"previous": "yt-7PcIoZs2njY,271,278",
+		"next": "yt-7PcIoZs2njY,352,395",
 		"title": "State of Silksong (Part 6)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,1599,1642": {
-		"previous": "yt-ff7kc51OUeg,1511,1587",
-		"next": "yt-ff7kc51OUeg,4238,4299",
+	"yt-7PcIoZs2njY,352,395": {
+		"previous": "yt-7PcIoZs2njY,277,353",
+		"next": "yt-7PcIoZs2njY,394,454",
 		"title": "State of Silksong (Part 7)",
 		"date": "2025-12-09"
 	},
-	"yt-ff7kc51OUeg,4238,4299": {
-		"previous": "yt-ff7kc51OUeg,1599,1642",
+	"yt-7PcIoZs2njY,394,454": {
+		"previous": "yt-7PcIoZs2njY,352,395",
 		"next": null,
 		"title": "State of Silksong (Part 8)",
 		"date": "2025-12-09"
@@ -245,56 +251,56 @@
 		"title": "Q&A: Golf? (Part 2)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,4195,4220": {
+	"yt-OXpuyV5MwRA,0,25": {
 		"previous": null,
-		"next": "yt-7TCZm_nIZFU,7565,7594",
+		"next": "yt-OXpuyV5MwRA,24,53",
 		"title": "Q&A: Hints about 1.2? (Part 1)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,7565,7594": {
-		"previous": "yt-7TCZm_nIZFU,4195,4220",
-		"next": "yt-7TCZm_nIZFU,7611,7717",
+	"yt-OXpuyV5MwRA,24,53": {
+		"previous": "yt-OXpuyV5MwRA,0,25",
+		"next": "yt-OXpuyV5MwRA,52,159",
 		"title": "Q&A: Hints about 1.2? (Part 2)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,7611,7717": {
-		"previous": "yt-7TCZm_nIZFU,7565,7594",
+	"yt-OXpuyV5MwRA,52,159": {
+		"previous": "yt-OXpuyV5MwRA,24,53",
 		"next": null,
 		"title": "Q&A: Hints about 1.2? (Part 3)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,1559,1617": {
+	"yt-TnEWrGdEKM0,0,57": {
 		"previous": null,
-		"next": "yt-7TCZm_nIZFU,1638,1650",
+		"next": "yt-TnEWrGdEKM0,56,68",
 		"title": "Q&A: Is 1.2 going to come out this year? (Part 1)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,1638,1650": {
-		"previous": "yt-7TCZm_nIZFU,1559,1617",
-		"next": "yt-7TCZm_nIZFU,1756,1764",
+	"yt-TnEWrGdEKM0,56,68": {
+		"previous": "yt-TnEWrGdEKM0,0,57",
+		"next": "yt-TnEWrGdEKM0,67,75",
 		"title": "Q&A: Is 1.2 going to come out this year? (Part 2)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,1756,1764": {
-		"previous": "yt-7TCZm_nIZFU,1638,1650",
+	"yt-TnEWrGdEKM0,67,75": {
+		"previous": "yt-TnEWrGdEKM0,56,68",
 		"next": null,
 		"title": "Q&A: Is 1.2 going to come out this year? (Part 3)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,1488,1525": {
+	"yt-f4UmMtjILV0,0,37": {
 		"previous": null,
-		"next": "yt-7TCZm_nIZFU,2242,2252",
+		"next": "yt-f4UmMtjILV0,36,46",
 		"title": "Q&A: Keyboard & Mouse support for Console? (Part 1)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,2242,2252": {
-		"previous": "yt-7TCZm_nIZFU,1488,1525",
-		"next": "yt-7TCZm_nIZFU,7083,7110",
+	"yt-f4UmMtjILV0,36,46": {
+		"previous": "yt-f4UmMtjILV0,0,37",
+		"next": "yt-f4UmMtjILV0,45,72",
 		"title": "Q&A: Keyboard & Mouse support for Console? (Part 2)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,7083,7110": {
-		"previous": "yt-7TCZm_nIZFU,2242,2252",
+	"yt-f4UmMtjILV0,45,72": {
+		"previous": "yt-f4UmMtjILV0,36,46",
 		"next": null,
 		"title": "Q&A: Keyboard & Mouse support for Console? (Part 3)",
 		"date": "2025-12-02"
@@ -349,18 +355,18 @@
 	},
 	"yt-7TCZm_nIZFU,1917,2002": {
 		"previous": "yt-7TCZm_nIZFU,1661,1757",
-		"next": "yt-7TCZm_nIZFU,2064,2085",
+		"next": "yt-7PcIoZs2njY,226,272",
 		"title": "State of Silksong (Part 3)",
 		"date": "2025-12-02"
 	},
-	"yt-7TCZm_nIZFU,2064,2085": {
+	"yt-7PcIoZs2njY,226,272": {
 		"previous": "yt-7TCZm_nIZFU,1917,2002",
 		"next": "yt-7TCZm_nIZFU,2112,2242",
 		"title": "State of Silksong (Part 4)",
 		"date": "2025-12-02"
 	},
 	"yt-7TCZm_nIZFU,2112,2242": {
-		"previous": "yt-7TCZm_nIZFU,2064,2085",
+		"previous": "yt-7PcIoZs2njY,226,272",
 		"next": null,
 		"title": "State of Silksong (Part 5)",
 		"date": "2025-12-02"
@@ -419,32 +425,32 @@
 		"title": "Mikael Talk: Console Launch; Thank You (Part 3)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,5439,5457": {
+	"yt-daGhVqybuoE,0,17": {
 		"previous": null,
-		"next": "yt-gfGIx-hPelQ,5858,5918",
+		"next": "yt-daGhVqybuoE,16,76",
 		"title": "Q&A: Did you ever expect the Community to make such impressive builds? (Part 1)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,5858,5918": {
-		"previous": "yt-gfGIx-hPelQ,5439,5457",
-		"next": "yt-gfGIx-hPelQ,6640,6752",
+	"yt-daGhVqybuoE,16,76": {
+		"previous": "yt-daGhVqybuoE,0,17",
+		"next": "yt-daGhVqybuoE,75,187",
 		"title": "Q&A: Did you ever expect the Community to make such impressive builds? (Part 2)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,6640,6752": {
-		"previous": "yt-gfGIx-hPelQ,5858,5918",
+	"yt-daGhVqybuoE,75,187": {
+		"previous": "yt-daGhVqybuoE,16,76",
 		"next": null,
 		"title": "Q&A: Did you ever expect the Community to make such impressive builds? (Part 3)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,5044,5085": {
+	"yt-NLEfAvg8vJU,0,41": {
 		"previous": null,
-		"next": "yt-gfGIx-hPelQ,5473,5559",
+		"next": "yt-NLEfAvg8vJU,40,126",
 		"title": "Q&A: How can I play with my friend who plays on PS5 when I play on Xbox? (Part 1)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,5473,5559": {
-		"previous": "yt-gfGIx-hPelQ,5044,5085",
+	"yt-NLEfAvg8vJU,40,126": {
+		"previous": "yt-NLEfAvg8vJU,0,41",
 		"next": null,
 		"title": "Q&A: How can I play with my friend who plays on PS5 when I play on Xbox? (Part 2)",
 		"date": "2025-11-11"
@@ -485,14 +491,14 @@
 		"title": "Q&A: I have 1000 hours in Satisfactory and I still haven't beaten it, what am I doing wrong? (Part 4)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,866,896": {
+	"yt-gZSF5EEu6Ik,0,30": {
 		"previous": null,
-		"next": "yt-gfGIx-hPelQ,940,964",
+		"next": "yt-gZSF5EEu6Ik,29,53",
 		"title": "Q&A: Satisfactory on 3DS? (Part 1)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,940,964": {
-		"previous": "yt-gfGIx-hPelQ,866,896",
+	"yt-gZSF5EEu6Ik,29,53": {
+		"previous": "yt-gZSF5EEu6Ik,0,30",
 		"next": null,
 		"title": "Q&A: Satisfactory on 3DS? (Part 2)",
 		"date": "2025-11-11"
@@ -509,20 +515,20 @@
 		"title": "Q&A: What did you guys accidentally leak in the past? (Part 2)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,3086,3160": {
+	"yt-5j2dGcgsjBs,0,73": {
 		"previous": null,
-		"next": "yt-gfGIx-hPelQ,5607,5613",
+		"next": "yt-5j2dGcgsjBs,72,78",
 		"title": "Q&A: When does 1.2 start getting Teasers? (Part 1)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,5607,5613": {
-		"previous": "yt-gfGIx-hPelQ,3086,3160",
-		"next": "yt-gfGIx-hPelQ,6204,6319",
+	"yt-5j2dGcgsjBs,72,78": {
+		"previous": "yt-5j2dGcgsjBs,0,73",
+		"next": "yt-5j2dGcgsjBs,77,192",
 		"title": "Q&A: When does 1.2 start getting Teasers? (Part 2)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,6204,6319": {
-		"previous": "yt-gfGIx-hPelQ,5607,5613",
+	"yt-5j2dGcgsjBs,77,192": {
+		"previous": "yt-5j2dGcgsjBs,72,78",
 		"next": null,
 		"title": "Q&A: When does 1.2 start getting Teasers? (Part 3)",
 		"date": "2025-11-11"
@@ -551,92 +557,92 @@
 		"title": "Q&A: Where is the No Man's Sky Easter Egg? (Part 2)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,1458,1557": {
+	"yt-C_jDln7vXPQ,0,98": {
 		"previous": null,
-		"next": "yt-gfGIx-hPelQ,1565,1626",
+		"next": "yt-C_jDln7vXPQ,97,158",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 1)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,1565,1626": {
-		"previous": "yt-gfGIx-hPelQ,1458,1557",
-		"next": "yt-gfGIx-hPelQ,2090,2356",
+	"yt-C_jDln7vXPQ,97,158": {
+		"previous": "yt-C_jDln7vXPQ,0,98",
+		"next": "yt-C_jDln7vXPQ,157,423",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 2)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,2090,2356": {
-		"previous": "yt-gfGIx-hPelQ,1565,1626",
-		"next": "yt-gfGIx-hPelQ,2401,2410",
+	"yt-C_jDln7vXPQ,157,423": {
+		"previous": "yt-C_jDln7vXPQ,97,158",
+		"next": "yt-C_jDln7vXPQ,422,431",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 3)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,2401,2410": {
-		"previous": "yt-gfGIx-hPelQ,2090,2356",
-		"next": "yt-gfGIx-hPelQ,2612,2623",
+	"yt-C_jDln7vXPQ,422,431": {
+		"previous": "yt-C_jDln7vXPQ,157,423",
+		"next": "yt-C_jDln7vXPQ,430,441",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 4)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,2612,2623": {
-		"previous": "yt-gfGIx-hPelQ,2401,2410",
-		"next": "yt-gfGIx-hPelQ,2623,2755",
+	"yt-C_jDln7vXPQ,430,441": {
+		"previous": "yt-C_jDln7vXPQ,422,431",
+		"next": "yt-C_jDln7vXPQ,440,571",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 5)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,2623,2755": {
-		"previous": "yt-gfGIx-hPelQ,2612,2623",
-		"next": "yt-gfGIx-hPelQ,2776,2786",
+	"yt-C_jDln7vXPQ,440,571": {
+		"previous": "yt-C_jDln7vXPQ,430,441",
+		"next": "yt-C_jDln7vXPQ,570,580",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 6)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,2776,2786": {
-		"previous": "yt-gfGIx-hPelQ,2623,2755",
-		"next": "yt-gfGIx-hPelQ,2793,2843",
+	"yt-C_jDln7vXPQ,570,580": {
+		"previous": "yt-C_jDln7vXPQ,440,571",
+		"next": "yt-C_jDln7vXPQ,579,629",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 7)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,2793,2843": {
-		"previous": "yt-gfGIx-hPelQ,2776,2786",
-		"next": "yt-gfGIx-hPelQ,3159,3315",
+	"yt-C_jDln7vXPQ,579,629": {
+		"previous": "yt-C_jDln7vXPQ,570,580",
+		"next": "yt-C_jDln7vXPQ,628,785",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 8)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,3159,3315": {
-		"previous": "yt-gfGIx-hPelQ,2793,2843",
-		"next": "yt-gfGIx-hPelQ,3456,3477",
+	"yt-C_jDln7vXPQ,628,785": {
+		"previous": "yt-C_jDln7vXPQ,579,629",
+		"next": "yt-C_jDln7vXPQ,784,805",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 9)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,3456,3477": {
-		"previous": "yt-gfGIx-hPelQ,3159,3315",
-		"next": "yt-gfGIx-hPelQ,4345,4483",
+	"yt-C_jDln7vXPQ,784,805": {
+		"previous": "yt-C_jDln7vXPQ,628,785",
+		"next": "yt-C_jDln7vXPQ,804,942",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 10)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,4345,4483": {
-		"previous": "yt-gfGIx-hPelQ,3456,3477",
-		"next": "yt-gfGIx-hPelQ,4511,4524",
+	"yt-C_jDln7vXPQ,804,942": {
+		"previous": "yt-C_jDln7vXPQ,784,805",
+		"next": "yt-C_jDln7vXPQ,941,955",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 11)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,4511,4524": {
-		"previous": "yt-gfGIx-hPelQ,4345,4483",
-		"next": "yt-gfGIx-hPelQ,4548,4554",
+	"yt-C_jDln7vXPQ,941,955": {
+		"previous": "yt-C_jDln7vXPQ,804,942",
+		"next": "yt-C_jDln7vXPQ,954,961",
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 12)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,4548,4554": {
-		"previous": "yt-gfGIx-hPelQ,4511,4524",
+	"yt-C_jDln7vXPQ,954,961": {
+		"previous": "yt-C_jDln7vXPQ,941,955",
 		"next": null,
 		"title": "Q&A: Will there be some new/bigger Update like the ones before 1.0? (Part 13)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,4658,4740": {
+	"yt-_yXgj9RI8h8,0,82": {
 		"previous": null,
-		"next": "yt-gfGIx-hPelQ,4758,4767",
+		"next": "yt-_yXgj9RI8h8,81,89",
 		"title": "Q&A: Will you guys add an unlimited Graphics mode for taking screenshots? (Part 1)",
 		"date": "2025-11-11"
 	},
-	"yt-gfGIx-hPelQ,4758,4767": {
-		"previous": "yt-gfGIx-hPelQ,4658,4740",
+	"yt-_yXgj9RI8h8,81,89": {
+		"previous": "yt-_yXgj9RI8h8,0,82",
 		"next": null,
 		"title": "Q&A: Will you guys add an unlimited Graphics mode for taking screenshots? (Part 2)",
 		"date": "2025-11-11"
@@ -665,37 +671,37 @@
 		"title": "Mikael, Jason, Guru, Uzu Talk: QA Tester job ad (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,11548,11691": {
+	"yt-fA94XFtllcI,0,142": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,11737,11803",
+		"next": "yt-fA94XFtllcI,141,207",
 		"title": "Q&A: Are there any things that have been compromised from PC on Console? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,11737,11803": {
-		"previous": "yt-P12elmeK-NU,11548,11691",
+	"yt-fA94XFtllcI,141,207": {
+		"previous": "yt-fA94XFtllcI,0,142",
 		"next": null,
 		"title": "Q&A: Are there any things that have been compromised from PC on Console? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,4784,4859": {
+	"yt-0ekNGbo1JbA,0,75": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,7586,7714",
+		"next": "yt-0ekNGbo1JbA,74,202",
 		"title": "Q&A: Can we see auto-pickup? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,7586,7714": {
-		"previous": "yt-P12elmeK-NU,4784,4859",
+	"yt-0ekNGbo1JbA,74,202": {
+		"previous": "yt-0ekNGbo1JbA,0,75",
 		"next": null,
 		"title": "Q&A: Can we see auto-pickup? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,1883,1904": {
+	"yt-LLin39alcrE,0,21": {
 		"previous": null,
 		"next": null,
 		"title": "Q&A: Can you play with controller on PC? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,4219,4226": {
+	"yt-LLin39alcrE,20,28": {
 		"previous": null,
 		"next": null,
 		"title": "Q&A: Can you play with controller on PC? (Part 2)",
@@ -713,14 +719,14 @@
 		"title": "Q&A: Does Mikael know programming? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,6625,6658": {
+	"yt-w3sXhfNQvx0,0,33": {
 		"previous": null,
-		"next": null,
+		"next": "yt-w3sXhfNQvx0,32,50",
 		"title": "Q&A: Golf? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,10525,10544": {
-		"previous": null,
+	"yt-w3sXhfNQvx0,32,50": {
+		"previous": "yt-w3sXhfNQvx0,0,33",
 		"next": null,
 		"title": "Q&A: Golf? (Part 2)",
 		"date": "2025-11-04"
@@ -737,68 +743,68 @@
 		"title": "Q&A: How do you play Crossplay between PS5 & XBox? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,1903,1951": {
+	"yt-z7kliqAEbBc,0,47": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,11840,11905",
+		"next": "yt-z7kliqAEbBc",
 		"title": "Q&A: Samsung Fridge release, when? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,11840,11905": {
-		"previous": "yt-P12elmeK-NU,1903,1951",
+	"yt-z7kliqAEbBc": {
+		"previous": "yt-z7kliqAEbBc,0,47",
 		"next": null,
 		"title": "Q&A: Samsung Fridge release, when? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,1987,2005": {
+	"yt-wx5OdH9uL1g,0,17": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,4456,4554",
+		"next": "yt-wx5OdH9uL1g,16,113",
 		"title": "Q&A: Steam Deck compatibility? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,4456,4554": {
-		"previous": "yt-P12elmeK-NU,1987,2005",
+	"yt-wx5OdH9uL1g,16,113": {
+		"previous": "yt-wx5OdH9uL1g,0,17",
 		"next": null,
 		"title": "Q&A: Steam Deck compatibility? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,2198,2301": {
+	"yt-ztskwFXiZhE,0,103": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,10694,10784",
+		"next": "yt-ztskwFXiZhE,102,192",
 		"title": "Q&A: Switch 2 release, when? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,10694,10784": {
-		"previous": "yt-P12elmeK-NU,2198,2301",
+	"yt-ztskwFXiZhE,102,192": {
+		"previous": "yt-ztskwFXiZhE,0,103",
 		"next": null,
 		"title": "Q&A: Switch 2 release, when? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,6202,6231": {
+	"yt-K6tKu4E09iA,0,28": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,6249,6456",
+		"next": "yt-K6tKu4E09iA,27,233",
 		"title": "Q&A: What is planned for after Console release? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,6249,6456": {
-		"previous": "yt-P12elmeK-NU,6202,6231",
+	"yt-K6tKu4E09iA,27,233": {
+		"previous": "yt-K6tKu4E09iA,0,28",
 		"next": null,
 		"title": "Q&A: What is planned for after Console release? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,1757,1789": {
+	"yt-bycZQaaRlpY,0,31": {
 		"previous": null,
-		"next": "yt-P12elmeK-NU,2004,2018",
+		"next": "yt-bycZQaaRlpY,30,44",
 		"title": "Q&A: When will Consoles get 1.2? (Part 1)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,2004,2018": {
-		"previous": "yt-P12elmeK-NU,1757,1789",
-		"next": "yt-P12elmeK-NU,4225,4235",
+	"yt-bycZQaaRlpY,30,44": {
+		"previous": "yt-bycZQaaRlpY,0,31",
+		"next": "yt-bycZQaaRlpY,43,53",
 		"title": "Q&A: When will Consoles get 1.2? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-P12elmeK-NU,4225,4235": {
-		"previous": "yt-P12elmeK-NU,2004,2018",
+	"yt-bycZQaaRlpY,43,53": {
+		"previous": "yt-bycZQaaRlpY,30,44",
 		"next": null,
 		"title": "Q&A: When will Consoles get 1.2? (Part 3)",
 		"date": "2025-11-04"
@@ -3724,5 +3730,725 @@
 		"next": null,
 		"title": "Jace Talk: Automating Crafting (Part 2)",
 		"date": "2017-08-01"
+	},
+	"yt-ny7TY7EZjv4,210,342": {
+		"previous": null,
+		"next": null,
+		"title": "Last proper dev stream of 2025 (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,341,356": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: 1.2 before new year? (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,385,426": {
+		"previous": null,
+		"next": null,
+		"title": "Last proper dev stream of 2025 (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,425,439": {
+		"previous": null,
+		"next": null,
+		"title": "Last proper dev stream of 2025 (Part 3)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1085,1122": {
+		"previous": null,
+		"next": null,
+		"title": "Last proper dev stream of 2025 (Part 3)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1121,1140": {
+		"previous": null,
+		"next": null,
+		"title": "Last proper dev stream of 2025 (Part 4)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1219,1226": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: 1.2 before new year? (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1225,1301": {
+		"previous": null,
+		"next": null,
+		"title": "Blueprint Auto-connect (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1300,1332": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: 1.2 before new year? (Part 3)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1331,1351": {
+		"previous": null,
+		"next": null,
+		"title": "Blueprint Auto-connect (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1350,1414": {
+		"previous": null,
+		"next": null,
+		"title": "Achievements (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1413,1432": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: 1.2 before new year? (Part 4)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1431,1435": {
+		"previous": null,
+		"next": null,
+		"title": "Achievements (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1434,1448": {
+		"previous": null,
+		"next": null,
+		"title": "Still running the froords (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1464,1510": {
+		"previous": null,
+		"next": null,
+		"title": "Still running the froords (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1509,1544": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: 1.2 before new year? (Part 5)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1595,1668": {
+		"previous": null,
+		"next": null,
+		"title": "Blueprints & valid Windows directory names (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1667,1714": {
+		"previous": null,
+		"next": null,
+		"title": "Drones not working (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1713,1724": {
+		"previous": null,
+		"next": null,
+		"title": "Blueprints & valid Windows directory names (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1733,1743": {
+		"previous": null,
+		"next": null,
+		"title": "Drones not working (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-ny7TY7EZjv4,1742,1748": {
+		"previous": null,
+		"next": null,
+		"title": "Drones not working (Part 3)",
+		"date": "2025-12-09"
+	},
+	"yt-Sgr1zqr0wOU,220,249": {
+		"previous": null,
+		"next": null,
+		"title": "Final Fantasy XIV (Part 6)",
+		"date": "2025-12-09"
+	},
+	"yt-ff7kc51OUeg,5365,5375": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Is there a video this Friday? (Part 1)",
+		"date": "2025-12-09"
+	},
+	"yt-ff7kc51OUeg,5384,5390": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Is there a video this Friday? (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-XGX4HqoypQg,385,431": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What's the Satisfactory 5-year plan? (Part 3)",
+		"date": "2025-12-09"
+	},
+	"yt-Sgr1zqr0wOU,248,361": {
+		"previous": null,
+		"next": null,
+		"title": "Final Fantasy XIV (Part 7)",
+		"date": "2025-12-09"
+	},
+	"yt-Sgr1zqr0wOU,360,428": {
+		"previous": null,
+		"next": null,
+		"title": "Final Fantasy XIV (Part 8)",
+		"date": "2025-12-09"
+	},
+	"yt-Eemtf_V67WU,42,742": {
+		"previous": null,
+		"next": null,
+		"title": "Console Patches & Crashes (Part 1)",
+		"date": "2025-12-02"
+	},
+	"yt-Eemtf_V67WU,842,1215": {
+		"previous": null,
+		"next": null,
+		"title": "Console Patches & Crashes (Part 2)",
+		"date": "2025-12-02"
+	},
+	"yt-Eemtf_V67WU,1214,1326": {
+		"previous": null,
+		"next": null,
+		"title": "Console Patches & Crashes (Part 3)",
+		"date": "2025-12-02"
+	},
+	"yt-Eemtf_V67WU,1688,2089": {
+		"previous": null,
+		"next": null,
+		"title": "State of Dev: Pass It On 10 (Part 1)",
+		"date": "2025-12-02"
+	},
+	"yt-Eemtf_V67WU,2088,2099": {
+		"previous": null,
+		"next": null,
+		"title": "State of Dev: Pass It On 10 (Part 2)",
+		"date": "2025-12-02"
+	},
+	"yt-Eemtf_V67WU,2098,2170": {
+		"previous": null,
+		"next": null,
+		"title": "Console Patches & Crashes (Part 4)",
+		"date": "2025-12-02"
+	},
+	"yt-gfGIx-hPelQ,6395,6463": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Video this Friday? (Part 1)",
+		"date": "2025-11-11"
+	},
+	"yt-gfGIx-hPelQ,6513,6523": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Video this Friday? (Part 2)",
+		"date": "2025-11-11"
+	},
+	"yt-z7kliqAEbBc,46,112": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Samsung Fridge release, when? (Part 2)",
+		"date": "2025-11-04"
+	},
+	"yt-m_UVVHl1CxA,12309,14521": {
+		"previous": null,
+		"next": null,
+		"title": "The Great FICSIT Build Off™️ (Part 2)",
+		"date": "2025-06-10"
+	},
+	"yt-o6ao9-UIZIQ,264,309": {
+		"previous": null,
+		"next": null,
+		"title": "Jace Talk: Unreal Engine 4 (Part 2)",
+		"date": "2022-04-08"
+	},
+	"yt-DsbHR1Nc8fw,55,68": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 1)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,97,119": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 2)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,155,161": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 3)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,176,185": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 4)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,274,283": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 5)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,321,327": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 6)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,393,407": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 7)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,438,454": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 8)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,469,514": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 9)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,538,554": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 10)",
+		"date": "2020-03-12"
+	},
+	"yt-DsbHR1Nc8fw,587,619": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 11)",
+		"date": "2020-03-12"
+	},
+	"yt-52nYaN8imgo,25,35": {
+		"previous": null,
+		"next": null,
+		"title": "Coffee Stain are hiring a Community Manager! [BTS] (November 2018) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,37,46": {
+		"previous": null,
+		"next": null,
+		"title": "Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,75,81": {
+		"previous": null,
+		"next": null,
+		"title": "Developer Highlight - Level Design [BTS] (October 2019) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,92,106": {
+		"previous": null,
+		"next": null,
+		"title": "New Community Manager - REVEALED (December 2019) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,109,111": {
+		"previous": null,
+		"next": null,
+		"title": "Alpha Keys - Simon Saga Ep. 13 [BTS] (February 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,128,135": {
+		"previous": null,
+		"next": null,
+		"title": "Studio Tour of Coffee Stain Studios (June 2019) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,148,153": {
+		"previous": null,
+		"next": null,
+		"title": "Coffee Stain are hiring a Community Manager! [BTS] (November 2018) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,173,191": {
+		"previous": null,
+		"next": null,
+		"title": "Update #2: Trains & Nuclear (July 2019) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,201,217": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Satisfactory exclusive to Epic Games Store (December 2018) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,237,241": {
+		"previous": null,
+		"next": null,
+		"title": "Studio Tour of Coffee Stain Studios (June 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,250,285": {
+		"previous": null,
+		"next": null,
+		"title": "Simon Saga Finale [BTS] (May 2019) (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,284,288": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Satisfactory exclusive to Epic Games Store (December 2018) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,292,305": {
+		"previous": null,
+		"next": null,
+		"title": "Developer Highlight - Level Design [BTS] (October 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,318,333": {
+		"previous": null,
+		"next": null,
+		"title": "Developer Highlight - Level Design [BTS] (October 2019) (Part 3)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,332,344": {
+		"previous": null,
+		"next": null,
+		"title": "Simon Saga Finale [BTS] (May 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,343,346": {
+		"previous": null,
+		"next": null,
+		"title": "New Community Manager - REVEALED (December 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-52nYaN8imgo,345,360": {
+		"previous": null,
+		"next": null,
+		"title": "Update #2: Trains & Nuclear (July 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-mtVwiCQ5sZI,47,63": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 1)",
+		"date": "2019-07-02"
+	},
+	"yt-mtVwiCQ5sZI,180,195": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 2)",
+		"date": "2019-07-02"
+	},
+	"yt-mtVwiCQ5sZI,201,209": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 3)",
+		"date": "2019-07-02"
+	},
+	"yt-mtVwiCQ5sZI,222,228": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 4)",
+		"date": "2019-07-02"
+	},
+	"yt-mtVwiCQ5sZI,261,277": {
+		"previous": null,
+		"next": null,
+		"title": "Sightseeing (Part 4)",
+		"date": "2019-07-02"
+	},
+	"yt-5bGcwfuMxS4,693,716": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Will 1.2 also have reworked Fluid simulation? (Part 1)",
+		"date": "2025-10-28"
+	},
+	"yt-5bGcwfuMxS4,716,765": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Did Mikael remember to change the clock this weekend? (Part 1)",
+		"date": "2025-10-28"
+	},
+	"yt-5bGcwfuMxS4,765,785": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Will 1.2 also have reworked Fluid simulation? (Part 2)",
+		"date": "2025-10-28"
+	},
+	"yt-5bGcwfuMxS4,797,824": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: Did Mikael remember to change the clock this weekend? (Part 2)",
+		"date": "2025-10-28"
+	},
+	"yt-7DWgWPlxhEo,21,67": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What are \"friends\"? (Part 1)",
+		"date": "2024-09-24"
+	},
+	"yt-7DWgWPlxhEo,108,120": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What are \"friends\"? (Part 2)",
+		"date": "2024-09-24"
+	},
+	"yt-Y5ExoEV-5uk,847,898": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What is Snutt going to do on vacation? (Part 1)",
+		"date": "2024-08-13"
+	},
+	"yt-Y5ExoEV-5uk,1204,1232": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What is Snutt going to do on vacation? (Part 2)",
+		"date": "2024-08-13"
+	},
+	"yt-05yuCDfceu4,0,143": {
+		"previous": null,
+		"next": null,
+		"title": "Muted (Part 1)",
+		"date": "2023-02-07"
+	},
+	"yt-05yuCDfceu4,143,288": {
+		"previous": null,
+		"next": null,
+		"title": "Muted (Part 2)",
+		"date": "2023-02-07"
+	},
+	"yt-qseJk3eyX90,115,237": {
+		"previous": null,
+		"next": null,
+		"title": "Update 6 Patches (Part 1)",
+		"date": "2022-08-30"
+	},
+	"yt-qseJk3eyX90,259,329": {
+		"previous": null,
+		"next": null,
+		"title": "Update 6 Patches (Part 2)",
+		"date": "2022-08-30"
+	},
+	"yt-qseJk3eyX90,824,832": {
+		"previous": null,
+		"next": null,
+		"title": "Update 6 Patches (Part 3)",
+		"date": "2022-08-30"
+	},
+	"yt-qseJk3eyX90,1010,1042": {
+		"previous": null,
+		"next": null,
+		"title": "Update 6 Patches (Part 4)",
+		"date": "2022-08-30"
+	},
+	"yt-22cjWQeYNnE,153,208": {
+		"previous": null,
+		"next": null,
+		"title": "Snutt's colour grading (Part 1)",
+		"date": "2022-07-05"
+	},
+	"yt-22cjWQeYNnE,232,303": {
+		"previous": null,
+		"next": null,
+		"title": "Snutt's colour grading (Part 2)",
+		"date": "2022-07-05"
+	},
+	"yt-LgKRbZadhyM,435,549": {
+		"previous": null,
+		"next": null,
+		"title": "Coffee Stain Vacations (Part 1)",
+		"date": "2022-07-05"
+	},
+	"yt-LgKRbZadhyM,685,708": {
+		"previous": null,
+		"next": null,
+		"title": "Coffee Stain Vacations (Part 2)",
+		"date": "2022-07-05"
+	},
+	"yt-VbnBqMSEsGk,52,60": {
+		"previous": null,
+		"next": null,
+		"title": "Known Issues (Part 1)",
+		"date": "2022-06-28"
+	},
+	"yt-VbnBqMSEsGk,308,560": {
+		"previous": null,
+		"next": null,
+		"title": "Known Issues (Part 2)",
+		"date": "2022-06-28"
+	},
+	"yt-Hk3kvpq7Ofo,457,568": {
+		"previous": null,
+		"next": null,
+		"title": "New Atmosphere system (Part 1)",
+		"date": "2022-06-07"
+	},
+	"yt-Hk3kvpq7Ofo,575,640": {
+		"previous": null,
+		"next": null,
+		"title": "New Atmosphere system (Part 2)",
+		"date": "2022-06-07"
+	},
+	"yt-FYTbjlXLFp4,1299,1464": {
+		"previous": null,
+		"next": null,
+		"title": "New Nobelisk Ammo Types (Part 1)",
+		"date": "2022-05-24"
+	},
+	"yt-FYTbjlXLFp4,1486,1522": {
+		"previous": null,
+		"next": null,
+		"title": "New Nobelisk Ammo Types (Part 2)",
+		"date": "2022-05-24"
+	},
+	"yt-FqhboAjAiYY,1391,1527": {
+		"previous": null,
+		"next": null,
+		"title": "First ‘80%’ island (Part 1)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,1628,1654": {
+		"previous": null,
+		"next": null,
+		"title": "First ‘80%’ island (Part 2)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,1910,2008": {
+		"previous": null,
+		"next": null,
+		"title": "Desert spires blockout & big foliage (Part 2)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,2345,2490": {
+		"previous": null,
+		"next": null,
+		"title": "Overview for during production (Part 2)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,2571,2579": {
+		"previous": null,
+		"next": null,
+		"title": "Setting up for insider tips (Part 1)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,2614,2651": {
+		"previous": null,
+		"next": null,
+		"title": "Setting up for insider tips (Part 2)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,3124,3264": {
+		"previous": null,
+		"next": null,
+		"title": "Oil nodes in Spire Coast have been moved (Part 1)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,3312,3415": {
+		"previous": null,
+		"next": null,
+		"title": "Oil nodes in Spire Coast have been moved (Part 2)",
+		"date": "2022-05-10"
+	},
+	"yt-FqhboAjAiYY,3312,3596": {
+		"previous": null,
+		"next": null,
+		"title": "Oil nodes in Spire Coast have been moved (Part 3)",
+		"date": "2022-05-10"
+	},
+	"yt-komFyjm03kg,1204,1336": {
+		"previous": null,
+		"next": null,
+		"title": "Creature Updates (Part 1)",
+		"date": "2022-04-26"
+	},
+	"yt-komFyjm03kg,1481,1489": {
+		"previous": null,
+		"next": null,
+		"title": "Creature Updates (Part 2)",
+		"date": "2022-04-26"
+	},
+	"yt-iw0CLqzO_vA,721,787": {
+		"previous": null,
+		"next": null,
+		"title": "Snutt & Mark Talk: Community alternatives to the Overclocking change (Part 1)",
+		"date": "2022-04-26"
+	},
+	"yt-iw0CLqzO_vA,815,869": {
+		"previous": null,
+		"next": null,
+		"title": "Snutt & Mark Talk: Community alternatives to the Overclocking change (Part 2)",
+		"date": "2022-04-26"
+	},
+	"yt-iw0CLqzO_vA,883,999": {
+		"previous": null,
+		"next": null,
+		"title": "Snutt & Mark Talk: Community alternatives to the Overclocking change (Part 3)",
+		"date": "2022-04-26"
+	},
+	"yt-Zrl4Opu8e98,39,57": {
+		"previous": null,
+		"next": null,
+		"title": "Lizard Doggo Kickstarter (Part 1)",
+		"date": "2022-03-15"
+	},
+	"yt-Zrl4Opu8e98,89,119": {
+		"previous": null,
+		"next": null,
+		"title": "Lizard Doggo Kickstarter (Part 2)",
+		"date": "2022-03-15"
+	},
+	"yt-OFgqrwb-_Y8,0,10": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What do you dislike most in Satisfactory? (Part 1)",
+		"date": "2022-03-08"
+	},
+	"yt-OFgqrwb-_Y8,55,84": {
+		"previous": null,
+		"next": null,
+		"title": "Q&A: What do you dislike most in Satisfactory? (Part 2)",
+		"date": "2022-03-08"
+	},
+	"yt-OFgqrwb-_Y8,405,488": {
+		"previous": null,
+		"next": null,
+		"title": "Balancing prioritisation of bugs & features for the diverse community (Part 1)",
+		"date": "2022-03-08"
+	},
+	"yt-OFgqrwb-_Y8,720,803": {
+		"previous": null,
+		"next": null,
+		"title": "Balancing prioritisation of bugs & features for the diverse community (Part 2)",
+		"date": "2022-03-08"
+	},
+	"yt-7nCntR0EE8g,0,50": {
+		"previous": null,
+		"next": null,
+		"title": "State of Dev: FICS⁕MAS 2021 (Part 1)",
+		"date": "2021-12-07"
+	},
+	"yt-7nCntR0EE8g,873,1060": {
+		"previous": null,
+		"next": null,
+		"title": "State of Dev: FICS⁕MAS 2021 (Part 2)",
+		"date": "2021-12-07"
+	},
+	"yt-YZz40TB-Yps,65,104": {
+		"previous": null,
+		"next": "yt-YZz40TB-Yps,110,160",
+		"title": "Dedicated Servers (Part 1)",
+		"date": "2021-11-16"
+	},
+	"yt-YZz40TB-Yps,110,160": {
+		"previous": "yt-YZz40TB-Yps,65,104",
+		"next": "yt-YZz40TB-Yps,160,232",
+		"title": "Dedicated Servers (Part 2)",
+		"date": "2021-11-16"
+	},
+	"yt-YZz40TB-Yps,160,232": {
+		"previous": "yt-YZz40TB-Yps,110,160",
+		"next": null,
+		"title": "Dedicated Servers (Part 3)",
+		"date": "2021-11-16"
 	}
 }
