@@ -247,8 +247,14 @@
 	},
 	"yt-XtLumwvoXls,214,232": {
 		"previous": "yt-XtLumwvoXls,0,215",
-		"next": null,
+		"next": "yt-pV_fYCOpw34,143,245",
 		"title": "Q&A: PC Crossplay with Consoles, maybe or never? (Part 2)",
+		"date": "2025-12-09"
+	},
+	"yt-rP7YheyIQ3g": {
+		"previous": "yt-zPy8gZ-n33I,61,72",
+		"next": null,
+		"title": "Q&A: Some Mod adds ability to use holograms to plan layout, any chance of adding that?",
 		"date": "2025-12-09"
 	},
 	"yt-XGX4HqoypQg,0,374": {
@@ -295,8 +301,20 @@
 	},
 	"yt-3_qMGf_ecMU,7,12": {
 		"previous": "yt-3_qMGf_ecMU,5,8",
-		"next": null,
+		"next": "yt-YZLryBB_Muw",
 		"title": "Q&A: When will we have Golf in the game? (Part 3)",
+		"date": "2025-12-09"
+	},
+	"yt-pV_fYCOpw34,143,245": {
+		"previous": "yt-XtLumwvoXls,214,232",
+		"next": null,
+		"title": "Q&A: Will there be crossplay between console and PC?",
+		"date": "2025-12-09"
+	},
+	"yt-YZLryBB_Muw": {
+		"previous": "yt-3_qMGf_ecMU,7,12",
+		"next": null,
+		"title": "Q&A: Will Unreal Engine 5 make it easier to add Golf?",
 		"date": "2025-12-09"
 	},
 	"yt-zPy8gZ-n33I,0,62": {
@@ -307,7 +325,7 @@
 	},
 	"yt-zPy8gZ-n33I,61,72": {
 		"previous": "yt-zPy8gZ-n33I,0,62",
-		"next": null,
+		"next": "yt-rP7YheyIQ3g",
 		"title": "Q&A: Would it be possible to place Building \"ghosts\" for ease of factory planning? (Part 2)",
 		"date": "2025-12-09"
 	},
@@ -413,6 +431,18 @@
 		"title": "Console Patches & Crashes (Part 4)",
 		"date": "2025-12-02"
 	},
+	"yt-P12elmeK-NU,12298,12305": {
+		"previous": "yt-TnEWrGdEKM0,67,75",
+		"next": null,
+		"title": "Q&A: 1.2, when?",
+		"date": "2025-12-02"
+	},
+	"yt-vB8Drt_Ybhw": {
+		"previous": "yt-7TCZm_nIZFU,4889,4943",
+		"next": null,
+		"title": "Q&A: Can we finally sleep in the HUB?",
+		"date": "2025-12-02"
+	},
 	"yt-7TCZm_nIZFU,1818,1825": {
 		"previous": null,
 		"next": "yt-7TCZm_nIZFU,2041,2047",
@@ -457,7 +487,7 @@
 	},
 	"yt-TnEWrGdEKM0,67,75": {
 		"previous": "yt-TnEWrGdEKM0,56,68",
-		"next": null,
+		"next": "yt-P12elmeK-NU,12298,12305",
 		"title": "Q&A: Is 1.2 going to come out this year? (Part 3)",
 		"date": "2025-12-02"
 	},
@@ -499,7 +529,7 @@
 	},
 	"yt-7TCZm_nIZFU,4889,4943": {
 		"previous": "yt-7TCZm_nIZFU,4840,4880",
-		"next": null,
+		"next": "yt-vB8Drt_Ybhw",
 		"title": "Q&A: Will there be an option to sleep in the HUB to skip the night? (Part 2)",
 		"date": "2025-12-02"
 	},
@@ -689,6 +719,12 @@
 		"title": "Q&A: I have 1000 hours in Satisfactory and I still haven't beaten it, what am I doing wrong? (Part 4)",
 		"date": "2025-11-11"
 	},
+	"yt-u0luyyAcFKM": {
+		"previous": "yt-gfGIx-hPelQ,7060,7071",
+		"next": null,
+		"title": "Q&A: Satisfactory & No Man's Sky?",
+		"date": "2025-11-11"
+	},
 	"yt-gZSF5EEu6Ik,0,30": {
 		"previous": null,
 		"next": "yt-gZSF5EEu6Ik,29,53",
@@ -763,7 +799,7 @@
 	},
 	"yt-gfGIx-hPelQ,7060,7071": {
 		"previous": "yt-gfGIx-hPelQ,6986,7047",
-		"next": null,
+		"next": "yt-u0luyyAcFKM",
 		"title": "Q&A: Where is the No Man's Sky Easter Egg? (Part 2)",
 		"date": "2025-11-11"
 	},
@@ -977,22 +1013,28 @@
 		"title": "Q&A: What is planned for after Console release? (Part 2)",
 		"date": "2025-11-04"
 	},
-	"yt-bycZQaaRlpY,0,31": {
+	"yt-y5R_R1nPBh0": {
 		"previous": null,
-		"next": "yt-bycZQaaRlpY,30,44",
-		"title": "Q&A: When will Consoles get 1.2?",
+		"next": "yt-LLin39alcrE,20,28",
+		"title": "Q&A: When can we expect Controller Support?",
 		"date": "2025-11-04"
 	},
 	"yt-bycZQaaRlpY,30,44": {
-		"previous": "yt-bycZQaaRlpY,0,31",
+		"previous": "yt-pV_fYCOpw34,422,438",
 		"next": "yt-bycZQaaRlpY,43,53",
 		"title": "Q&A: When will Consoles get 1.2? (Part 2)",
 		"date": "2025-11-04"
 	},
 	"yt-bycZQaaRlpY,43,53": {
 		"previous": "yt-bycZQaaRlpY,30,44",
-		"next": null,
+		"next": "yt-pV_fYCOpw34,422,438",
 		"title": "Q&A: When will Consoles get 1.2? (Part 3)",
+		"date": "2025-11-04"
+	},
+	"yt-pV_fYCOpw34,422,438": {
+		"previous": "yt-bycZQaaRlpY,43,53",
+		"next": null,
+		"title": "Q&A: Will updates come out simultaneously on console and PC?",
 		"date": "2025-11-04"
 	},
 	"yt-P12elmeK-NU,5652,5805": {
@@ -3983,14 +4025,14 @@
 		"title": "Sightseeing (Part 5)",
 		"date": "2019-07-02"
 	},
-	"yt-Gx8ilz44pJU": {
+	"yt-Gx8ilz44pJU,0,38": {
 		"previous": null,
-		"next": "yt-VQp2sry-iDQ",
+		"next": "yt-VQp2sry-iDQ,0,17",
 		"title": "Q&A: Are you going to add Ansel support for HD photos? (Part 1)",
 		"date": "2019-03-09"
 	},
-	"yt-VQp2sry-iDQ": {
-		"previous": "yt-Gx8ilz44pJU",
+	"yt-VQp2sry-iDQ,0,17": {
+		"previous": "yt-Gx8ilz44pJU,0,38",
 		"next": null,
 		"title": "Q&A: Are you going to add Ansel support for HD photos? (Part 2)",
 		"date": "2019-03-09"
