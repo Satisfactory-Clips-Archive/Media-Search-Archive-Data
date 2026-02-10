@@ -81211,6 +81211,7 @@
 			"satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer"
 		],
 		"seealso": [
+			"yt-3wSiuQBeR3I,1121,1126",
 			"yt-UorZy7iZ6jY"
 		],
 		"seealso_video_cards": [
@@ -111365,6 +111366,10 @@
 			"coffee-stainers/simon/simon-saga"
 		],
 		"seealso": [
+			"yt-3wSiuQBeR3I,5836,5845",
+			"yt-3wSiuQBeR3I,5844,5854",
+			"yt-3wSiuQBeR3I,6000,6010",
+			"yt-3wSiuQBeR3I,6512,6555",
 			"yt-1SJA0S2IagA",
 			"yt-diuFSFaPAJ4",
 			"yt-KwsiVfRUKNE",
@@ -119212,6 +119217,7 @@
 			"story-and-lore"
 		],
 		"seealso": [
+			"yt-3wSiuQBeR3I,5340,5351",
 			"yt-1SJA0S2IagA",
 			"yt-E9cvnFnfm0M",
 			"yt-hCcT5uhzwso",
@@ -127227,6 +127233,7 @@
 			"technology/graphics"
 		],
 		"seealso": [
+			"yt-3wSiuQBeR3I,6431,6443",
 			"yt-3cixlEu3bAw"
 		],
 		"legacyalts": [
@@ -131466,6 +131473,90 @@
 		],
 		"seealso_video_cards": [
 			"EhcBjLjLjUY"
+		]
+	},
+	"yt-3wSiuQBeR3I,1121,1126": {
+		"title": "Q&A: Will there be a trailer for Update 3?",
+		"date": "2019-12-19",
+		"topics": [
+			"satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer"
+		],
+		"seealso": [
+			"yt-HV7IYO4GdOk"
+		]
+	},
+	"yt-3wSiuQBeR3I,2019,2026": {
+		"title": "Q&A: Can you slap Jace?",
+		"date": "2019-12-19",
+		"topics": [
+			"coffee-stainers/jace"
+		]
+	},
+	"yt-3wSiuQBeR3I,5340,5351": {
+		"title": "Q&A: Does Hannah have a sister?",
+		"date": "2019-12-19",
+		"topics": [
+			"coffee-stainers/hannah"
+		],
+		"seealso": [
+			"yt-KwsiVfRUKNE"
+		]
+	},
+	"yt-3wSiuQBeR3I,5836,5845": {
+		"title": "Q&A: Simon looks like Elon Musk?",
+		"date": "2019-12-19",
+		"topics": [
+			"coffee-stainers/simon"
+		],
+		"seealso": [
+			"yt-MQSdhIKAjNc"
+		]
+	},
+	"yt-3wSiuQBeR3I,5844,5854": {
+		"title": "Q&A: Simon ate all the polygons?",
+		"date": "2019-12-19",
+		"topics": [
+			"coffee-stainers/simon"
+		],
+		"seealso": [
+			"yt-MQSdhIKAjNc"
+		]
+	},
+	"yt-3wSiuQBeR3I,6000,6010": {
+		"title": "Q&A: Did Simon make the VFX for his muscles?",
+		"date": "2019-12-19",
+		"topics": [
+			"coffee-stainers/simon"
+		],
+		"seealso": [
+			"yt-MQSdhIKAjNc"
+		]
+	},
+	"yt-3wSiuQBeR3I,6431,6443": {
+		"title": "Q&A: Are we making Hyperloops?",
+		"date": "2019-12-19",
+		"topics": [
+			"features/transportation/hypertubes"
+		],
+		"seealso": [
+			"yt-BmSeFBv2rAQ"
+		]
+	},
+	"yt-3wSiuQBeR3I,6493,6500": {
+		"title": "Q&A: Miner Mk.100?",
+		"date": "2019-12-19",
+		"topics": [
+			"features/buildings/miner"
+		]
+	},
+	"yt-3wSiuQBeR3I,6512,6555": {
+		"title": "Q&A: Does Simon have long-term plans?",
+		"date": "2019-12-19",
+		"topics": [
+			"coffee-stainers/simon"
+		],
+		"seealso": [
+			"yt-MQSdhIKAjNc"
 		]
 	},
 	"yt-TFg_ppmX8OE": {
