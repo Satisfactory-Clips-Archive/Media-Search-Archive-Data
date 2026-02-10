@@ -3893,6 +3893,12 @@
 		"title": "Snutt & Jace Talk: Semlor (Part 2)",
 		"date": "2020-02-11"
 	},
+	"yt-3wSiuQBeR3I,911,967": {
+		"previous": "yt-3wSiuQBeR3I,384,733",
+		"next": null,
+		"title": "2019 Rewind: Simon Saga (Part 2)",
+		"date": "2019-12-19"
+	},
 	"yt-52nYaN8imgo,37,46": {
 		"previous": null,
 		"next": "yt-52nYaN8imgo,109,111",
@@ -3935,6 +3941,18 @@
 		"title": "Developer Highlight - Level Design [BTS] (October 2019) (Part 3)",
 		"date": "2019-12-19"
 	},
+	"yt-3wSiuQBeR3I,3347,3877": {
+		"previous": null,
+		"next": "yt-3wSiuQBeR3I,4402,4866",
+		"title": "Early Access Reviews & Social Media (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-3wSiuQBeR3I,4402,4866": {
+		"previous": "yt-3wSiuQBeR3I,3347,3877",
+		"next": null,
+		"title": "Early Access Reviews & Social Media (Part 2)",
+		"date": "2019-12-19"
+	},
 	"yt-52nYaN8imgo,92,106": {
 		"previous": null,
 		"next": "yt-52nYaN8imgo,343,346",
@@ -3945,6 +3963,18 @@
 		"previous": "yt-52nYaN8imgo,92,106",
 		"next": null,
 		"title": "New Community Manager - REVEALED (December 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-3wSiuQBeR3I,1128,1212": {
+		"previous": null,
+		"next": "yt-3wSiuQBeR3I,1354,1374",
+		"title": "Parody Trailer (Part 1)",
+		"date": "2019-12-19"
+	},
+	"yt-3wSiuQBeR3I,1354,1374": {
+		"previous": "yt-3wSiuQBeR3I,1128,1212",
+		"next": null,
+		"title": "Parody Trailer (Part 2)",
 		"date": "2019-12-19"
 	},
 	"yt-52nYaN8imgo,201,217": {
@@ -3969,6 +3999,12 @@
 		"previous": "yt-52nYaN8imgo,250,285",
 		"next": null,
 		"title": "Simon Saga Finale [BTS] (May 2019) (Part 2)",
+		"date": "2019-12-19"
+	},
+	"yt-3wSiuQBeR3I,384,733": {
+		"previous": null,
+		"next": "yt-3wSiuQBeR3I,911,967",
+		"title": "Simon Saga (Part 1)",
 		"date": "2019-12-19"
 	},
 	"yt-52nYaN8imgo,128,135": {
