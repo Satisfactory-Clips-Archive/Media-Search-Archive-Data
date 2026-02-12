@@ -2694,6 +2694,9 @@
 			"coffee-stainers/jace",
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
+		],
+		"seealso": [
+			"yt-2hb_I_nZmKA,23,85"
 		]
 	},
 	"yt-2hb_I_nZmKA,102,155": {
@@ -2703,6 +2706,9 @@
 			"coffee-stainers/jace",
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
+		],
+		"seealso": [
+			"yt-2hb_I_nZmKA,23,85"
 		]
 	},
 	"yt-2hb_I_nZmKA,23,85": {
@@ -2712,6 +2718,48 @@
 			"coffee-stainers/jace",
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
+		],
+		"duplicates": [
+			"yt-2hb_I_nZmKA"
+		],
+		"replaces": [
+			"yt-R18ynm52JKU,179,189",
+			"yt-7VSFqc8mD1s,0,53",
+			"yt-bz1zVnhNaHs",
+			"yt-I35ydhi-bvY",
+			"yt-jn7n_ZS_xlM",
+			"yt-i-NoVpZsHS0",
+			"yt-i8-Bm9QidFw",
+			"yt-fX8aYh6eokw",
+			"yt-bkjIZH7adWI",
+			"yt-DRVyx1w9oNc",
+			"yt-Z6bo0pjYghk,5794,5808",
+			"yt-i-9UAyVFe6s",
+			"yt-3KRCUE3VOxE",
+			"yt-UKot9dXEPXk",
+			"yt-Kf33x3tiM5w",
+			"yt-tO60WajNJis",
+			"yt-_wKUYaG0Hwc",
+			"yt-vrBRxuX6YyA",
+			"yt-5hha6bAuTTc",
+			"yt-cF3QleeEiJo,6652,6680",
+			"yt-scxr_vl9Pzk",
+			"yt-bthe_Dhs6uo",
+			"yt-Gi08SVnHyLU",
+			"yt-rATcozDE25c,435,477",
+			"yt-9tNel2ksYnI",
+			"yt-G8K0Bjs8mNo",
+			"yt-iFAy1NZUOGU,119,132"
+		],
+		"seealso": [
+			"yt-nHJx0kcBEJ0",
+			"yt-2hb_I_nZmKA,23,85",
+			"yt-2hb_I_nZmKA,102,155",
+			"yt-2hb_I_nZmKA,85,102",
+			"yt-bhf3YRjYqEo",
+			"yt-Af1ZflWKJoU",
+			"yt-wMol1AoQSFQ",
+			"yt-NlIVwoRqjVk,301,347"
 		]
 	},
 	"yt-2hb_I_nZmKA,85,102": {
@@ -2721,6 +2769,9 @@
 			"coffee-stainers/jace",
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
+		],
+		"seealso": [
+			"yt-2hb_I_nZmKA,23,85"
 		]
 	},
 	"yt-FI5ICUZq9Js,0,77": {
@@ -2734,6 +2785,9 @@
 			"retail/epic-store",
 			"retail/steam-store",
 			"satisfactory-updates/released/satisfactory-1-0"
+		],
+		"seealso": [
+			"yt-ITDYIhBGkuY"
 		]
 	},
 	"yt-H1s0R2x_kcw,0,92": {
@@ -2975,7 +3029,8 @@
 		"topics": [
 			"coffee-stainers/snutt",
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-wYPvm8vtAR8,0,25": {
 		"title": "Q&A: Can we expect a video every Friday until release?",
@@ -3904,7 +3959,8 @@
 			"features/achievements",
 			"features/power-management/nuclear-energy/nuclear-refinement",
 			"satisfactory-updates/released/satisfactory-1-0"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-FPiG_ZQ6_xM,446,460": {
 		"title": "Q&A: Will the Game Jam showcase be uploaded to YouTube?",
@@ -19978,6 +20034,9 @@
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0",
 			"satisfactory-updates/seasonal-events/fics-mas"
+		],
+		"seealso": [
+			"yt-2hb_I_nZmKA,23,85"
 		]
 	},
 	"yt-P1B7IcN2llw": {
@@ -20773,6 +20832,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
+			"yt-bpB_wN_XvmU",
 			"yt-6Vvxo_u7hFI",
 			"yt-Fp9u4EHUn9k"
 		]
@@ -23276,6 +23336,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
+			"yt-bpB_wN_XvmU",
 			"yt-4E4MdxgnbnI",
 			"yt-FI5ICUZq9Js,0,77"
 		]
@@ -23423,10 +23484,14 @@
 			"features/game-modes/ags",
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
+		"replaces": [
+			"yt-GeKE40L2cSw,3145,3213"
+		],
 		"duplicates": [
 			"yt-OZJ6793RiO8"
 		],
 		"seealso": [
+			"yt-4E4MdxgnbnI",
 			"yt-Fp9u4EHUn9k",
 			"yt-pSp4N4sOYiE",
 			"yt-X-R9rBcbHTo"
@@ -24596,7 +24661,8 @@
 			"coffee-stainers/jace",
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
-		]
+		],
+		"duplicatedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-LOHfVt_OKTA": {
 		"title": "Q&A: Can you confirm if we can connect the Toilet to Biomass Burners?",
@@ -25621,8 +25687,13 @@
 			"features/multiplayer",
 			"mods"
 		],
+		"duplicates": [
+			"yt-6Vvxo_u7hFI"
+		],
 		"seealso": [
-			"yt-FI5ICUZq9Js,0,77"
+			"yt-FI5ICUZq9Js,0,77",
+			"yt-4E4MdxgnbnI",
+			"yt-pSp4N4sOYiE"
 		]
 	},
 	"yt-CrUUovTiQ4g": {
@@ -25681,6 +25752,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
+			"yt-ITDYIhBGkuY",
 			"yt-7oXGGBuq4Gc"
 		]
 	},
@@ -26330,7 +26402,8 @@
 			"retail/epic-store",
 			"retail/steam-store",
 			"satisfactory-updates/released/satisfactory-1-0"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-PuzHXNX9uJc": {
 		"title": "Q&A: What happens with Paradise Island & the World Border in 1.0?",
@@ -26944,10 +27017,7 @@
 			"mods",
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
-		"seealso": [
-			"yt-4E4MdxgnbnI",
-			"yt-pSp4N4sOYiE"
-		]
+		"duplicatedby": "yt-JtqRgRaKo3g"
 	},
 	"yt-6cenmsBsto0": {
 		"title": "Q&A: What's Snutt's golf handicap?",
@@ -27648,6 +27718,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
+			"yt-2hb_I_nZmKA,23,85",
 			"yt-wMol1AoQSFQ"
 		]
 	},
@@ -27969,6 +28040,9 @@
 		"topics": [
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
+		],
+		"seealso": [
+			"yt-2hb_I_nZmKA,23,85"
 		]
 	},
 	"yt-9DmkB1wtmcg": {
@@ -28626,7 +28700,8 @@
 		"topics": [
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-sEnVY-q_M2k": {
 		"title": "Q&A: When will Coffee Stain's website be back up again?",
@@ -28730,6 +28805,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
+			"yt-rAtEL04GAhM",
 			"yt-FI5ICUZq9Js,0,77"
 		]
 	},
@@ -30810,7 +30886,8 @@
 		"topics": [
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-I1mbAHhkIfE": {
 		"title": "Q&A: Since Virtual Shadow Maps are production-ready in 5.3, has your position changed?",
@@ -32266,7 +32343,10 @@
 			"retail/early-access",
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
-		"replacedby": "yt-AzLgvhU4TWk"
+		"replacedby": "yt-AzLgvhU4TWk",
+		"seealso": [
+			"yt-Af1ZflWKJoU"
+		]
 	},
 	"yt-rqIU_JtNSe4": {
 		"title": "Q&A: Will the fix for Ultrawide screen Y aspect ratio be in 1.0 or before?",
@@ -35465,6 +35545,7 @@
 			"features/achievements"
 		],
 		"seealso": [
+			"yt-2hb_I_nZmKA,23,85",
 			"yt-FI5ICUZq9Js,0,77"
 		]
 	},
@@ -37769,7 +37850,8 @@
 		"topics": [
 			"features/achievements",
 			"satisfactory-updates/released/satisfactory-1-0"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-pi_CaLSzx1c": {
 		"title": "Q&A: How big container work?",
@@ -44587,7 +44669,8 @@
 		],
 		"seealso": [
 			"yt-FI5ICUZq9Js,0,77"
-		]
+		],
+		"replacedby": "yt-bpB_wN_XvmU"
 	},
 	"yt-GeKE40L2cSw,3217,3332": {
 		"title": "Q&A: Who can play Experimental?",
@@ -48994,7 +49077,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-iXXKcGnlW7I": {
 		"title": "Q&A: Swatch labels?",
@@ -49371,7 +49455,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-luIiJ-935TU": {
 		"title": "Q&A: Video this Friday?",
@@ -51130,7 +51215,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-ccnVx6a3P2A": {
 		"title": "Q&A: Can we ask for the next game after Satisfactory on the QA Site?",
@@ -62718,7 +62804,8 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT",
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-teYWjHHxeBU": {
 		"title": "Q&A: Will there be Mk.6 Belts?",
@@ -64626,7 +64713,8 @@
 		"date": "2022-06-14",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-Z6bo0pjYghk,8276,8294": {
 		"title": "Q&A: Did we ever get around to adding so you can turn Rain off?",
@@ -72798,7 +72886,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-aArVqGLCABg": {
 		"title": "Q&A: What do you consider \"finishing the game\"?",
@@ -75538,7 +75627,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-DYb3hFnv9iA": {
 		"title": "Q&A: Why doesn't Snutt have a strong accent?",
@@ -78535,7 +78625,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-6Trsm-es3TQ": {
 		"title": "Q&A: Dedicated Servers don't show up in my Steam Library, is it a regional thing?",
@@ -84247,7 +84338,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-uJ5CvJE_DgE": {
 		"title": "Q&A: Is a helpful description like \"I played the game\" good enough?",
@@ -87773,7 +87865,8 @@
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK",
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT",
 			"PLbjDnnBIxiEoRw9O4Lx_d3-RNK0Grlm1c"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-jEt3dU9LTw4": {
 		"title": "Q&A: 1.0 at 5000 Upvotes",
@@ -90770,7 +90863,8 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT",
 			"PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-476NXSQVuK0": {
 		"title": "Q&A: How is Jace feeling?",
@@ -97016,7 +97110,8 @@
 		"topics": [
 			"features/achievements",
 			"features/buildings/space-elevator"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-V96viZIrKfQ": {
 		"title": "Q&A: Do you do any work outside of the streams?",
@@ -105044,7 +105139,8 @@
 		"date": "2021-04-20",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-kd-VVREKHLE": {
 		"title": "Q&A: Why did the anti-spider mode went off?",
@@ -105872,7 +105968,8 @@
 		"date": "2021-04-13",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-cF3QleeEiJo,6681,6699": {
 		"title": "Q&A: Train Collision?",
@@ -111914,7 +112011,8 @@
 		"date": "2021-02-16",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-8pFxd37RLxk": {
 		"title": "Q&A: What's the point of batteries if we don't have variable power?",
@@ -118171,6 +118269,7 @@
 			"trolling"
 		],
 		"seealso": [
+			"yt-2hb_I_nZmKA,23,85",
 			"yt-FI5ICUZq9Js,0,77",
 			"yt-nHJx0kcBEJ0"
 		],
@@ -119488,7 +119587,8 @@
 		"date": "2020-11-10",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-eTALbWgKmuE": {
 		"title": "Q&A: Randomising nodes?",
@@ -120402,7 +120502,8 @@
 		"date": "2020-11-03",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-gZoINqh_HAY": {
 		"title": "Q&A: Can you give us a hint about the Story of the game?",
@@ -122978,7 +123079,8 @@
 		"seealso_video_cards": [
 			"8WYNwGDLYNE",
 			"PkozY8_q-LE"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-rATcozDE25c,476,528": {
 		"title": "Q&A: Can we use Turbofuel in Jetpacks?",
@@ -123574,7 +123676,8 @@
 		"date": "2020-09-29",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-P1hgqMJ8MW0": {
 		"title": "Q&A: Can we get Signs in the game?",
@@ -129802,6 +129905,9 @@
 			"W_lmP8jYVLs",
 			"fI7gnbG4Omk",
 			"mci92Mhr7MM"
+		],
+		"seealso": [
+			"yt-2hb_I_nZmKA,23,85"
 		]
 	},
 	"yt-NlIVwoRqjVk,346,369": {
@@ -130546,7 +130652,8 @@
 		"date": "2020-03-24",
 		"topics": [
 			"features/achievements"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-fKXR3PibLLA": {
 		"title": "Q&A: Will the Steam release make reliability better?",
@@ -136877,7 +136984,8 @@
 		"seealso_video_cards": [
 			"IxoCzb2M0vQ",
 			"7gRGSXP0rW4"
-		]
+		],
+		"replacedby": "yt-2hb_I_nZmKA,23,85"
 	},
 	"yt-iFAy1NZUOGU,131,148": {
 		"title": "Q&A: Did the Vehicle dev blog cover everything?",
