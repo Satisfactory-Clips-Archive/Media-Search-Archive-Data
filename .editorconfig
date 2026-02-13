@@ -14,7 +14,3 @@ insert_final_newline = true
 [package.json]
 indent_style = space
 indent_size = 2
-
-[data/q-and-a.json]
-indent_style = space
-insert_final_newline = false
