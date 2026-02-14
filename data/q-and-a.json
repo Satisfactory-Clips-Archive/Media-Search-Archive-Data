@@ -5,6 +5,20 @@
 		"topics": [
 			"features/console-release",
 			"satisfactory-updates/released/satisfactory-1-1"
+		],
+		"duplicates": [
+			"yt-LLin39alcrE,0,21",
+			"yt-y5R_R1nPBh0"
+		],
+		"seealso": [
+			"yt-08JEBD_T4sQ",
+			"yt-cTZvROaidxs",
+			"yt-DQxndN9GK7A",
+			"yt-MeYcK2YzY8M",
+			"yt-oCeSMJTKKJk",
+			"yt-VVaEjrUaDEk",
+			"yt-P12elmeK-NU,7355,7587",
+			"yt-iYdsu6EvK_Q"
 		]
 	},
 	"yt-xKwbVWqUKVg,0,53": {
@@ -1993,19 +2007,7 @@
 			"features/console-release",
 			"satisfactory-updates/released/satisfactory-1-1"
 		],
-		"duplicates": [
-			"yt-y5R_R1nPBh0"
-		],
-		"seealso": [
-			"yt-08JEBD_T4sQ",
-			"yt-cTZvROaidxs",
-			"yt-DQxndN9GK7A",
-			"yt-MeYcK2YzY8M",
-			"yt-oCeSMJTKKJk",
-			"yt-VVaEjrUaDEk",
-			"yt-P12elmeK-NU,7355,7587",
-			"yt-iYdsu6EvK_Q"
-		]
+		"duplicatedby": "yt-ff7kc51OUeg,4589,4603"
 	},
 	"yt-z7kliqAEbBc,0,47": {
 		"title": "Q&A: Samsung Fridge release, when?",
@@ -9150,7 +9152,7 @@
 			"yt-iVDRQg_aWpU,5443,5463",
 			"yt-_fW8GWaWWFM,0,138"
 		],
-		"duplicatedby": "yt-LLin39alcrE,0,21"
+		"duplicatedby": "yt-ff7kc51OUeg,4589,4603"
 	},
 	"yt-Cqk7uJacl_Y": {
 		"title": "Q&A: Why did the game get ported to Console?",
