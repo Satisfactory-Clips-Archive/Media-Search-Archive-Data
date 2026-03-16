@@ -1,80 +1,45 @@
 [
 	{
-		"id": "yt-5W4FvGgfLwA,130,181",
-		"previous": "yt-8lBuwhJ_dic,1347,1493",
+		"id": "yt-8lBuwhJ_dic,1347,1493",
+		"previous": null,
+		"next": "yt-5W4FvGgfLwA,150,202",
+		"date": "2026-03-10",
+		"title": "1.2 coming to Experimental next week (Part 1)"
+	},
+	{
+		"id": "yt-5W4FvGgfLwA,150,202",
+		"previous": null,
 		"next": null,
 		"date": "2026-03-10",
 		"title": "1.2 coming to Experimental next week (Part 2)"
 	},
 	{
-		"id": "yt-8lBuwhJ_dic,1347,1493",
-		"previous": null,
-		"next": "yt-5W4FvGgfLwA,130,181",
-		"date": "2026-03-10",
-		"title": "1.2 coming to Experimental next week (Part 1)"
-	},
-	{
 		"id": "yt-8lBuwhJ_dic,2003,2700",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,1120,1158",
+		"next": "yt-8lBuwhJ_dic,2858,2896",
 		"date": "2026-03-10",
 		"title": "Mikael Talk: Bug Fixes (Part 1)"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,2858,2896",
-		"previous": null,
+		"previous": "yt-8lBuwhJ_dic,2003,2700",
 		"next": null,
 		"title": "Mikael Talk: Bug Fixes (Part 2)",
 		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,930,970",
+		"id": "yt-5W4FvGgfLwA,993,1034",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,971,1078",
-		"date": "2026-03-10",
-		"title": "Drones randomly stalling (Part 1)"
+		"next": "yt-5W4FvGgfLwA,1034,1142",
+		"title": "Drones randomly stalling (Part 1)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,971,1078",
-		"previous": "yt-5W4FvGgfLwA,930,970",
+		"id": "yt-5W4FvGgfLwA,1034,1142",
+		"previous": "yt-5W4FvGgfLwA,993,1034",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Drones randomly stalling (Part 2)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1120,1158",
-		"previous": null,
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Hoverpack can cause factories to stall due to interaction with Power Switches"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1120,1158",
-		"previous": null,
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Hoverpack can cause factories to stall due to interaction with Power Switches"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1120,1158",
-		"previous": "yt-8lBuwhJ_dic,2003,2700",
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Hoverpack can cause factories to stall due to interaction with Power Switches"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1120,1158",
-		"previous": "yt-8lBuwhJ_dic,2003,2700",
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Hoverpack can cause factories to stall due to interaction with Power Switches"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1120,1158",
-		"previous": "yt-8lBuwhJ_dic,2003,2700",
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Hoverpack can cause factories to stall due to interaction with Power Switches"
+		"title": "Drones randomly stalling (Part 2)",
+		"date": "2026-03-10"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,909,940",
@@ -91,95 +56,60 @@
 		"title": "Mikael Talk: Not Sponsored™️ (Part 2)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,708,721",
+		"id": "yt-5W4FvGgfLwA,772,784",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,726,777",
-		"date": "2026-03-10",
-		"title": "Playground rumours (Part 1)"
+		"next": "yt-5W4FvGgfLwA,790,840",
+		"title": "Playground rumours (Part 1)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,726,777",
-		"previous": null,
-		"next": "yt-5W4FvGgfLwA,708,721",
-		"date": "2026-03-10",
-		"title": "Playground rumours (Part 2)"
+		"id": "yt-5W4FvGgfLwA,790,840",
+		"previous": "yt-5W4FvGgfLwA,772,784",
+		"next": null,
+		"title": "Playground rumours (Part 2)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,122,131",
+		"id": "yt-5W4FvGgfLwA,143,151",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,180,186",
+		"next": "yt-5W4FvGgfLwA,201,207",
 		"date": "2026-03-10",
 		"title": "Q&A: 1.3, when? (Part 1)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,180,186",
-		"previous": "yt-5W4FvGgfLwA,122,131",
-		"next": "yt-5W4FvGgfLwA,1077,1110",
+		"id": "yt-5W4FvGgfLwA,201,207",
+		"previous": "yt-5W4FvGgfLwA,143,151",
+		"next": "yt-5W4FvGgfLwA,1141,1174",
 		"date": "2026-03-10",
 		"title": "Q&A: 1.3, when? (Part 2)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1077,1110",
-		"previous": "yt-5W4FvGgfLwA,180,186",
+		"id": "yt-5W4FvGgfLwA,1141,1174",
+		"previous": "yt-5W4FvGgfLwA,201,207",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: 1.3, when? (Part 3)"
+		"title": "Q&A: 1.3, when? (Part 3)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1077,1110",
-		"previous": "yt-8lBuwhJ_dic,1997,2700",
-		"next": "yt-8lBuwhJ_dic,2829,3043",
-		"date": "2026-03-10",
-		"title": "Q&A: 1.3, when? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1077,1110",
-		"previous": "yt-8lBuwhJ_dic,1997,2700",
-		"next": "yt-8lBuwhJ_dic,2829,3043",
-		"date": "2026-03-10",
-		"title": "Q&A: 1.3, when? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1077,1110",
-		"previous": "yt-8lBuwhJ_dic,1997,2700",
-		"next": "yt-8lBuwhJ_dic,2829,3043",
-		"date": "2026-03-10",
-		"title": "Q&A: 1.3, when? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1077,1110",
+		"id": "yt-5W4FvGgfLwA,117,144",
 		"previous": null,
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: 1.3, when? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,1077,1110",
-		"previous": null,
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: 1.3, when? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,96,123",
-		"previous": null,
-		"next": "yt-5W4FvGgfLwA,1316,1344",
+		"next": "yt-5W4FvGgfLwA,1380,1407",
 		"date": "2026-03-10",
 		"title": "Q&A: Any more Mods coming in 1.2? (Part 1)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1316,1344",
-		"previous": "yt-5W4FvGgfLwA,96,123",
-		"next": "yt-5W4FvGgfLwA,1343,1361",
-		"date": "2026-03-10",
-		"title": "Q&A: Any more Mods coming in 1.2? (Part 2)"
+		"id": "yt-5W4FvGgfLwA,1380,1407",
+		"previous": "yt-5W4FvGgfLwA,117,144",
+		"next": "yt-5W4FvGgfLwA,1406,1424",
+		"title": "Q&A: Any more Mods coming in 1.2? (Part 2)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1343,1361",
-		"previous": "yt-5W4FvGgfLwA,1316,1344",
+		"id": "yt-5W4FvGgfLwA,1406,1424",
+		"previous": "yt-5W4FvGgfLwA,1380,1407",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: Any more Mods coming in 1.2? (Part 3)"
+		"title": "Q&A: Any more Mods coming in 1.2? (Part 3)",
+		"date": "2026-03-10"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,5907,5959",
@@ -280,95 +210,67 @@
 		"title": "Q&A: What do the green slugs mean? (Part 2)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,382,417",
+		"id": "yt-5W4FvGgfLwA,403,437",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,776,802",
+		"next": "yt-5W4FvGgfLwA,839,865",
 		"date": "2026-03-10",
 		"title": "Q&A: What do you think about the coffee cup race event? (Part 1)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,776,802",
-		"previous": "yt-5W4FvGgfLwA,382,417",
+		"id": "yt-5W4FvGgfLwA,839,865",
+		"previous": "yt-5W4FvGgfLwA,403,437",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: What do you think about the coffee cup race event? (Part 2)"
+		"title": "Q&A: What do you think about the coffee cup race event? (Part 2)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,55,97",
+		"id": "yt-5W4FvGgfLwA,76,118",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,416,435",
+		"next": "yt-5W4FvGgfLwA,436,456",
 		"date": "2026-03-10",
 		"title": "Q&A: When will 1.2 land on EXP? (Part 1)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,416,435",
-		"previous": "yt-5W4FvGgfLwA,55,97",
-		"next": "yt-5W4FvGgfLwA,434,464",
+		"id": "yt-5W4FvGgfLwA,436,456",
+		"previous": "yt-5W4FvGgfLwA,76,118",
+		"next": "yt-5W4FvGgfLwA,455,484",
 		"date": "2026-03-10",
 		"title": "Q&A: When will 1.2 land on EXP? (Part 2)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,434,464",
-		"previous": "yt-8lBuwhJ_dic,1685,1938",
-		"next": "yt-8lBuwhJ_dic,1997,2700",
+		"id": "yt-5W4FvGgfLwA,455,484",
+		"previous": "yt-5W4FvGgfLwA,436,456",
+		"next": "yt-5W4FvGgfLwA,483,490",
 		"date": "2026-03-10",
 		"title": "Q&A: When will 1.2 land on EXP? (Part 3)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,434,464",
-		"previous": "yt-8lBuwhJ_dic,1685,1938",
-		"next": "yt-8lBuwhJ_dic,1997,2700",
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,434,464",
-		"previous": "yt-8lBuwhJ_dic,1685,1938",
-		"next": "yt-8lBuwhJ_dic,1997,2700",
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,434,464",
-		"previous": null,
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,434,464",
-		"previous": null,
-		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 3)"
-	},
-	{
-		"id": "yt-5W4FvGgfLwA,463,470",
-		"previous": "yt-5W4FvGgfLwA,434,464",
-		"next": "yt-5W4FvGgfLwA,1302,1307",
+		"id": "yt-5W4FvGgfLwA,483,490",
+		"previous": "yt-5W4FvGgfLwA,455,484",
+		"next": "yt-5W4FvGgfLwA,1365,1370",
 		"date": "2026-03-10",
 		"title": "Q&A: When will 1.2 land on EXP? (Part 4)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1302,1307",
-		"previous": "yt-5W4FvGgfLwA,463,470",
-		"next": "yt-5W4FvGgfLwA,1306,1317",
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 5)"
+		"id": "yt-5W4FvGgfLwA,1365,1370",
+		"previous": "yt-5W4FvGgfLwA,483,490",
+		"next": "yt-5W4FvGgfLwA,1369,1381",
+		"title": "Q&A: When will 1.2 land on EXP? (Part 5)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1306,1317",
-		"previous": "yt-5W4FvGgfLwA,1302,1307",
-		"next": "yt-5W4FvGgfLwA,1995,2012",
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 6)"
+		"id": "yt-5W4FvGgfLwA,1369,1381",
+		"previous": "yt-5W4FvGgfLwA,1365,1370",
+		"next": "yt-5W4FvGgfLwA,2058,2075",
+		"title": "Q&A: When will 1.2 land on EXP? (Part 6)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1995,2012",
-		"previous": "yt-5W4FvGgfLwA,1306,1317",
+		"id": "yt-5W4FvGgfLwA,2058,2075",
+		"previous": "yt-5W4FvGgfLwA,1369,1381",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: When will 1.2 land on EXP? (Part 7)"
+		"title": "Q&A: When will 1.2 land on EXP? (Part 7)",
+		"date": "2026-03-10"
 	},
 	{
 		"id": "yt-uxtnG2Lw5LE,0,33",
@@ -385,32 +287,32 @@
 		"title": "Q&A: When will native Linux come? (Part 2)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1591,1683",
+		"id": "yt-5W4FvGgfLwA,1655,1746",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,1682,1685",
-		"date": "2026-03-10",
-		"title": "Q&A: Why did you guys update from Unreal Engine 5.3.2 to 5.6.1? (Part 1)"
+		"next": "yt-5W4FvGgfLwA,1745,1748",
+		"title": "Q&A: Why did you guys update from Unreal Engine 5.3.2 to 5.6.1? (Part 1)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1682,1685",
-		"previous": "yt-5W4FvGgfLwA,1591,1683",
+		"id": "yt-5W4FvGgfLwA,1745,1748",
+		"previous": "yt-5W4FvGgfLwA,1655,1746",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: Why did you guys update from Unreal Engine 5.3.2 to 5.6.1? (Part 2)"
+		"title": "Q&A: Why did you guys update from Unreal Engine 5.3.2 to 5.6.1? (Part 2)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,1466,1477",
+		"id": "yt-5W4FvGgfLwA,1530,1541",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,2033,2109",
-		"date": "2026-03-10",
-		"title": "Q&A: Will Satisfactory ever have a Hard Mode? (Part 1)"
+		"next": "yt-5W4FvGgfLwA,2097,2173",
+		"title": "Q&A: Will Satisfactory ever have a Hard Mode? (Part 1)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,2033,2109",
-		"previous": "yt-5W4FvGgfLwA,1466,1477",
+		"id": "yt-5W4FvGgfLwA,2097,2173",
+		"previous": "yt-5W4FvGgfLwA,1530,1541",
 		"next": null,
-		"date": "2026-03-10",
-		"title": "Q&A: Will Satisfactory ever have a Hard Mode? (Part 2)"
+		"title": "Q&A: Will Satisfactory ever have a Hard Mode? (Part 2)",
+		"date": "2026-03-10"
 	},
 	{
 		"id": "yt-6KWMm2DRfuA,0,124",
@@ -455,22 +357,29 @@
 		"title": "Mikael Talk: Restream delays (Part 4)"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,665,709",
+		"id": "yt-5W4FvGgfLwA,729,773",
 		"previous": null,
-		"next": "yt-5W4FvGgfLwA,801,875",
-		"date": "2026-03-10",
-		"title": "Small Balloon Trees (Part 1)"
+		"next": "yt-5W4FvGgfLwA,864,939",
+		"title": "Small Balloon Trees (Part 1)",
+		"date": "2026-03-10"
 	},
 	{
-		"id": "yt-5W4FvGgfLwA,801,875",
-		"previous": "yt-5W4FvGgfLwA,665,709",
+		"id": "yt-5W4FvGgfLwA,864,939",
+		"previous": "yt-5W4FvGgfLwA,729,773",
 		"next": null,
+		"title": "Small Balloon Trees (Part 2)",
+		"date": "2026-03-10"
+	},
+	{
+		"id": "yt-8lBuwhJ_dic,1347,1493",
+		"previous": null,
+		"next": "yt-8lBuwhJ_dic,1576,1642",
 		"date": "2026-03-10",
-		"title": "Small Balloon Trees (Part 2)"
+		"title": "State of Dev (Part 1)"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,1576,1642",
-		"previous": null,
+		"previous": "yt-8lBuwhJ_dic,1347,1493",
 		"next": "yt-8lBuwhJ_dic,1685,1938",
 		"date": "2026-03-10",
 		"title": "State of Dev (Part 2)"
@@ -478,34 +387,34 @@
 	{
 		"id": "yt-8lBuwhJ_dic,1685,1938",
 		"previous": "yt-8lBuwhJ_dic,1576,1642",
-		"next": "yt-5W4FvGgfLwA,434,464",
+		"next": "yt-8lBuwhJ_dic,1962,1991",
 		"date": "2026-03-10",
 		"title": "State of Dev (Part 3)"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,1962,1991",
-		"previous": null,
-		"next": null,
+		"previous": "yt-8lBuwhJ_dic,1685,1938",
+		"next": "yt-8lBuwhJ_dic,1997,2700",
 		"title": "State of Dev (Part 4)",
 		"date": "2026-03-10"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,1997,2700",
-		"previous": "yt-5W4FvGgfLwA,434,464",
-		"next": "yt-5W4FvGgfLwA,1077,1110",
+		"previous": "yt-8lBuwhJ_dic,1962,1991",
+		"next": "yt-8lBuwhJ_dic,2716,2748",
 		"date": "2026-03-10",
 		"title": "State of Dev (Part 5)"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,2716,2748",
-		"previous": null,
-		"next": null,
+		"previous": "yt-8lBuwhJ_dic,1997,2700",
+		"next": "yt-8lBuwhJ_dic,2829,3043",
 		"title": "State of Dev (Part 6)",
 		"date": "2026-03-10"
 	},
 	{
 		"id": "yt-8lBuwhJ_dic,2829,3043",
-		"previous": "yt-5W4FvGgfLwA,1077,1110",
+		"previous": "yt-8lBuwhJ_dic,2716,2748",
 		"next": "yt-8lBuwhJ_dic,6176,6357",
 		"date": "2026-03-10",
 		"title": "State of Dev (Part 7)"
