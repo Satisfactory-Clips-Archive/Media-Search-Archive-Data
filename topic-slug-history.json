@@ -1791,7 +1791,8 @@
 		"coffee-stainers/emmet": 1729376675
 	},
 	"PLbjDnnBIxiEruo0Lbpj6lJAWFcxyKZpJY": {
-		"satisfactory-updates/speculative/satisfactory-1-2": 1729376675
+		"satisfactory-updates/speculative/satisfactory-1-2": 1729376675,
+		"satisfactory-updates/pending/satisfactory-1-2": 1774168873
 	},
 	"Portals": {
 		"features/quantum-technology/portals": 1729418474
@@ -1888,5 +1889,26 @@
 	},
 	"PLbjDnnBIxiEogSX9zcsdWUDgzdwUykVDO": {
 		"off-topic/pokemon": 1772284619
+	},
+	"PLbjDnnBIxiEqZIL4Wqk942dqmnQJJPmVG": {
+		"december-12th-2023-livestream-shorts": 1774168873
+	},
+	"PLbjDnnBIxiEqC21Cc87SIatljFVNJ9qya": {
+		"december-5th-2023-livestream-shorts": 1774168873
+	},
+	"Randomisation": {
+		"features/game-modes/randomisation": 1774168873
+	},
+	"PLbjDnnBIxiEp3vcqoqcUXrOjM2D4AuE2s": {
+		"february-6th-2024-livestream-shorts": 1774168873
+	},
+	"PLbjDnnBIxiEo-qry8BoTLuU6q9SnIPhNf": {
+		"january-30th-2024-livestream-shorts": 1774168873
+	},
+	"PLbjDnnBIxiEpFcLyLQfjH31aM41D2QsIE": {
+		"november-21st-2023-livestream-shorts": 1774168873
+	},
+	"SPWN": {
+		"features/buildings/spwn": 1774185849
 	}
 }
