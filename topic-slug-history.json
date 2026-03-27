@@ -1896,9 +1896,6 @@
 	"PLbjDnnBIxiEqC21Cc87SIatljFVNJ9qya": {
 		"december-5th-2023-livestream-shorts": 1774168873
 	},
-	"Randomisation": {
-		"features/game-modes/randomisation": 1774168873
-	},
 	"PLbjDnnBIxiEp3vcqoqcUXrOjM2D4AuE2s": {
 		"february-6th-2024-livestream-shorts": 1774168873
 	},
@@ -1910,5 +1907,11 @@
 	},
 	"SPWN": {
 		"features/buildings/spwn": 1774185849
+	},
+	"PLbjDnnBIxiEoy8ME2RVxVuxVR_Vq5Q_Qv": {
+		"features/game-modes/randomisation": 1774168873
+	},
+	"PLbjDnnBIxiEqeFPzZn7zljdzvJlGjheOm": {
+		"features/power-management/daisy-chaining": 1774652016
 	}
 }
