@@ -9000,16 +9000,6 @@
 		"title": "Ben & Jace Talk: Optimisation review - Refinery (Part 2)"
 	},
 	{
-		"id": "yt-w-f3V9PdqxI",
-		"id_disambiguated": "yt-w-f3V9PdqxI~0",
-		"previous": null,
-		"previous_disambiguated": null,
-		"next": "yt-FZLQZ17hgjQ",
-		"next_disambiguated": "yt-FZLQZ17hgjQ~0",
-		"date": "2020-10-20",
-		"title": "Jace & Snutt Talk: Jump Pad Teaser (part 1)"
-	},
-	{
 		"id": "yt-FZLQZ17hgjQ",
 		"id_disambiguated": "yt-FZLQZ17hgjQ~0",
 		"previous": "yt-w-f3V9PdqxI",
@@ -9020,14 +9010,14 @@
 		"title": "Jace & Snutt Talk: Jump Pad Teaser (part 2)"
 	},
 	{
-		"id": "yt-V9x1XLqoKeU",
-		"id_disambiguated": "yt-V9x1XLqoKeU~0",
+		"id": "yt-w-f3V9PdqxI",
+		"id_disambiguated": "yt-w-f3V9PdqxI~0",
 		"previous": null,
 		"previous_disambiguated": null,
-		"next": "yt-iEGhH9cZWWQ",
-		"next_disambiguated": "yt-iEGhH9cZWWQ~0",
-		"date": "2020-10-13",
-		"title": "Jace & Snutt Talk: New Feature - Packager (part 1)"
+		"next": "yt-FZLQZ17hgjQ",
+		"next_disambiguated": "yt-FZLQZ17hgjQ~0",
+		"date": "2020-10-20",
+		"title": "Jace & Snutt Talk: Jump Pad Teaser (part 1)"
 	},
 	{
 		"id": "yt-iEGhH9cZWWQ",
@@ -9038,6 +9028,16 @@
 		"next_disambiguated": null,
 		"date": "2020-10-13",
 		"title": "Jace & Snutt Talk: New Feature - Packager (part 2)"
+	},
+	{
+		"id": "yt-V9x1XLqoKeU",
+		"id_disambiguated": "yt-V9x1XLqoKeU~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-iEGhH9cZWWQ",
+		"next_disambiguated": "yt-iEGhH9cZWWQ~0",
+		"date": "2020-10-13",
+		"title": "Jace & Snutt Talk: New Feature - Packager (part 1)"
 	},
 	{
 		"id": "yt-0VtsjQsFzZU",
@@ -9190,16 +9190,6 @@
 		"title": "Dylan Talk: Instanced Splines (Part 11)"
 	},
 	{
-		"id": "yt-atdEe4Bm11k",
-		"id_disambiguated": "yt-atdEe4Bm11k~0",
-		"previous": null,
-		"previous_disambiguated": null,
-		"next": "yt-8Kcg4e20fMk",
-		"next_disambiguated": "yt-8Kcg4e20fMk~0",
-		"date": "2020-09-22",
-		"title": "Jace & Snutt Talk: Zombie/Clone Players (part 1)"
-	},
-	{
 		"id": "yt-8Kcg4e20fMk",
 		"id_disambiguated": "yt-8Kcg4e20fMk~0",
 		"previous": "yt-atdEe4Bm11k",
@@ -9210,14 +9200,14 @@
 		"title": "Jace & Snutt Talk: Zombie/Clone Players (part 2)"
 	},
 	{
-		"id": "yt-__WKPcHdDcA",
-		"id_disambiguated": "yt-__WKPcHdDcA~0",
+		"id": "yt-atdEe4Bm11k",
+		"id_disambiguated": "yt-atdEe4Bm11k~0",
 		"previous": null,
 		"previous_disambiguated": null,
-		"next": "yt-0vZS0gvnuqg",
-		"next_disambiguated": "yt-0vZS0gvnuqg~0",
-		"date": "2020-09-15",
-		"title": "Q&A: Craftable Camera? (part 1)"
+		"next": "yt-8Kcg4e20fMk",
+		"next_disambiguated": "yt-8Kcg4e20fMk~0",
+		"date": "2020-09-22",
+		"title": "Jace & Snutt Talk: Zombie/Clone Players (part 1)"
 	},
 	{
 		"id": "yt-0vZS0gvnuqg",
@@ -9230,14 +9220,14 @@
 		"title": "Q&A: Craftable Camera? (part 2)"
 	},
 	{
-		"id": "yt-xkalDtEeoOY",
-		"id_disambiguated": "yt-xkalDtEeoOY~0",
+		"id": "yt-__WKPcHdDcA",
+		"id_disambiguated": "yt-__WKPcHdDcA~0",
 		"previous": null,
 		"previous_disambiguated": null,
-		"next": "yt-vfVo9rCpVtQ",
-		"next_disambiguated": "yt-vfVo9rCpVtQ~0",
+		"next": "yt-0vZS0gvnuqg",
+		"next_disambiguated": "yt-0vZS0gvnuqg~0",
 		"date": "2020-09-15",
-		"title": "Q&A: Update release schedule (part 1)"
+		"title": "Q&A: Craftable Camera? (part 1)"
 	},
 	{
 		"id": "yt-vfVo9rCpVtQ",
@@ -9250,24 +9240,14 @@
 		"title": "Q&A: Update release schedule (part 2)"
 	},
 	{
-		"id": "tc-CrowdedSplendidSalamanderSoonerLater",
-		"id_disambiguated": "tc-CrowdedSplendidSalamanderSoonerLater~0",
+		"id": "yt-xkalDtEeoOY",
+		"id_disambiguated": "yt-xkalDtEeoOY~0",
 		"previous": null,
 		"previous_disambiguated": null,
-		"next": "tc-PrettiestBloodyBadgerDendiFace",
-		"next_disambiguated": "tc-PrettiestBloodyBadgerDendiFace~0",
-		"date": "2020-08-18",
-		"title": "Snutt Talk: Accessibility (part 1)"
-	},
-	{
-		"id": "tc-BelovedWrongCiderBCouch",
-		"id_disambiguated": "tc-BelovedWrongCiderBCouch~0",
-		"previous": "tc-RealFastShieldDoubleRainbow",
-		"previous_disambiguated": "tc-RealFastShieldDoubleRainbow~0",
-		"next": null,
-		"next_disambiguated": null,
-		"date": "2020-08-18",
-		"title": "Snutt & Jace Talk: Accessibility (part 6)"
+		"next": "yt-vfVo9rCpVtQ",
+		"next_disambiguated": "yt-vfVo9rCpVtQ~0",
+		"date": "2020-09-15",
+		"title": "Q&A: Update release schedule (part 1)"
 	},
 	{
 		"id": "tc-DignifiedSmoggyKathyAMPEnergyCherry",
@@ -9300,6 +9280,26 @@
 		"title": "Snutt & Jace Talk: Accessibility - Hard of Hearing (part 5)"
 	},
 	{
+		"id": "tc-BelovedWrongCiderBCouch",
+		"id_disambiguated": "tc-BelovedWrongCiderBCouch~0",
+		"previous": "tc-RealFastShieldDoubleRainbow",
+		"previous_disambiguated": "tc-RealFastShieldDoubleRainbow~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2020-08-18",
+		"title": "Snutt & Jace Talk: Accessibility (part 6)"
+	},
+	{
+		"id": "tc-CrowdedSplendidSalamanderSoonerLater",
+		"id_disambiguated": "tc-CrowdedSplendidSalamanderSoonerLater~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "tc-PrettiestBloodyBadgerDendiFace",
+		"next_disambiguated": "tc-PrettiestBloodyBadgerDendiFace~0",
+		"date": "2020-08-18",
+		"title": "Snutt Talk: Accessibility (part 1)"
+	},
+	{
 		"id": "tc-HandsomeJoyousPigeonYouWHY",
 		"id_disambiguated": "tc-HandsomeJoyousPigeonYouWHY~0",
 		"previous": null,
@@ -9308,16 +9308,6 @@
 		"next_disambiguated": "tc-ResilientTalentedSalsifySSSsss~0",
 		"date": "2020-08-18",
 		"title": "Snutt & Jace Talk: Arachnophobia Mode (part 1)"
-	},
-	{
-		"id": "tc-ResilientTalentedSalsifySSSsss",
-		"id_disambiguated": "tc-ResilientTalentedSalsifySSSsss~0",
-		"previous": "tc-HandsomeJoyousPigeonYouWHY",
-		"previous_disambiguated": "tc-HandsomeJoyousPigeonYouWHY~0",
-		"next": "tc-ModernExquisiteJayFeelsBadMan",
-		"next_disambiguated": "tc-ModernExquisiteJayFeelsBadMan~0",
-		"date": "2020-08-18",
-		"title": "Snutt & Jace Talk: Arachnophobia Mode (part 2)"
 	},
 	{
 		"id": "tc-ModernExquisiteJayFeelsBadMan",
@@ -9338,6 +9328,16 @@
 		"next_disambiguated": null,
 		"date": "2020-08-18",
 		"title": "Snutt & Jace Talk: Arachnophobia Mode (part 4)"
+	},
+	{
+		"id": "tc-ResilientTalentedSalsifySSSsss",
+		"id_disambiguated": "tc-ResilientTalentedSalsifySSSsss~0",
+		"previous": "tc-HandsomeJoyousPigeonYouWHY",
+		"previous_disambiguated": "tc-HandsomeJoyousPigeonYouWHY~0",
+		"next": "tc-ModernExquisiteJayFeelsBadMan",
+		"next_disambiguated": "tc-ModernExquisiteJayFeelsBadMan~0",
+		"date": "2020-08-18",
+		"title": "Snutt & Jace Talk: Arachnophobia Mode (part 2)"
 	},
 	{
 		"id": "tc-CorrectAlertEggplantPJSalt",
@@ -9470,16 +9470,6 @@
 		"title": "Q&A: Build Limit increase, when? (Part 2)"
 	},
 	{
-		"id": "tc-WittyYawningSangJKanStyle",
-		"id_disambiguated": "tc-WittyYawningSangJKanStyle~0",
-		"previous": null,
-		"previous_disambiguated": null,
-		"next": "tc-BlueBadWeaselPMSTwin",
-		"next_disambiguated": "tc-BlueBadWeaselPMSTwin~0",
-		"date": "2020-08-18",
-		"title": "Q&A: How did you make the character slide in Satisfactory? (part 1)"
-	},
-	{
 		"id": "tc-BlueBadWeaselPMSTwin",
 		"id_disambiguated": "tc-BlueBadWeaselPMSTwin~0",
 		"previous": "tc-WittyYawningSangJKanStyle",
@@ -9488,6 +9478,16 @@
 		"next_disambiguated": null,
 		"date": "2020-08-18",
 		"title": "Q&A: How did you make the character slide in Satisfactory? (part 2)"
+	},
+	{
+		"id": "tc-WittyYawningSangJKanStyle",
+		"id_disambiguated": "tc-WittyYawningSangJKanStyle~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "tc-BlueBadWeaselPMSTwin",
+		"next_disambiguated": "tc-BlueBadWeaselPMSTwin~0",
+		"date": "2020-08-18",
+		"title": "Q&A: How did you make the character slide in Satisfactory? (part 1)"
 	},
 	{
 		"id": "tc-CrackyBombasticEggUWot",
@@ -9520,16 +9520,6 @@
 		"title": "Q&A: We get this awesome phobia system but people still have trouble with colour blindness modes? (part 2)"
 	},
 	{
-		"id": "tc-RelievedRelievedCroissantMingLee",
-		"id_disambiguated": "tc-RelievedRelievedCroissantMingLee~0",
-		"previous": null,
-		"previous_disambiguated": null,
-		"next": "tc-AwkwardBloodyNightingaleShadyLulu",
-		"next_disambiguated": "tc-AwkwardBloodyNightingaleShadyLulu~0",
-		"date": "2020-08-18",
-		"title": "Q&A: What's in Tier 8? (part 1)"
-	},
-	{
 		"id": "tc-AwkwardBloodyNightingaleShadyLulu",
 		"id_disambiguated": "tc-AwkwardBloodyNightingaleShadyLulu~0",
 		"previous": "tc-RelievedRelievedCroissantMingLee",
@@ -9538,6 +9528,16 @@
 		"next_disambiguated": null,
 		"date": "2020-08-18",
 		"title": "Q&A: What's in Tier 8? (part 2)"
+	},
+	{
+		"id": "tc-RelievedRelievedCroissantMingLee",
+		"id_disambiguated": "tc-RelievedRelievedCroissantMingLee~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "tc-AwkwardBloodyNightingaleShadyLulu",
+		"next_disambiguated": "tc-AwkwardBloodyNightingaleShadyLulu~0",
+		"date": "2020-08-18",
+		"title": "Q&A: What's in Tier 8? (part 1)"
 	},
 	{
 		"id": "tc-OpenIntelligentPizzaYouWHY",
