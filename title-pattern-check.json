@@ -33,6 +33,7 @@
 		"^Intro \\\/ State of Everything$",
 		"^State of Dev: ",
 		"^State of Dev$",
+		"^State of Dev \\(Part \\d+\\)$",
 		"^State of Dave$",
 		" & State of Dave$",
 		" \\\/ State of Dev$",
