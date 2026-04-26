@@ -1,4 +1,100 @@
 {
+	"yt-3YxdcC6LcQQ,5866,5916": {
+		"title": "Q&A: Thoughts on adding directional indicators on all Buildables indicating rotation?",
+		"date": "2026-04-21",
+		"topics": [
+			"features/build-modes",
+			"features/requested-features",
+			"technology/user-interface",
+			"technology/user-interface/holograms"
+		]
+	},
+	"yt-3YxdcC6LcQQ,5955,6007": {
+		"title": "Q&A: Did you have to get licensing to include your cover of Angel by Sarah McLachlan?",
+		"date": "2026-04-21",
+		"topics": [
+			"satisfactory-updates/teasers-and-trailers/1-2-patch-notes-video"
+		],
+		"seealso": [
+			"yt-SjR3uywQU_U,7248,7262"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6058,6069": {
+		"title": "Q&A: Can we have the webcam mic for the last 5 minutes?",
+		"date": "2026-04-21",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6092,6126": {
+		"title": "Q&A: When will the Jason skin be added to the game?",
+		"date": "2026-04-21",
+		"topics": [
+			"coffee-stainers/jason",
+			"features/possible-features/character-customisation",
+			"features/requested-features"
+		],
+		"seealso": [
+			"yt-Od10aFVuVUc"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6126,6153": {
+		"title": "Q&A: Can you share any plans for 2026 & beyond after 1.2 drops?",
+		"date": "2026-04-21",
+		"topics": [
+			"satisfactory-updates",
+			"satisfactory-updates/speculative/satisfactory-1-3"
+		],
+		"duplicates": [
+			"yt-I-1tTVA6GAA,2528,2565",
+			"yt-HHBFMoNs7xY,7506,7518",
+			"yt-D3f7kEJstPk"
+		],
+		"seealso": [
+			"yt-DXPTIvV6exI,80,141"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6217,6268": {
+		"title": "Q&A: What is a feature you campaigned for that got rejected?",
+		"date": "2026-04-21",
+		"topics": [
+			"features/possible-features/decor",
+			"features/possible-features/farming",
+			"features/unplanned-features"
+		],
+		"seealso": [
+			"yt-I-1tTVA6GAA,4864,4871"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6269,6313": {
+		"title": "Q&A: Was there an update on the process of replacing the broken automation for Highlights?",
+		"date": "2026-04-21",
+		"topics": [
+			"community/community-highlights"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6322,6335": {
+		"title": "Q&A: Is there a video this week?",
+		"date": "2026-04-21",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		],
+		"seealso": [
+			"yt-I-1tTVA6GAA,4648,4652"
+		]
+	},
+	"yt-3YxdcC6LcQQ,6335,6398": {
+		"title": "Q&A: What's for dinner today?",
+		"date": "2026-04-21",
+		"topics": [
+			"coffee-stainers/jason",
+			"coffee-stainers/mikael",
+			"off-topic/food-and-drink"
+		],
+		"seealso": [
+			"yt-I-1tTVA6GAA,4652,4666"
+		]
+	},
 	"yt-I-1tTVA6GAA,1376,1408": {
 		"title": "Q&A: Could you guess if any Train things? (Part 1)",
 		"date": "2026-04-14",
@@ -178,13 +274,7 @@
 			"satisfactory-updates",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
-		"duplicates": [
-			"yt-HHBFMoNs7xY,7506,7518",
-			"yt-D3f7kEJstPk"
-		],
-		"seealso": [
-			"yt-DXPTIvV6exI,80,141"
-		]
+		"duplicatedby": "yt-3YxdcC6LcQQ,6126,6153"
 	},
 	"yt-I-1tTVA6GAA,2565,2627": {
 		"title": "Q&A: Could it be possible to write how many nodes there are in the different Game Modes? (Part 1)",
@@ -549,6 +639,7 @@
 			"coffee-stain-group-ab/coffee-stain-studios"
 		],
 		"seealso": [
+			"yt-3YxdcC6LcQQ,6322,6335",
 			"yt-I-1tTVA6GAA,2934,2974"
 		]
 	},
@@ -558,6 +649,10 @@
 		"topics": [
 			"coffee-stainers/mikael",
 			"off-topic/food-and-drink"
+		],
+		"seealso": [
+			"yt-SjR3uywQU_U,4917,4945",
+			"yt-3YxdcC6LcQQ,6335,6398"
 		]
 	},
 	"yt-I-1tTVA6GAA,4669,4707": {
@@ -624,6 +719,7 @@
 			"mods/mods-vs-features"
 		],
 		"seealso": [
+			"yt-3YxdcC6LcQQ,6217,6268",
 			"yt-CCFhq3egWEY"
 		]
 	},
@@ -858,6 +954,7 @@
 			"off-topic/food-and-drink"
 		],
 		"seealso": [
+			"yt-I-1tTVA6GAA,4652,4666",
 			"yt-dKn9f4Itqt4,7352,7383"
 		]
 	},
@@ -1409,6 +1506,9 @@
 			"features/equipment/boom-box",
 			"features/requested-features",
 			"satisfactory-updates/teasers-and-trailers/1-2-patch-notes-video"
+		],
+		"seealso": [
+			"yt-3YxdcC6LcQQ,5955,6007"
 		]
 	},
 	"yt-SjR3uywQU_U,7288,7297": {
@@ -2651,7 +2751,7 @@
 		"topics": [
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
-		"duplicatedby": "yt-I-1tTVA6GAA,2528,2565"
+		"duplicatedby": "yt-3YxdcC6LcQQ,6126,6153"
 	},
 	"yt-HHBFMoNs7xY,7518,7537": {
 		"title": "Q&A: SAM Paint finish?",
@@ -9741,7 +9841,7 @@
 			"satisfactory-updates/speculative/satisfactory-1-3",
 			"trolling"
 		],
-		"duplicatedby": "yt-I-1tTVA6GAA,2528,2565"
+		"duplicatedby": "yt-3YxdcC6LcQQ,6126,6153"
 	},
 	"yt-jjSwJEPFH6o": {
 		"title": "Q&A: When do we get to sleep in the beds inside The HUB?",
@@ -19555,6 +19655,7 @@
 			"yt-VRo-e6NnYpk"
 		],
 		"seealso": [
+			"yt-3YxdcC6LcQQ,6092,6126",
 			"yt-yNnIzPtYBcs",
 			"yt-JTKfqqlcaII,0,20"
 		]
