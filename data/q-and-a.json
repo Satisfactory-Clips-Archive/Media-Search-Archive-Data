@@ -730,7 +730,8 @@
 			"features/requested-features",
 			"features/tiers",
 			"satisfactory-updates/pending/satisfactory-1-2"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,5958,6005"
 	},
 	"yt-I-1tTVA6GAA,2281,2291": {
 		"title": "Q&A: Why do Train Tracks light up when unpowered?",
@@ -1259,7 +1260,8 @@
 		"date": "2026-04-14",
 		"topics": [
 			"coffee-stain-group-ab/coffee-stain-studios"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,4067,4102"
 	},
 	"yt-I-1tTVA6GAA,4903,4925": {
 		"title": "Q&A: Train waypoint signals, when?",
@@ -1367,7 +1369,8 @@
 		"date": "2026-03-31",
 		"topics": [
 			"features/unplanned-features/golf"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-SjR3uywQU_U,3926,3957": {
 		"title": "Checking in with Chat (Part 12)",
@@ -1624,7 +1627,7 @@
 		],
 		"seealso": [
 			"yt-8Y1sE92ibek",
-			"yt-lZhD2uXfn7I"
+			"yt-NmGzgw8odBw,4932,5009"
 		]
 	},
 	"yt-SjR3uywQU_U,6460,6476": {
@@ -3088,7 +3091,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-HHBFMoNs7xY,4677,4682": {
 		"title": "Q&A: Can EXP progress for 1.2 carry over into live 1.2?",
@@ -4153,7 +4156,8 @@
 		"topics": [
 			"coffee-stainers/mikael",
 			"features/console-release"
-		]
+		],
+		"replacedby": "yt-NmGzgw8odBw,3563,3618"
 	},
 	"yt-IOkCbcu2cME,1259,1347": {
 		"title": "Q&A: Are we going to get any other Trailers?",
@@ -4572,7 +4576,7 @@
 		"topics": [
 			"coffee-stain-group-ab/coffee-stain-studios"
 		],
-		"duplicatedby": "yt-I-1tTVA6GAA,4890,4904"
+		"duplicatedby": "yt-NmGzgw8odBw,4067,4102"
 	},
 	"yt-dKn9f4Itqt4,6770,6872": {
 		"title": "Q&A: Will Explorer struggling to change gears be fixed?",
@@ -4852,7 +4856,7 @@
 			"features/unplanned-features/golf",
 			"satisfactory-updates/pending/satisfactory-1-2"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-dKn9f4Itqt4,7553,7564": {
 		"title": "Q&A: Does anything new use Nanite in 1.2?",
@@ -4990,7 +4994,7 @@
 			"coffee-stainers/mikael",
 			"satisfactory-updates/released/satisfactory-1-1"
 		],
-		"replacedby": "yt-8lBuwhJ_dic,7443,7464"
+		"replacedby": "yt-NmGzgw8odBw,3563,3618"
 	},
 	"yt-xO_uubsn0Fw,1002,1015": {
 		"title": "Q&A: Any explosive launcher in future?",
@@ -5392,7 +5396,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-xO_uubsn0Fw,6456,6464": {
 		"title": "Q&A: Will there be an April Fool's Update?",
@@ -5749,7 +5753,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-Y2ikAUhc19E,4627,4635": {
 		"title": "Q&A: Any hope for Dedicated Server support on Console?",
@@ -6076,7 +6080,7 @@
 		],
 		"seealso": [
 			"yt-8Y1sE92ibek",
-			"yt-lZhD2uXfn7I"
+			"yt-NmGzgw8odBw,4932,5009"
 		]
 	},
 	"yt-Y2ikAUhc19E,8510,8533": {
@@ -6740,7 +6744,7 @@
 			"features/unplanned-features/golf",
 			"trolling"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-ff7kc51OUeg,5706,5716": {
 		"title": "Q&A: Did you have plans to add more things to the AWESOME Shop?",
@@ -7156,7 +7160,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-7TCZm_nIZFU,2041,2047": {
 		"title": "Q&A: Golf? (Part 2)",
@@ -7165,7 +7169,7 @@
 			"features/unplanned-features/golf"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-7TCZm_nIZFU,2054,2064": {
@@ -7842,7 +7846,7 @@
 			"features/unplanned-features/golf"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-gfGIx-hPelQ,6318,6341": {
@@ -7880,7 +7884,7 @@
 			"features/possible-features/dlc",
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-gfGIx-hPelQ,6529,6535": {
 		"title": "Q&A: When sauna?",
@@ -8570,7 +8574,7 @@
 			"features/unplanned-features/golf",
 			"trolling"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-Pu0Fm9tC9ss": {
 		"title": "Q&A: Will there ever be any actual content in the game aside from quality-of-life features?",
@@ -9404,7 +9408,7 @@
 			"satisfactory-updates/pending/satisfactory-1-2"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-ahcJKYIA7Ic": {
@@ -9484,7 +9488,7 @@
 		],
 		"seealso": [
 			"yt-DXPTIvV6exI,80,141",
-			"yt-OzWdyi_EIJ4"
+			"yt-NmGzgw8odBw,2024,2041"
 		]
 	},
 	"yt-kEWMoK2mfcI": {
@@ -9986,7 +9990,8 @@
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
 			"technology/unreal-engine/object-limit"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,3906,3974"
 	},
 	"yt-1iYgDpUu39A,535,576": {
 		"title": "Q&A: CSS Beefcake Calendar, when?",
@@ -10319,7 +10324,8 @@
 			"features/console-release",
 			"features/multiplayer",
 			"features/requested-features"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,7518,7577"
 	},
 	"yt-JAye8vPlUGY": {
 		"title": "Q&A: How is the Switch 2 performance on internal testing so far?",
@@ -11047,7 +11053,7 @@
 		],
 		"seealso": [
 			"yt-DXPTIvV6exI,80,141",
-			"yt-lZhD2uXfn7I"
+			"yt-NmGzgw8odBw,4932,5009"
 		]
 	},
 	"yt-R5DpPizOXbQ": {
@@ -11929,7 +11935,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-m_UVVHl1CxA,3772,3813": {
 		"title": "Q&A: What's Jason's rank in Rocket League?",
@@ -12768,7 +12774,8 @@
 		"topics": [
 			"features/buildables/foundations",
 			"features/requested-features"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,2024,2041"
 	},
 	"yt-LPlPNNNzJgg": {
 		"title": "Q&A: Real FICSIT shelf to display all the Merch?",
@@ -12899,7 +12906,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-JVoDMCfz3mg": {
 		"title": "Q&A: Is it reasonable for us to expect more Seasonal Events?",
@@ -13181,7 +13188,8 @@
 		"topics": [
 			"features/console-release",
 			"technology/linux"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-C8Bngdhx5Us": {
 		"title": "Q&A: Can Beans follow the same spawning rule as hostile Creatures so they don't appear in factories?",
@@ -13480,7 +13488,7 @@
 			"features/unplanned-features/golf"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-bAM2u-fLBz0": {
@@ -13564,7 +13572,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-WKXy5cZnndI": {
 		"title": "Q&A: Anything else coming to 1.1?",
@@ -14579,7 +14587,8 @@
 			"features/buildables/walls",
 			"features/buildables/windows",
 			"features/requested-features"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,4932,5009"
 	},
 	"yt-JirPkk9AoRQ": {
 		"title": "Q&A: When's the next patch?",
@@ -17494,7 +17503,7 @@
 		],
 		"seealso": [
 			"yt-jJdIedudxi4",
-			"yt-OzWdyi_EIJ4",
+			"yt-NmGzgw8odBw,2024,2041",
 			"yt-uWzjA0DGAag",
 			"yt-dKn9f4Itqt4,6428,6512"
 		]
@@ -18616,7 +18625,7 @@
 		],
 		"seealso": [
 			"yt-g_UUD0yQ8ds",
-			"yt-lZhD2uXfn7I"
+			"yt-NmGzgw8odBw,4932,5009"
 		]
 	},
 	"yt-5q4sSvCP_po": {
@@ -18848,7 +18857,7 @@
 			"yt-hlsZrRBMnto"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-Mi8KtcKzMuA": {
@@ -21187,7 +21196,7 @@
 			"coffee-stain-group-ab/coffee-stain-studios",
 			"off-topic/sweden/skovde"
 		],
-		"duplicatedby": "yt-I-1tTVA6GAA,4890,4904"
+		"duplicatedby": "yt-NmGzgw8odBw,4067,4102"
 	},
 	"yt-QAmYNw43rlc": {
 		"title": "Q&A: Dismantling Blueprints with a Train Station leaves a Marker on the map, is that being fixed?",
@@ -22571,7 +22580,7 @@
 			"technology/linux"
 		],
 		"seealso": [
-			"yt-709GAnOAp6Q"
+			"yt-NmGzgw8odBw,4884,4899"
 		]
 	},
 	"yt-Fe9zWuFZ-_4": {
@@ -23499,7 +23508,7 @@
 			"features/buildables/walls",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-lZhD2uXfn7I"
+		"duplicatedby": "yt-NmGzgw8odBw,4932,5009"
 	},
 	"yt-3cixlEu3bAw": {
 		"title": "Q&A: Would third-person view be an easy addition or a huge endeavour?",
@@ -26169,7 +26178,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-RdjzIgckvf4": {
 		"title": "Q&A: How is the Miner Mk.3 Overclocking Issue getting resolved?",
@@ -27698,7 +27707,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-ohB5uT2wma4": {
 		"title": "Q&A: When 1.0 is out can you give us a tour of the factory in the Trailer?",
@@ -27878,7 +27887,7 @@
 		"topics": [
 			"coffee-stain-group-ab/coffee-stain-studios"
 		],
-		"duplicatedby": "yt-I-1tTVA6GAA,4890,4904"
+		"duplicatedby": "yt-NmGzgw8odBw,4067,4102"
 	},
 	"yt-nHJx0kcBEJ0": {
 		"title": "Q&A: Will the Epic version have Achievements?",
@@ -28685,7 +28694,7 @@
 			"yt-nhwUgABKGmE"
 		],
 		"seealso": [
-			"yt-709GAnOAp6Q",
+			"yt-NmGzgw8odBw,4884,4899",
 			"yt-xO_uubsn0Fw,6750,6815"
 		]
 	},
@@ -31988,7 +31997,7 @@
 		],
 		"seealso": [
 			"yt-SzHw55BWkVc",
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt--v3WUQG62MM": {
@@ -33129,7 +33138,7 @@
 		],
 		"seealso": [
 			"yt-oleHepxeZKM",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-NjiAEoI3Nec": {
@@ -33788,7 +33797,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-NVtFsZpRAQg": {
@@ -34204,7 +34213,7 @@
 		],
 		"seealso": [
 			"yt-VxPXa-1RF9E",
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-imGysyoO8Vk": {
@@ -35338,7 +35347,7 @@
 			"features/unplanned-features/golf",
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-c3h9aSt-Bo4": {
 		"title": "Q&A: Can we change the fuel for Chainsaw?",
@@ -35366,7 +35375,7 @@
 			"satisfactory-updates/released/satisfactory-1-0",
 			"technology/linux"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-HqfJ5uxMR0k": {
 		"title": "Q&A: Any changes in hardware requirements for 1.0?",
@@ -36929,7 +36938,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-FFwnguFgMYk": {
 		"title": "Q&A: Will there be more Experimental Update 8 Updates?",
@@ -39311,7 +39320,7 @@
 			"satisfactory-updates/released/satisfactory-update-8"
 		],
 		"seealso": [
-			"yt-qNRcXGv9L3w"
+			"yt-NmGzgw8odBw,5678,5703"
 		]
 	},
 	"yt-kyJaDPdKomA": {
@@ -40489,7 +40498,7 @@
 			"yt-dKn9f4Itqt4,6428,6512",
 			"yt-uOBd9PP77GY",
 			"yt-fVCw51TOHeA,7408,7438",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-FGU7bau90qE": {
@@ -40500,7 +40509,7 @@
 			"features/buildables/walls",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-lZhD2uXfn7I"
+		"duplicatedby": "yt-NmGzgw8odBw,4932,5009"
 	},
 	"yt-4-kgNmIGa5A": {
 		"title": "Q&A: Can you tell us two lies & one truth about Update 9?",
@@ -41259,7 +41268,7 @@
 			"features/unplanned-features/golf",
 			"off-topic/terrible-jokes"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-9R_NsjNvmAI": {
 		"title": "Q&A: Do you happen to know if Fluids were always a planned thing?",
@@ -41461,7 +41470,7 @@
 			"features/buildables/walls",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-lZhD2uXfn7I"
+		"duplicatedby": "yt-NmGzgw8odBw,4932,5009"
 	},
 	"yt-IyFSEuPp1m0": {
 		"title": "Q&A: If Bean pathfinding can't be fixed for 1.0, will phasing/teleportation be made canon?",
@@ -42025,7 +42034,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-8OxoG8WBxmg": {
 		"title": "Q&A: Pokémon Snap for Story content?",
@@ -42442,7 +42451,7 @@
 			"coffee-stainers/jace",
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-wLZHID6mK3o": {
 		"title": "Q&A: Half Walls for Half Foundations?",
@@ -44031,7 +44040,7 @@
 		],
 		"seealso": [
 			"yt-SYN7XsWGG00",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-qccSf7llJZ8": {
@@ -44053,7 +44062,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-p50hTgQFcUQ": {
 		"title": "Q&A: Queue buffers working FIFO?",
@@ -44601,11 +44610,11 @@
 			"yt-_IJsp-Fy1zw"
 		],
 		"seealso": [
-			"yt-jxB9EKkm9i0",
+			"yt-NmGzgw8odBw,5245,5256",
 			"yt-F212AWqzBVI",
 			"yt-I-1tTVA6GAA,2039,2078",
 			"yt-g0JP5QLR-I8",
-			"yt-jxB9EKkm9i0",
+			"yt-NmGzgw8odBw,5245,5256",
 			"yt-_YaKImBoNZI"
 		]
 	},
@@ -46174,7 +46183,7 @@
 			"features/requested-features",
 			"technology/linux"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-B-_P0z65wYo": {
 		"title": "Q&A: Jace statue?",
@@ -47024,7 +47033,8 @@
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqqhOELGDMQdwRCiQAo99bW"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,5678,5703"
 	},
 	"yt-ACRX8k5b13w": {
 		"title": "Q&A: What will happen to saves in Update 8 that already passed the object limit in Update 7?",
@@ -47167,7 +47177,7 @@
 		"seealso": [
 			"yt-cTguLBUdbfI",
 			"yt-jYbQ9z-nqe0",
-			"yt-qNRcXGv9L3w",
+			"yt-NmGzgw8odBw,5678,5703",
 			"yt-sNTwffoP-4s"
 		],
 		"seealso_video_cards": [
@@ -48193,7 +48203,7 @@
 		"seealso_video_cards": [
 			"VQ5EcI909Zs"
 		],
-		"duplicatedby": "yt-I-1tTVA6GAA,4890,4904"
+		"duplicatedby": "yt-NmGzgw8odBw,4067,4102"
 	},
 	"yt-gP1WMUL-7zU": {
 		"title": "Q&A: Will there be a Story?",
@@ -48372,7 +48382,7 @@
 			"features/requested-features"
 		],
 		"seealso": [
-			"yt-qNRcXGv9L3w"
+			"yt-NmGzgw8odBw,5678,5703"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqqhOELGDMQdwRCiQAo99bW"
@@ -50671,7 +50681,7 @@
 			"technology/unreal-engine/unreal-engine-5",
 			"trolling"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-_uyQnFxX4SI": {
 		"title": "Q&A: Where's Eevee?",
@@ -52466,7 +52476,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErPmwCcdEax-8TIvyvjdlm2"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-7wY9KAbiOpU": {
 		"title": "Q&A: Different fuel types for the Chainsaw?",
@@ -54654,7 +54664,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-VjxuVdzNw9o": {
 		"title": "Q&A: Snow Biome?",
@@ -57912,7 +57922,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-isdEFNVoEQc": {
 		"title": "Q&A: Was Snutt eaten by his clone?",
@@ -58201,7 +58211,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-fVCw51TOHeA,6239,6280": {
 		"title": "Q&A: Will Blueprints work on GeForce Now?",
@@ -58294,7 +58304,7 @@
 		],
 		"seealso": [
 			"yt-9WJQIJgKgp4",
-			"yt-I-1tTVA6GAA,4890,4904",
+			"yt-NmGzgw8odBw,4067,4102",
 			"yt-uWmppO45tpc"
 		]
 	},
@@ -61224,7 +61234,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpmT1vmxxciR96Op1TkWR8J"
 		],
-		"duplicatedby": "yt-lZhD2uXfn7I"
+		"duplicatedby": "yt-NmGzgw8odBw,4932,5009"
 	},
 	"yt-AOP6ppi6KhA": {
 		"title": "Q&A: Quarter Foundations?",
@@ -63086,7 +63096,7 @@
 		"seealso": [
 			"yt-6CjylFLFNyg",
 			"yt-c2IXVIvaIoU",
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		],
 		"incoming_video_cards": [
 			"0vXC2pZcyWA"
@@ -63662,7 +63672,7 @@
 		],
 		"seealso": [
 			"yt-Cc1dqI86IUw",
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
@@ -64504,7 +64514,7 @@
 		"seealso": [
 			"yt-cjt9AurLbU4",
 			"yt-hCkJWCgzJfE",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqVTlmqhbpntiX-LNPSHZqz",
@@ -65311,7 +65321,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEozm5BT2Qi4Mvu9uI6ga2uJ"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-MeYcK2YzY8M": {
 		"title": "Q&A: Surely Console doesn't have enough buttons?",
@@ -65860,7 +65870,7 @@
 			"features/unplanned-features/golf"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-LRqRZ3WaRaQ": {
@@ -65974,7 +65984,7 @@
 			"features/gases",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-qNRcXGv9L3w"
+		"duplicatedby": "yt-NmGzgw8odBw,5678,5703"
 	},
 	"yt-yj3e5hpBKNQ": {
 		"title": "Q&A: Planes confirmed?",
@@ -67187,7 +67197,7 @@
 			"features/unplanned-features/golf"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		]
 	},
 	"yt-vElxVdftU4Y": {
@@ -69918,7 +69928,7 @@
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT",
 			"PLbjDnnBIxiErPmwCcdEax-8TIvyvjdlm2"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-huRKK3aqoPk": {
 		"title": "Q&A: Any plans for automated Power before Coal?",
@@ -70586,7 +70596,7 @@
 			"features/unplanned-features/golf"
 		],
 		"seealso": [
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
@@ -71965,7 +71975,7 @@
 		],
 		"seealso": [
 			"yt-JhdDyDRBLjM",
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
@@ -74010,7 +74020,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-GErK58lZabs": {
 		"title": "Q&A: What's your favourite retro game?",
@@ -74539,7 +74549,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-szP1t6ZFKR0": {
 		"title": "Q&A: Will Console ever come out?",
@@ -75160,7 +75170,7 @@
 		"incoming_video_cards": [
 			"cYlH0sKb68A"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-y4Z1z86F5ks": {
 		"title": "Q&A: Is Jace okay?",
@@ -75455,7 +75465,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-5fao-wsp_CM": {
 		"title": "Q&A: Is it true you guys are adding Golf?",
@@ -75467,7 +75477,7 @@
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep",
 			"PLbjDnnBIxiErdTAJdeOIHMN2m3pR245LA"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-kaQB-OZtK-8": {
 		"title": "Q&A: Did you get your pay raise?",
@@ -79269,7 +79279,7 @@
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep",
 			"PLbjDnnBIxiEqp_c5jfKfMjjFOjbTAWrFE"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-uEZ43YHhaRY": {
 		"title": "Q&A: Can we have revolving signs?",
@@ -79607,7 +79617,7 @@
 		"seealso_video_cards": [
 			"yt-QfaReoks6OM,1068.1666666666667,1079.875"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-lvjgk5seKGc": {
 		"title": "Q&A: Will there be any kind of Weather in the future?",
@@ -80899,7 +80909,7 @@
 		"topics": [
 			"features/unplanned-features/golf"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-iVDRQg_aWpU,5201,5222": {
 		"title": "Q&A: Any news on FICS⁕MAS?",
@@ -81918,7 +81928,7 @@
 			"PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep",
 			"PLbjDnnBIxiEp1tfSvG0zuVBRf93GM6-Np"
 		],
-		"duplicatedby": "yt-SjR3uywQU_U,3206,3211"
+		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
 	"yt-cuRF2l9nqEU": {
 		"title": "Q&A: Train Multiplayer fixes, when?",
@@ -93928,7 +93938,8 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErbdgIq2TL2rTjyGvOiwC9O",
 			"PLbjDnnBIxiErnlskkk5ZE5FdX9Zo_qH_H"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-JuzKAS5cvOQ": {
 		"title": "Q&A: Build limit in Update 5?",
@@ -95002,7 +95013,7 @@
 			"yt-9eBugtyk8U0",
 			"yt-FRBcDsjBgao",
 			"yt-I-1tTVA6GAA,2039,2078",
-			"yt-jxB9EKkm9i0",
+			"yt-NmGzgw8odBw,5245,5256",
 			"yt-WEB9-SgYExg"
 		],
 		"seealso_topic_cards": [
@@ -95133,7 +95144,7 @@
 			"environment"
 		],
 		"seealso": [
-			"yt-qNRcXGv9L3w"
+			"yt-NmGzgw8odBw,5678,5703"
 		],
 		"seealso_video_cards": [
 			"jCXP_YeRSn0"
@@ -97474,7 +97485,7 @@
 		"topics": [
 			"environment"
 		],
-		"duplicatedby": "yt-qNRcXGv9L3w"
+		"duplicatedby": "yt-NmGzgw8odBw,5678,5703"
 	},
 	"yt-WLbaUlcla48": {
 		"title": "Q&A: Solar Energy?",
@@ -97897,7 +97908,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEozm5BT2Qi4Mvu9uI6ga2uJ"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-GYn_hCVhVlo": {
 		"title": "Q&A: Any updates about Dedicated Servers?",
@@ -98497,7 +98508,7 @@
 		],
 		"seealso": [
 			"yt-c2fTW3Re8e8",
-			"yt-SjR3uywQU_U,3206,3211"
+			"yt-NmGzgw8odBw,4155,4347"
 		],
 		"seealso_video_cards": [
 			"rgQCCk5ohMc"
@@ -98818,7 +98829,7 @@
 			"yt-luBjVZ5Agc8",
 			"yt-RotDytRFNIA",
 			"yt-HHBFMoNs7xY,4071,4214",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqVTlmqhbpntiX-LNPSHZqz",
@@ -99256,7 +99267,7 @@
 			"environment"
 		],
 		"seealso": [
-			"yt-qNRcXGv9L3w"
+			"yt-NmGzgw8odBw,5678,5703"
 		]
 	},
 	"yt-NyB4nwLLAq8": {
@@ -99825,7 +99836,7 @@
 			"PLbjDnnBIxiEqVTlmqhbpntiX-LNPSHZqz",
 			"PLbjDnnBIxiEq1lyHQw0wVik2U0W0lmO1p"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt--rldplszJSQ": {
 		"title": "Q&A: Any changes planned for the void area underground?",
@@ -102329,7 +102340,7 @@
 			"features/possible-features/decor",
 			"mods/mods-vs-features"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-dJhg5hbiMoQ": {
 		"title": "Q&A: Did you guys know that today was Matt Mercer's birthday?",
@@ -102985,7 +102996,7 @@
 			"PLbjDnnBIxiErU4o7RRN4bcc2H_F-wO-dl",
 			"PLbjDnnBIxiEqE6cyJPicfKslpaX5zwjCq"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-utp7TQEksi0": {
 		"title": "Q&A: Are we going to get changes to the basic material Recipes?",
@@ -104709,7 +104720,7 @@
 		],
 		"seealso": [
 			"yt-dKn9f4Itqt4,7668,7694",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-ekFl5tlk2ig": {
@@ -107084,7 +107095,7 @@
 			"coffee-stainers/jace",
 			"features/possible-features/decor"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-SiU_cgb0XhI": {
 		"title": "Q&A: Is there a technical reason you only made Mk.5 belts and not higher?",
@@ -108010,7 +108021,7 @@
 		"incoming_video_cards": [
 			"bA-jzp-iFV8"
 		],
-		"duplicatedby": "yt-qNRcXGv9L3w"
+		"duplicatedby": "yt-NmGzgw8odBw,5678,5703"
 	},
 	"yt-uqKyjrtWJ7M": {
 		"title": "Q&A: Snutt plays the game?",
@@ -108167,7 +108178,7 @@
 			"features/save-system"
 		],
 		"seealso": [
-			"yt-qNRcXGv9L3w"
+			"yt-NmGzgw8odBw,5678,5703"
 		]
 	},
 	"yt-1uP0bqUCsrc": {
@@ -110465,10 +110476,10 @@
 			"yt-2JUtqNFl5_8"
 		],
 		"seealso": [
-			"yt-_bX384CCivs",
+			"yt-NmGzgw8odBw,3220,3235",
 			"yt-QCyaQOBPd3o",
 			"yt-EjDWJ7WXkC8",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-hf_B-RfDt5A": {
@@ -110899,7 +110910,7 @@
 		"topics": [
 			"features/possible-features/decor"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-uLe9eMpCxRg": {
 		"title": "Q&A: Vertical elevators for character and transport?",
@@ -111078,7 +111089,8 @@
 			"WLbaUlcla48",
 			"jI0zm0I2KHU",
 			"IEC_Inpb8Cg"
-		]
+		],
+		"duplicatedby": "yt-NmGzgw8odBw,5245,5256"
 	},
 	"yt-Xa03UsMWsjo": {
 		"title": "Q&A: Multiple Body slots, when?",
@@ -115400,7 +115412,7 @@
 			"features/power-management/green-energy",
 			"satisfactory-updates/satisfactory-prototypes"
 		],
-		"duplicatedby": "yt-jxB9EKkm9i0"
+		"duplicatedby": "yt-NmGzgw8odBw,5245,5256"
 	},
 	"is-2517656074582762443": {
 		"title": "Q&A: Please add semi tower defense in this game I'm begging you!",
@@ -116113,7 +116125,7 @@
 			"features/possible-features/decor"
 		],
 		"seealso": [
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-zJ3RVfHpogY": {
@@ -118636,7 +118648,7 @@
 			"coffee-stain-group-ab/coffee-stain-studios"
 		],
 		"seealso": [
-			"yt-I-1tTVA6GAA,4890,4904",
+			"yt-NmGzgw8odBw,4067,4102",
 			"yt-uWmppO45tpc",
 			"yt-fVCw51TOHeA,6505,6573",
 			"yt-ZfUik8FwH2Y"
@@ -119223,10 +119235,10 @@
 			"technology/linux"
 		],
 		"seealso": [
-			"yt-709GAnOAp6Q",
-			"yt-709GAnOAp6Q",
-			"yt-709GAnOAp6Q",
-			"yt-709GAnOAp6Q"
+			"yt-NmGzgw8odBw,4884,4899",
+			"yt-NmGzgw8odBw,4884,4899",
+			"yt-NmGzgw8odBw,4884,4899",
+			"yt-NmGzgw8odBw,4884,4899"
 		]
 	},
 	"yt-3Xf0xozi8zc": {
@@ -122502,7 +122514,7 @@
 			"satisfactory-updates/release-builds",
 			"technology/linux"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-01DJ6EPqTk4": {
 		"title": "Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?",
@@ -123925,7 +123937,7 @@
 			"features/multiplayer",
 			"technology/graphics"
 		],
-		"duplicatedby": "yt-LiELXJcuFKQ"
+		"duplicatedby": "yt-NmGzgw8odBw,7518,7577"
 	},
 	"yt-nQplpfNLru8": {
 		"title": "Q&A: Any plans for underwater mechanics?",
@@ -124049,7 +124061,7 @@
 			"features/buildings",
 			"features/possible-features/decor"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-a1eSZz7wksU": {
 		"title": "Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?",
@@ -127925,7 +127937,7 @@
 		],
 		"seealso": [
 			"yt-SjR3uywQU_U,5762,5789",
-			"yt-709GAnOAp6Q",
+			"yt-NmGzgw8odBw,4884,4899",
 			"yt-NlIVwoRqjVk,211,227"
 		]
 	},
@@ -127959,7 +127971,7 @@
 		],
 		"seealso": [
 			"yt-quJL55MBmZU",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		]
 	},
 	"yt-U7io7UQarus": {
@@ -128050,7 +128062,7 @@
 		"date": "2020-10-06",
 		"topics": [],
 		"seealso": [
-			"yt-709GAnOAp6Q",
+			"yt-NmGzgw8odBw,4884,4899",
 			"yt-xO_uubsn0Fw,6750,6815"
 		]
 	},
@@ -128060,7 +128072,7 @@
 		"topics": [
 			"technology/linux"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-IalBixhW2ck": {
 		"title": "Q&A: Are you okay with Mods?",
@@ -128803,7 +128815,7 @@
 		"seealso": [
 			"yt-9eBugtyk8U0",
 			"yt-isSumSw8bV4",
-			"yt-jxB9EKkm9i0"
+			"yt-NmGzgw8odBw,5245,5256"
 		]
 	},
 	"yt-9eBugtyk8U0": {
@@ -128818,7 +128830,7 @@
 			"yt-NlIVwoRqjVk,1092,1130"
 		],
 		"seealso": [
-			"yt-jxB9EKkm9i0",
+			"yt-NmGzgw8odBw,5245,5256",
 			"yt-I-1tTVA6GAA,2039,2078",
 			"yt-g0JP5QLR-I8",
 			"yt-isSumSw8bV4",
@@ -131170,7 +131182,7 @@
 		"topics": [
 			"features/buildings"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-n0CJicUwDF8": {
 		"title": "Q&A: Will you be able to switch the mousewheel rotation with the hotbar?",
@@ -131607,7 +131619,7 @@
 		"seealso": [
 			"yt-DI8KFc93Qlo",
 			"yt-iahxEfLCFWU,298,310",
-			"yt-_bX384CCivs"
+			"yt-NmGzgw8odBw,3220,3235"
 		],
 		"legacyalts": [
 			"tc-PerfectNurturingTrollRiPepperonis"
@@ -133108,7 +133120,7 @@
 		"legacyalts": [
 			"tc-TriangularColdShingleSquadGoals"
 		],
-		"duplicatedby": "yt-jxB9EKkm9i0"
+		"duplicatedby": "yt-NmGzgw8odBw,5245,5256"
 	},
 	"yt-FuUHMwoNA0s": {
 		"title": "Q&A: Will light be added to the game?",
@@ -133333,7 +133345,7 @@
 		"legacyalts": [
 			"tc-DiligentDeafMangoPogChamp"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-wTbRzvQ8ZLY": {
 		"title": "Q&A: Please make the Walking Bean stop clipping?",
@@ -134696,7 +134708,7 @@
 		"seealso": [
 			"yt-TI92AJYh3eI"
 		],
-		"duplicatedby": "yt-_bX384CCivs"
+		"duplicatedby": "yt-NmGzgw8odBw,3220,3235"
 	},
 	"yt-8c389_Pw_Ic": {
 		"title": "Q&A: Why the stairs and stuff not available earlier in the game?",
@@ -135252,7 +135264,7 @@
 			"technology/mac"
 		],
 		"seealso": [
-			"yt-709GAnOAp6Q",
+			"yt-NmGzgw8odBw,4884,4899",
 			"yt-xO_uubsn0Fw,6750,6815"
 		],
 		"seealso_video_cards": [
@@ -135270,7 +135282,7 @@
 			"technology/linux"
 		],
 		"seealso": [
-			"yt-709GAnOAp6Q",
+			"yt-NmGzgw8odBw,4884,4899",
 			"yt-rmduvSAc3P4"
 		],
 		"seealso_video_cards": [
@@ -136005,7 +136017,7 @@
 			"features/buildables/foundations"
 		],
 		"seealso": [
-			"yt-jxB9EKkm9i0",
+			"yt-NmGzgw8odBw,5245,5256",
 			"yt-FEYF_0Iq4h0"
 		]
 	},
@@ -136500,7 +136512,7 @@
 			"satisfactory-updates/released/satisfactory-update-3"
 		],
 		"seealso": [
-			"yt-I-1tTVA6GAA,4890,4904",
+			"yt-NmGzgw8odBw,4067,4102",
 			"yt-Rumqu_lyapg,14382,14410"
 		],
 		"seealso_topic_cards": [
@@ -138697,7 +138709,7 @@
 			"technology/linux",
 			"technology/mac"
 		],
-		"duplicatedby": "yt-709GAnOAp6Q"
+		"duplicatedby": "yt-NmGzgw8odBw,4884,4899"
 	},
 	"yt-XQioxcXDRqc,0,15": {
 		"title": "Q&A: Are you adding support for Mac any time soon?",
@@ -142685,7 +142697,7 @@
 			"technology/linux"
 		],
 		"seealso": [
-			"yt-709GAnOAp6Q",
+			"yt-NmGzgw8odBw,4884,4899",
 			"yt-xO_uubsn0Fw,6750,6815",
 			"yt-PC0Xik0MuqY"
 		]
