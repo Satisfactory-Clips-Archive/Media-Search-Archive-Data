@@ -1,4 +1,856 @@
 {
+	"yt-iG2A88c8Fd4,1521,1572": {
+		"title": "Q&A: Where is Mikael? (Part 1)",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-iG2A88c8Fd4,1760,1896": {
+		"title": "Q&A: Is that a Slug lamp?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/resources/power-slug",
+			"merch"
+		],
+		"seealso": [
+			"yt-1Qhc66RP7xY"
+		]
+	},
+	"yt-iG2A88c8Fd4,1926,2181": {
+		"title": "Q&A: What was the inspiration for 1.2? (Part 1)",
+		"date": "2026-06-02",
+		"topics": [
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,2257,2302": {
+		"title": "Q&A: What was the inspiration for 1.2? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,2460,2508": {
+		"title": "Q&A: What was the inspiration for 1.2? (Part 3)",
+		"date": "2026-06-02",
+		"topics": [
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,2628,2730": {
+		"title": "Q&A: What was the inspiration for 1.2? (Part 4)",
+		"date": "2026-06-02",
+		"topics": [
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,3825,3960": {
+		"title": "Q&A: What's next for the team after 1.2?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers",
+			"off-topic/sweden",
+			"satisfactory-updates/speculative/satisfactory-1-3"
+		],
+		"replaces": [
+			"yt-3YxdcC6LcQQ,6126,6153",
+			"yt-I-1tTVA6GAA,2528,2565",
+			"yt-HHBFMoNs7xY,7506,7518",
+			"yt-D3f7kEJstPk"
+		],
+		"seealso": [
+			"yt-DXPTIvV6exI,80,141"
+		]
+	},
+	"yt-iG2A88c8Fd4,4721,4792": {
+		"title": "Q&A: If there were any other Game Mode, what would it be?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/game-modes"
+		]
+	},
+	"yt-iG2A88c8Fd4,4933,5011": {
+		"title": "Q&A: Why did CSS rework Vehicle Paths?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/vehicles/autopilot",
+			"satisfactory-updates/released/satisfactory-1-2",
+			"technology/physics"
+		],
+		"replaces": [
+			"yt-FAwx2Gl2qxA,0,29",
+			"yt-p2b6zbUfaTg"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,5010,5089",
+			"yt-iG2A88c8Fd4,3230,3249",
+			"yt-iG2A88c8Fd4,6107,6590",
+			"yt-XABEHCVMvn8"
+		]
+	},
+	"yt-iG2A88c8Fd4,5758,5998": {
+		"title": "Q&A: What's the process Gab & Nikita use for debugging?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/gab",
+			"coffee-stainers/nikita"
+		]
+	},
+	"yt-iG2A88c8Fd4,6068,6087": {
+		"title": "Q&A: Does the Pioneer have hair?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/pioneer"
+		]
+	},
+	"yt-iG2A88c8Fd4,6107,6590": {
+		"title": "Q&A: Were there any challenges that got resolved with the new Vehicle Paths?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/vehicles/autopilot",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,5337,5586",
+			"yt-iG2A88c8Fd4,7435,7547",
+			"yt-iG2A88c8Fd4,4933,5011"
+		]
+	},
+	"yt-iG2A88c8Fd4,6631,6651": {
+		"title": "Q&A: Where is Mikael? (Part 3)",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-iG2A88c8Fd4,6917,6955": {
+		"title": "Q&A: Why exactly did we need the Engine upgrade to get the Weather?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-update-8",
+			"technology/unreal-engine/unreal-engine-5"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,7913,7954",
+			"yt-iG2A88c8Fd4,7435,7547",
+			"yt-OOu9c2fo1_4,6669,6681"
+		]
+	},
+	"yt-iG2A88c8Fd4,7217,7286": {
+		"title": "Q&A: How does the wetness work with the different materials?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2",
+			"technology/graphics",
+			"technology/unreal-engine"
+		]
+	},
+	"yt-iG2A88c8Fd4,7435,7547": {
+		"title": "Q&A: What was the development process like with the new Weather System?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,6917,6955",
+			"yt-iG2A88c8Fd4,6107,6590"
+		]
+	},
+	"yt-iG2A88c8Fd4,7680,7770": {
+		"title": "Q&A: How much strain does the Weather add on the GPU? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2",
+			"technology/graphics"
+		]
+	},
+	"yt-iG2A88c8Fd4,7913,7954": {
+		"title": "Q&A: Do companies have to upgrade Engines? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [
+			"technology",
+			"technology/unreal-engine",
+			"technology/unreal-engine/unreal-engine-5",
+			"technology/unreal-engine/unreal-engine-6"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,6917,6955"
+		]
+	},
+	"yt-iG2A88c8Fd4,1623,1670": {
+		"title": "Q&A: Are any of the CSS Developers from Norway?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,1713,1720",
+			"yt-iG2A88c8Fd4,1669,1720",
+			"yt-iG2A88c8Fd4,1730,1761"
+		]
+	},
+	"yt-iG2A88c8Fd4,1669,1720": {
+		"title": "Q&A: Where is everyone from? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [],
+		"seealso": [
+			"yt-iG2A88c8Fd4,1623,1670",
+			"yt-iG2A88c8Fd4,1713,1720"
+		]
+	},
+	"yt-iG2A88c8Fd4,1713,1720": {
+		"title": "Q&A: Are any of the CSS Developers from Germany?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,1669,1720",
+			"yt-iG2A88c8Fd4,1623,1670",
+			"yt-iG2A88c8Fd4,1730,1761"
+		]
+	},
+	"yt-iG2A88c8Fd4,1719,1731": {
+		"title": "Q&A: Why are you wearing slippers?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers",
+			"off-topic/sweden"
+		],
+		"seealso": [
+			"yt-y1Znn6SBS6w,7019,7060"
+		]
+	},
+	"yt-iG2A88c8Fd4,1730,1761": {
+		"title": "Q&A: Where is everyone from? (Part 3)",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,1623,1670",
+			"yt-iG2A88c8Fd4,1713,1720"
+		]
+	},
+	"yt-iG2A88c8Fd4,1926,2730": {
+		"title": "Q&A: What was the inspiration for 1.2?",
+		"date": "2026-06-02",
+		"topics": []
+	},
+	"yt-iG2A88c8Fd4,2768,2795": {
+		"title": "Q&A: If not Golf, then what other sports might you add? (Part 1)",
+		"date": "2026-06-02",
+		"topics": [
+			"features/unplanned-features/golf"
+		],
+		"seealso": [
+			"yt-NmGzgw8odBw,4155,4347"
+		]
+	},
+	"yt-iG2A88c8Fd4,2794,2839": {
+		"title": "Q&A: Please explain the glowing Train Rails from the last video?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/equipment/customizer",
+			"features/transportation/trains",
+			"satisfactory-updates/teasers-and-trailers/1-2-teasers"
+		],
+		"seealso": [
+			"yt-d0CLc1aKOI8,26,86"
+		]
+	},
+	"yt-iG2A88c8Fd4,2869,2957": {
+		"title": "Q&A: More Satisfactory Lo-Fi?",
+		"date": "2026-06-02",
+		"topics": [
+			"soundtrack"
+		],
+		"seealso": [
+			"yt-gfGIx-hPelQ,6318,6341"
+		]
+	},
+	"yt-iG2A88c8Fd4,2960,2998": {
+		"title": "Q&A: Any Programmer Q&A sessions?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers"
+		],
+		"seealso": [
+			"yt-Jqj6l9wXip4,70,124"
+		]
+	},
+	"yt-iG2A88c8Fd4,2997,3017": {
+		"title": "Q&A: Will 1.2 also drop on Console today?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/console-release",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"duplicates": [
+			"yt-iG2A88c8Fd4,3558,3572"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,8152,8165",
+			"yt-iG2A88c8Fd4,4079,4328"
+		]
+	},
+	"yt-iG2A88c8Fd4,3016,3059": {
+		"title": "Q&A: New Foundation pieces?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/buildables/foundations",
+			"features/requested-features"
+		],
+		"duplicates": [
+			"yt-ovVoBzgz4gA",
+			"yt-AOP6ppi6KhA",
+			"yt-Ck_8bT0Ez1k",
+			"yt-rmrSDP4Bbrs",
+			"yt-WuwsRGT_9FQ"
+		],
+		"seealso": [
+			"yt-jJdIedudxi4",
+			"yt-NmGzgw8odBw,2024,2041",
+			"yt-uWzjA0DGAag",
+			"yt-dKn9f4Itqt4,6428,6512"
+		]
+	},
+	"yt-iG2A88c8Fd4,3058,3086": {
+		"title": "Q&A: Will Trains get a revamp like the Trucks?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/trains",
+			"features/transportation/vehicles/autopilot",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,3127,3135": {
+		"title": "Q&A: Satisfactory 2.0, when?",
+		"date": "2026-06-02",
+		"topics": [
+			"satisfactory-updates/speculative/satisfactory-2-0"
+		]
+	},
+	"yt-iG2A88c8Fd4,3136,3151": {
+		"title": "Q&A: Is it possible to go from 1.1 to 1.2 without the save being corrupted?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/save-system",
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"duplicates": [
+			"yt-I-1tTVA6GAA,3282,3361"
+		],
+		"seealso": [
+			"yt-HHBFMoNs7xY,4677,4682"
+		]
+	},
+	"yt-iG2A88c8Fd4,3161,3223": {
+		"title": "Q&A: Farming?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/possible-features/farming"
+		],
+		"duplicates": [
+			"yt-CCFhq3egWEY",
+			"yt--9WFYJETif4",
+			"yt--pjqXHzqWGE",
+			"yt-1HxhGdiIGwk",
+			"yt-1zv1F61GQuI",
+			"yt-2Cq3xmLN8sQ",
+			"yt-2i5toplIVJo",
+			"yt-2sE4CPkkc3o",
+			"yt-4txPAGPmzXQ",
+			"yt-70U_d1fVoHk",
+			"yt-axNVUjsuMwo",
+			"yt-bGXZgS3dKc8",
+			"yt-DmcB5IOlqVs",
+			"yt-drp-Fjdq8Q0",
+			"yt-ED-aBac3et8",
+			"yt-FqwSycZqJWo",
+			"yt-hv9v539zaa8",
+			"yt-kq125_HSqqE",
+			"yt-L1Ur5X7gVH8",
+			"yt-nwkc5YeXylk",
+			"yt-NWrOF30yb5s",
+			"yt-o2GDy5QKSfQ",
+			"yt-qO1Zl01HfqU",
+			"yt-TpcscsCHVCQ",
+			"yt-UijCvihSvzE",
+			"yt-Ul9AgRudGpw",
+			"yt--JXPsTlJIiI,844,876",
+			"yt-NlIVwoRqjVk,1164,1177"
+		],
+		"seealso": [
+			"yt-I-1tTVA6GAA,4864,4871",
+			"yt-1-qnuaEigs8",
+			"yt-2--yx9IFs7U",
+			"yt-BsNMpP14MPg",
+			"yt-bTv4d3rpidI",
+			"yt-BVeWwm2cyYU",
+			"yt-egeMfFZ2lSs",
+			"yt-FNwy0D9q20E",
+			"yt-haID3MR0-fQ",
+			"yt-hbm5XfpQ1O0",
+			"yt-jPJMi6h_Wh4",
+			"yt-kS3TiCJd-wI",
+			"yt-o0Nv2p1dVMM",
+			"yt-qljHFWpwy10",
+			"yt-utNw--4HLFY",
+			"yt-rATcozDE25c,905,937"
+		]
+	},
+	"yt-iG2A88c8Fd4,3230,3249": {
+		"title": "Q&A: What happens to the existing Vehicle Paths?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/vehicles/autopilot",
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,4933,5011"
+		]
+	},
+	"yt-iG2A88c8Fd4,3248,3259": {
+		"title": "Q&A: If not Golf, then what other sports might you add? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/creatures/lizard-doggo",
+			"features/requested-features",
+			"features/unplanned-features/golf"
+		]
+	},
+	"yt-iG2A88c8Fd4,3260,3293": {
+		"title": "Q&A: Can we pick up the Lizard Doggo?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/creatures/lizard-doggo",
+			"features/requested-features"
+		],
+		"duplicates": [
+			"yt-VwVh6PF_V-c",
+			"yt-fZwy0R_pGDs",
+			"yt-KK-x3KKUMrk",
+			"yt-laV5SyI3MXg",
+			"yt-qdl_Ef5OIMo",
+			"yt-uAJX0gy44Ss",
+			"yt-VOpTrVlT95g",
+			"yt-zN9bnZKIqbo"
+		],
+		"seealso": [
+			"yt-CquWVMvEM2s",
+			"yt-iEwR52Xl2sc",
+			"yt-n7GV7t18JZ8",
+			"yt-QDDE0XSbGB8"
+		]
+	},
+	"yt-iG2A88c8Fd4,3315,3348": {
+		"title": "Q&A: Bigger explosives?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/equipment/nobelisk",
+			"features/requested-features"
+		],
+		"seealso": [
+			"yt-xO_uubsn0Fw,1002,1015",
+			"yt-MIB7RDvr6Gk"
+		]
+	},
+	"yt-iG2A88c8Fd4,3347,3360": {
+		"title": "Q&A: Sleep in the toilet or the HUB to pass time?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/buildings/spwn",
+			"features/buildings/the-hub",
+			"features/requested-features"
+		],
+		"duplicates": [
+			"yt-7TCZm_nIZFU,4840,4880",
+			"yt-9o02HnPy5cY",
+			"yt-84Mwit3dmQk",
+			"yt-f57Lrnspk10",
+			"yt-I-wckc7yt1M",
+			"yt-IjgJZAsYXQc",
+			"yt-jjSwJEPFH6o",
+			"yt-kDwywg_UJoc",
+			"yt-QAOOxosXeDw",
+			"tc-DaintyYummyLemurANELE",
+			"tc-PrettiestObedientLegItsBoshyTime",
+			"yt-U6UAVFjQvVo",
+			"yt-uskbxtN069Q",
+			"yt-vB8Drt_Ybhw"
+		],
+		"seealso": [
+			"yt-5KRdfYoVv-c",
+			"yt-7DWgWPlxhEo,0,21",
+			"yt-KcuUinkvc8M",
+			"yt-BZABc7C2eXA",
+			"yt-HUFsO3ZHBwI"
+		]
+	},
+	"yt-iG2A88c8Fd4,3558,3572": {
+		"title": "Q&A: 1.2 on Console?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/console-release",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"duplicatedby": "yt-iG2A88c8Fd4,2997,3017"
+	},
+	"yt-iG2A88c8Fd4,3644,3784": {
+		"title": "Q&A: Which is most popular in the CSS office, tea or Coffee? (Part 1)",
+		"date": "2026-06-02",
+		"topics": [
+			"off-topic/food-and-drink/coffee"
+		],
+		"seealso": [
+			"yt-CB9bSigNYH8,5304,5308",
+			"yt-7z-BvEjxFsg,174,284"
+		]
+	},
+	"yt-iG2A88c8Fd4,3783,3813": {
+		"title": "Q&A: Where is Mikael? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-iG2A88c8Fd4,3812,3822": {
+		"title": "Q&A: Which is most popular in the CSS office, tea or Coffee? (Part 2)",
+		"date": "2026-06-02",
+		"topics": [
+			"off-topic/food-and-drink/coffee"
+		]
+	},
+	"yt-iG2A88c8Fd4,4015,4080": {
+		"title": "Q&A: Who is Uzu?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/uzu"
+		],
+		"duplicates": [
+			"yt-YGybUYHfFjE,0,93",
+			"yt-RtVbl7ivbaM"
+		],
+		"seealso": [
+			"yt-1SJA0S2IagA",
+			"yt-E9cvnFnfm0M",
+			"yt-hCcT5uhzwso",
+			"yt-KwsiVfRUKNE",
+			"yt-MQSdhIKAjNc",
+			"yt-6HZzPbgw3pg,72,128",
+			"yt-8WZYDHAVmio,3950,4109",
+			"yt-CB9bSigNYH8,361,375",
+			"yt-CB9bSigNYH8,1688,1695",
+			"yt-CB9bSigNYH8,2630,2724",
+			"yt-CB9bSigNYH8,3266,3336",
+			"yt-CG-63B4g11U,130,159",
+			"yt-N1o3tK1h8cM,72,193",
+			"yt-U72R6-uUHDc",
+			"yt-0nvUg3HGvqk",
+			"yt-hO6aEgHMHJk"
+		]
+	},
+	"yt-iG2A88c8Fd4,4079,4328": {
+		"title": "Q&A: Are there any specific challenges with managing a Console release simultaneously with PC?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/uzu",
+			"features/console-release",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,2997,3017"
+		]
+	},
+	"yt-iG2A88c8Fd4,4327,4334": {
+		"title": "Q&A: When do we get the AI girlfriend?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/requested-features/pionr"
+		],
+		"seealso": [
+			"yt-AGB1iJ4yUig"
+		]
+	},
+	"yt-iG2A88c8Fd4,4333,4395": {
+		"title": "Q&A: Was that the Taco Bell alert?",
+		"date": "2026-06-02",
+		"topics": [
+			"off-topic"
+		]
+	},
+	"yt-iG2A88c8Fd4,4394,4698": {
+		"title": "Q&A: What was the anecdote about Randomisation?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/game-modes/randomisation"
+		],
+		"seealso": [
+			"yt-HHBFMoNs7xY,948,973"
+		]
+	},
+	"yt-iG2A88c8Fd4,4697,4708": {
+		"title": "Q&A: How many gigabytes is the Update?",
+		"date": "2026-06-02",
+		"topics": [
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-Gdz6SUv9Om4,8746,8838",
+			"yt-4DYyNkj-BQ0"
+		]
+	},
+	"yt-iG2A88c8Fd4,4707,4722": {
+		"title": "Q&A: Bugs or \"Advanced Build Techniques\"?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/build-modes"
+		]
+	},
+	"yt-iG2A88c8Fd4,5010,5089": {
+		"title": "Q&A: What are the differences between the different Path types?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/vehicles/autopilot",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,4933,5011"
+		]
+	},
+	"yt-iG2A88c8Fd4,5088,5177": {
+		"title": "Q&A: Why would you automate a Factory Cart?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/vehicles/autopilot",
+			"features/transportation/vehicles/factory-cart",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-LRUNHLC-E2M"
+		]
+	},
+	"yt-iG2A88c8Fd4,5337,5586": {
+		"title": "Q&A: Where does the programming of the new system ends and when the visual aesthetics come in?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/transportation/vehicles/autopilot",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,6107,6590"
+		]
+	},
+	"yt-iG2A88c8Fd4,5617,5632": {
+		"title": "Q&A: Why does Jason not simply eat the other five?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-iG2A88c8Fd4,5997,6069": {
+		"title": "Q&A: What's Nikita's hair care routine?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/nikita"
+		],
+		"seealso": [
+			"yt-oMxI9llLuDc",
+			"yt-m_UVVHl1CxA,8603,8630"
+		]
+	},
+	"yt-iG2A88c8Fd4,7081,7218": {
+		"title": "Q&A: What is something the Sound & VFX team have done that people might not have noticed?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers",
+			"coffee-stainers/ben",
+			"coffee-stainers/sacha",
+			"coffee-stainers/vilhelm",
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,7285,7338": {
+		"title": "Q&A: What's your favourite Weather states?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/ben",
+			"coffee-stainers/sacha",
+			"coffee-stainers/vilhelm",
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,7337,7400": {
+		"title": "Q&A: Do you use foley ?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,7399,7436": {
+		"title": "Q&A: Can the thunder be dangerous?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,7546,7639": {
+		"title": "Q&A: How much strain does the Weather add on the GPU? (Part 1)",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-2",
+			"technology/graphics"
+		]
+	},
+	"yt-iG2A88c8Fd4,7638,7681": {
+		"title": "Q&A: Do you need a high spec computer since 1.1?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-iG2A88c8Fd4,7769,7840": {
+		"title": "Q&A: Is there anything we can look forward to when Unreal Engine 6 comes out?",
+		"date": "2026-06-02",
+		"topics": [
+			"technology/unreal-engine/unreal-engine-6"
+		]
+	},
+	"yt-iG2A88c8Fd4,7839,7890": {
+		"title": "Q&A: Do companies have to upgrade Engines? (Part 1)",
+		"date": "2026-06-02",
+		"topics": [
+			"technology",
+			"technology/unreal-engine",
+			"technology/unreal-engine/unreal-engine-5",
+			"technology/unreal-engine/unreal-engine-6"
+		]
+	},
+	"yt-iG2A88c8Fd4,7889,7914": {
+		"title": "Q&A: Satisfactory in VR?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/unplanned-features/vr"
+		],
+		"duplicates": [
+			"yt-HHBFMoNs7xY,7825,7861",
+			"yt-xO_uubsn0Fw,5153,5156",
+			"yt-7TCZm_nIZFU,4054,4072",
+			"yt--NP1VBDg3u4",
+			"yt-0Ld1fbTEOvM",
+			"yt-3s-PKymQ9QU",
+			"yt-4zG6tSYobeM",
+			"yt-5GIATvK8NVQ",
+			"yt-8Cy8AQPkgAY",
+			"yt-A7toMdMe1sc",
+			"yt-aSo4zUTOCwE",
+			"yt-bPmfShefJi4",
+			"yt-eJz8dJImPfQ",
+			"yt-EOHE8e5C9NM",
+			"yt-fPaoCTlPlO0",
+			"yt-FvQdvAf9KL0",
+			"yt-fwmCgo5fnfg",
+			"yt-H3IW4U9gg-g",
+			"yt-IEF1X5YhgJY",
+			"yt-ISlHjGu1RoM",
+			"yt-itxRX2Ubi2E",
+			"yt-njMrANjFNLc",
+			"yt-TKv8QdGLBW0",
+			"yt-vgYHJu3DzeE",
+			"yt-XNNnC1hJliw",
+			"yt-Dtm6xIj-wM4,2442,2535",
+			"yt-iFAy1NZUOGU,66,69",
+			"yt-iVDRQg_aWpU,6314,6352",
+			"yt-Rumqu_lyapg,1803,1874"
+		],
+		"seealso": [
+			"yt-1jJweErvkSM",
+			"yt-3unCSdZQrY0",
+			"yt-bbAIZkim4Ww",
+			"yt-laybFj6QKzA",
+			"yt-uTRxVddL9-w",
+			"yt-V8bMl8Qci8s",
+			"yt-Xd5TIxzat7M",
+			"yt-iVDRQg_aWpU,6444,6472",
+			"yt-ZHumj5MeIcw",
+			"yt-z_DRaH3tfvY"
+		]
+	},
+	"yt-iG2A88c8Fd4,8084,8093": {
+		"title": "Q&A: Is Vilhelm a viking?",
+		"date": "2026-06-02",
+		"topics": [
+			"coffee-stainers/vilhelm"
+		]
+	},
+	"yt-iG2A88c8Fd4,8128,8153": {
+		"title": "Q&A: Can we have the thunderstorm on at all times?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/weather-systems",
+			"features/requested-features"
+		]
+	},
+	"yt-iG2A88c8Fd4,8152,8165": {
+		"title": "Q&A: Does 1.2 launch the same time on GeForce Now?",
+		"date": "2026-06-02",
+		"topics": [
+			"retail/geforce-now",
+			"satisfactory-updates/released/satisfactory-1-2"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,2997,3017",
+			"yt-nNDwaWX7jaI"
+		]
+	},
+	"yt-iG2A88c8Fd4,8187,8207": {
+		"title": "Q&A: Perma-day?",
+		"date": "2026-06-02",
+		"topics": [
+			"features/requested-features",
+			"mods/mods-vs-features"
+		],
+		"duplicates": [
+			"yt-8lBuwhJ_dic,7423,7444",
+			"yt-fgduj_wvIkQ"
+		],
+		"seealso": [
+			"yt-NVtFsZpRAQg"
+		]
+	},
+	"yt-iG2A88c8Fd4,8206,8240": {
+		"title": "Q&A: No Manta mode?",
+		"date": "2026-06-02",
+		"topics": [
+			"environment/creatures/giant-flying-manta",
+			"features/requested-features"
+		],
+		"duplicates": [
+			"yt-oEd6U2GX_Fo",
+			"yt-rV2iNBm3S-k"
+		],
+		"seealso": [
+			"yt-544C8V8neKk",
+			"yt-bWnZ-OI-_Og",
+			"yt-cG95MV6RHhw"
+		]
+	},
 	"yt-NmGzgw8odBw,1571,1586": {
 		"title": "Q&A: Did Jason mean to play Golf in the latest video?",
 		"date": "2026-05-07",
@@ -32,7 +884,7 @@
 			"yt-OzWdyi_EIJ4"
 		],
 		"seealso": [
-			"yt-ovVoBzgz4gA",
+			"yt-iG2A88c8Fd4,3016,3059",
 			"yt-ut9Ttjk45Dg"
 		]
 	},
@@ -163,6 +1015,7 @@
 			"yt-YZLryBB_Muw"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,2768,2795",
 			"yt--lvn00oqfxc",
 			"yt-6eVeKq7a46Q",
 			"yt-7etFcg21qH8",
@@ -280,7 +1133,7 @@
 		"topics": [
 			"environment/weather-systems",
 			"features/power-management/green-energy",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-jxB9EKkm9i0",
@@ -380,8 +1233,8 @@
 		"title": "Q&A: When will the Press Kit get updated for 1.1 & 1.2?",
 		"date": "2026-05-07",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-NmGzgw8odBw,5790,5903": {
@@ -398,7 +1251,7 @@
 		"date": "2026-05-07",
 		"topics": [
 			"mods",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-KLtSzkI-GWc,0,10"
@@ -409,7 +1262,7 @@
 		"date": "2026-05-07",
 		"topics": [
 			"features/equipment/zip-lines",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-NmGzgw8odBw,5958,6005": {
@@ -557,14 +1410,7 @@
 			"satisfactory-updates",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
-		"duplicates": [
-			"yt-I-1tTVA6GAA,2528,2565",
-			"yt-HHBFMoNs7xY,7506,7518",
-			"yt-D3f7kEJstPk"
-		],
-		"seealso": [
-			"yt-DXPTIvV6exI,80,141"
-		]
+		"replacedby": "yt-iG2A88c8Fd4,3825,3960"
 	},
 	"yt-3YxdcC6LcQQ,6217,6268": {
 		"title": "Q&A: What is a feature you campaigned for that got rejected?",
@@ -710,7 +1556,7 @@
 		"title": "Q&A: 1.2 release, when?",
 		"date": "2026-04-14",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-IOkCbcu2cME,1767,1844"
@@ -729,7 +1575,7 @@
 			"features/game-modes/randomisation",
 			"features/requested-features",
 			"features/tiers",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-NmGzgw8odBw,5958,6005"
 	},
@@ -788,7 +1634,7 @@
 			"satisfactory-updates",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
-		"duplicatedby": "yt-3YxdcC6LcQQ,6126,6153"
+		"replacedby": "yt-iG2A88c8Fd4,3825,3960"
 	},
 	"yt-I-1tTVA6GAA,2565,2627": {
 		"title": "Q&A: Could it be possible to write how many nodes there are in the different Game Modes? (Part 1)",
@@ -796,7 +1642,7 @@
 		"topics": [
 			"features/game-modes/randomisation",
 			"features/unplanned-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		],
 		"seealso": [
@@ -829,8 +1675,8 @@
 		"date": "2026-04-14",
 		"topics": [
 			"features/transportation/vehicles/autopilot",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,2830,2841": {
@@ -889,8 +1735,8 @@
 		"topics": [
 			"features/blueprints",
 			"features/transportation/vehicles/autopilot",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,3119,3143": {
@@ -938,12 +1784,10 @@
 		"date": "2026-04-14",
 		"topics": [
 			"features/save-system",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
-		"seealso": [
-			"yt-HHBFMoNs7xY,4677,4682"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,3136,3151"
 	},
 	"yt-I-1tTVA6GAA,3373,3389": {
 		"title": "Q&A: How are you doing Mikael? (Part 3)",
@@ -1003,8 +1847,8 @@
 		"date": "2026-04-14",
 		"topics": [
 			"features/buildings",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,4000,4029": {
@@ -1054,8 +1898,8 @@
 		"topics": [
 			"environment/weather-systems",
 			"features/buildings/the-hub",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,4211,4215": {
@@ -1082,8 +1926,8 @@
 		"date": "2026-04-14",
 		"topics": [
 			"features/build-modes",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,4325,4399": {
@@ -1092,8 +1936,8 @@
 		"topics": [
 			"features/transportation/vehicles/autopilot",
 			"features/unplanned-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,4398,4536": {
@@ -1102,8 +1946,8 @@
 		"topics": [
 			"features/requested-features",
 			"features/transportation/vehicles/autopilot",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,4575,4584": {
@@ -1187,7 +2031,7 @@
 		"topics": [
 			"features/build-modes",
 			"features/fluids/pipes",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-I-1tTVA6GAA,4742,4768": {
@@ -1213,7 +2057,7 @@
 		"topics": [
 			"features/game-modes/randomisation",
 			"features/unplanned-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		]
 	},
@@ -1236,7 +2080,7 @@
 		],
 		"seealso": [
 			"yt-3YxdcC6LcQQ,6217,6268",
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		]
 	},
 	"yt-I-1tTVA6GAA,4870,4875": {
@@ -1441,7 +2285,7 @@
 		"topics": [
 			"features/console-release",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		],
 		"seealso": [
@@ -1475,7 +2319,7 @@
 		"topics": [
 			"features/multiplayer",
 			"features/multiplayer/dedicated-servers",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-SjR3uywQU_U,5756,5762": {
@@ -1567,7 +2411,7 @@
 		"topics": [
 			"features/multiplayer",
 			"features/multiplayer/dedicated-servers",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-SjR3uywQU_U,6217,6239": {
@@ -1576,7 +2420,7 @@
 		"topics": [
 			"features/blueprints",
 			"features/transportation/vehicles/autopilot",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-SjR3uywQU_U,6255,6302": {
@@ -1634,15 +2478,15 @@
 		"title": "Q&A: Are the 1.2 icon issues known or shall we upvote it on the QA Site?",
 		"date": "2026-03-31",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-SjR3uywQU_U,6676,6680": {
 		"title": "Q&A: Bring back the dog rotation technique in 1.2?",
 		"date": "2026-03-31",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-SjR3uywQU_U,6682,6714": {
@@ -1677,7 +2521,7 @@
 		"topics": [
 			"features/fluids/pipes",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,7871,7880"
@@ -1943,7 +2787,7 @@
 		"title": "Q&A: Can you bring back vanilla vertical rotations?",
 		"date": "2026-03-31",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		],
 		"duplicates": [
@@ -2105,8 +2949,8 @@
 		"date": "2026-03-24",
 		"topics": [
 			"features/buildings/spwn",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-OOu9c2fo1_4,5922,5926": {
@@ -2139,8 +2983,8 @@
 		"date": "2026-03-24",
 		"topics": [
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		],
 		"seealso": [
@@ -2152,8 +2996,8 @@
 		"date": "2026-03-24",
 		"topics": [
 			"environment",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-OOu9c2fo1_4,6222,6234": {
@@ -2180,8 +3024,8 @@
 		"date": "2026-03-24",
 		"topics": [
 			"features/game-modes/randomisation",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-OOu9c2fo1_4,6582,6605"
@@ -2327,6 +3171,7 @@
 			"yt-YxlG5Oe_ubk"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,6917,6955",
 			"yt-Y2ikAUhc19E,9512,9562",
 			"yt-5Opts7tOZys",
 			"yt-CFbITKY6Cng",
@@ -2340,8 +3185,8 @@
 		"title": "Q&A: Keyboard mapping correction for the AZERTY keyboard?",
 		"date": "2026-03-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		],
 		"seealso": [
@@ -2360,8 +3205,8 @@
 		"title": "Q&A: Where can the Patch Notes be found?",
 		"date": "2026-03-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-xO_uubsn0Fw,6639,6712"
@@ -2495,7 +3340,7 @@
 			"features/requested-features",
 			"features/transportation/trains",
 			"features/transportation/vehicles",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-OOu9c2fo1_4,7063,7102": {
@@ -2530,8 +3375,8 @@
 		"title": "Q&A: I take it today's patches are just bug fixes?",
 		"date": "2026-03-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-OOu9c2fo1_4,7284,7314": {
@@ -2555,7 +3400,7 @@
 			"features/requested-features",
 			"features/transportation/vehicles",
 			"features/transportation/vehicles/autopilot",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-OOu9c2fo1_4,7332,7352": {
@@ -2588,8 +3433,8 @@
 		"title": "Q&A: What is this stream?",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,1774,1831",
@@ -2602,8 +3447,8 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-Y2ikAUhc19E,5721,5785"
@@ -2618,8 +3463,8 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,1356,1523": {
@@ -2627,8 +3472,8 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,5226,5244": {
@@ -2636,8 +3481,8 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,5922,5925": {
@@ -2645,8 +3490,8 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,1274,1291": {
@@ -2663,8 +3508,8 @@
 		"title": "Q&A: What is EXP? (Part 1)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-6H79BTIrlbc,91,121"
@@ -2678,32 +3523,32 @@
 		"title": "Q&A: What is EXP? (Part 2)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,4966,4983": {
 		"title": "Q&A: What is EXP? (Part 3)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,5612,5621": {
 		"title": "Q&A: What is EXP? (Part 4)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,6213,6250": {
 		"title": "Q&A: What is EXP? (Part 5)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,964,991": {
@@ -2795,7 +3640,7 @@
 		"date": "2026-03-17",
 		"topics": [
 			"community/josh",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,1722,1744": {
@@ -2811,7 +3656,7 @@
 		"topics": [
 			"features/emotes",
 			"features/multiplayer",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-4lESCHId0iU"
@@ -2826,8 +3671,8 @@
 		"topics": [
 			"coffee-stainers/jason",
 			"coffee-stainers/mikael",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,1101,1251"
@@ -2838,7 +3683,7 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		],
 		"duplicates": [
@@ -2852,7 +3697,7 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		]
 	},
@@ -2861,7 +3706,7 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/user-interface"
 		]
 	},
@@ -2896,8 +3741,8 @@
 		"title": "Q&A: Did Jason & Mikael tell us more 1.2 stuff?",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,8581,8587",
@@ -3098,10 +3943,10 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/save-system",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
-			"yt-I-1tTVA6GAA,3282,3361",
+			"yt-iG2A88c8Fd4,3136,3151",
 			"yt-HHBFMoNs7xY,845,893"
 		]
 	},
@@ -3157,7 +4002,7 @@
 			"coffee-stainers/mikael",
 			"features/game-modes/randomisation",
 			"features/photo-mode",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,8889,9037"
@@ -3205,7 +4050,7 @@
 		"topics": [
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
-		"duplicatedby": "yt-3YxdcC6LcQQ,6126,6153"
+		"replacedby": "yt-iG2A88c8Fd4,3825,3960"
 	},
 	"yt-HHBFMoNs7xY,7518,7537": {
 		"title": "Q&A: SAM Paint finish?",
@@ -3293,8 +4138,8 @@
 		"title": "Q&A: How long roughly between EXP and full release? (Part 1)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,932,948"
@@ -3304,16 +4149,16 @@
 		"title": "Q&A: How long roughly between EXP and full release? (Part 2)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,8883,8888": {
 		"title": "Q&A: How long roughly between EXP and full release? (Part 3)",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,7767,7792": {
@@ -3335,55 +4180,14 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicates": [
-			"yt-xO_uubsn0Fw,5153,5156",
-			"yt-7TCZm_nIZFU,4054,4072",
-			"yt--NP1VBDg3u4",
-			"yt-0Ld1fbTEOvM",
-			"yt-3s-PKymQ9QU",
-			"yt-4zG6tSYobeM",
-			"yt-5GIATvK8NVQ",
-			"yt-8Cy8AQPkgAY",
-			"yt-A7toMdMe1sc",
-			"yt-aSo4zUTOCwE",
-			"yt-bPmfShefJi4",
-			"yt-eJz8dJImPfQ",
-			"yt-EOHE8e5C9NM",
-			"yt-fPaoCTlPlO0",
-			"yt-FvQdvAf9KL0",
-			"yt-fwmCgo5fnfg",
-			"yt-H3IW4U9gg-g",
-			"yt-IEF1X5YhgJY",
-			"yt-ISlHjGu1RoM",
-			"yt-itxRX2Ubi2E",
-			"yt-njMrANjFNLc",
-			"yt-TKv8QdGLBW0",
-			"yt-vgYHJu3DzeE",
-			"yt-XNNnC1hJliw",
-			"yt-Dtm6xIj-wM4,2442,2535",
-			"yt-iFAy1NZUOGU,66,69",
-			"yt-iVDRQg_aWpU,6314,6352",
-			"yt-Rumqu_lyapg,1803,1874"
-		],
-		"seealso": [
-			"yt-1jJweErvkSM",
-			"yt-3unCSdZQrY0",
-			"yt-bbAIZkim4Ww",
-			"yt-laybFj6QKzA",
-			"yt-uTRxVddL9-w",
-			"yt-V8bMl8Qci8s",
-			"yt-Xd5TIxzat7M",
-			"yt-iVDRQg_aWpU,6444,6472",
-			"yt-ZHumj5MeIcw",
-			"yt-z_DRaH3tfvY"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-HHBFMoNs7xY,7871,7880": {
 		"title": "Q&A: Does the Pipe Junction have priority?",
 		"date": "2026-03-17",
 		"topics": [
 			"features/fluids/pipes",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replaces": [
 			"yt-8y34cWJL22Q"
@@ -3407,7 +4211,7 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/build-modes/nudge-mode",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-RyNyODqDIuA",
@@ -3484,7 +4288,7 @@
 		"title": "Q&A: Were there last-minute additions pushed in 1.2?",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-HHBFMoNs7xY,8155,8182": {
@@ -3525,8 +4329,8 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/save-system",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,4677,4682"
@@ -3544,7 +4348,7 @@
 		"title": "Q&A: Would you mind spoiling one tiny thing we haven't seen?",
 		"date": "2026-03-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-HHBFMoNs7xY,2006,2028"
@@ -3668,7 +4472,7 @@
 		"date": "2026-03-17",
 		"topics": [
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"story-and-lore/characters/ada"
 		]
 	},
@@ -3745,6 +4549,7 @@
 			"yt-rATcozDE25c,632,696"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,4394,4698",
 			"yt-I-1tTVA6GAA,2565,2627",
 			"yt-SjR3uywQU_U,6123,6154",
 			"yt-OOu9c2fo1_4,6928,6964",
@@ -3895,7 +4700,7 @@
 		"title": "Q&A: Do you guys have a date planned for the release date of 1.2 on the main branch?",
 		"date": "2026-03-10",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-I-1tTVA6GAA,2115,2127"
@@ -3916,7 +4721,7 @@
 		"date": "2026-03-10",
 		"topics": [
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-dKn9f4Itqt4,6364,6419",
@@ -4035,7 +4840,7 @@
 		"topics": [
 			"features/fluids",
 			"features/transportation/vehicles/truck",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-rxi_M0xKnpI"
@@ -4092,7 +4897,7 @@
 		"date": "2026-03-10",
 		"topics": [
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-8lBuwhJ_dic,5970,6000"
@@ -4143,12 +4948,7 @@
 			"mods/mods-vs-features",
 			"technology/graphics"
 		],
-		"duplicates": [
-			"yt-fgduj_wvIkQ"
-		],
-		"seealso": [
-			"yt-NVtFsZpRAQg"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,8187,8207"
 	},
 	"yt-8lBuwhJ_dic,7443,7464": {
 		"title": "Q&A: How is finishing the game on controller going?",
@@ -4221,7 +5021,7 @@
 			"features/buildables",
 			"features/buildables/conveyor-belts",
 			"features/fluids/pipes",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/unreal-engine/object-limit"
 		],
 		"replaces": [
@@ -4278,7 +5078,7 @@
 		"title": "Q&A: 1.2, when?",
 		"date": "2026-02-27",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replaces": [
 			"yt-dKn9f4Itqt4,1352,1474",
@@ -4328,7 +5128,7 @@
 		"title": "Q&A: Have you guys nerfed factories?",
 		"date": "2026-02-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-Grjwb4aCkNE"
@@ -4351,7 +5151,7 @@
 		"title": "Q&A: Is 1.2 confirmed?",
 		"date": "2026-02-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -4531,7 +5331,7 @@
 		"date": "2026-02-24",
 		"topics": [
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-8lBuwhJ_dic,5970,6000"
 	},
@@ -4546,7 +5346,7 @@
 			"yt-OMvSdtl1-TM"
 		],
 		"seealso": [
-			"yt-ovVoBzgz4gA",
+			"yt-iG2A88c8Fd4,3016,3059",
 			"yt-1iZRbF02M10",
 			"yt-cjt9AurLbU4",
 			"yt-osbKywtyWZs"
@@ -4593,7 +5393,7 @@
 		"date": "2026-02-24",
 		"topics": [
 			"environment/weather-systems",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-OOu9c2fo1_4,6669,6681"
 	},
@@ -4651,7 +5451,7 @@
 		"date": "2026-02-24",
 		"topics": [
 			"features/multiplayer/dedicated-servers",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-aaFn3vzLytk,0,140",
@@ -4669,7 +5469,7 @@
 		"topics": [
 			"features/fluids",
 			"features/fluids/pipes",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-3m36IDlbrKI"
@@ -4711,7 +5511,7 @@
 		"title": "Q&A: Does 1.2 take advantage of any Lumen improvements in Unreal Engine 5.6?",
 		"date": "2026-02-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/unreal-engine/unreal-engine-5"
 		]
 	},
@@ -4854,7 +5654,7 @@
 		"date": "2026-02-24",
 		"topics": [
 			"features/unplanned-features/golf",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-NmGzgw8odBw,4155,4347"
 	},
@@ -4862,7 +5662,7 @@
 		"title": "Q&A: Does anything new use Nanite in 1.2?",
 		"date": "2026-02-24",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/unreal-engine/unreal-engine-5"
 		],
 		"seealso": [
@@ -4931,7 +5731,7 @@
 		"date": "2026-02-24",
 		"topics": [
 			"features/buildables",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/unreal-engine/object-limit"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1617,1636"
@@ -4972,7 +5772,7 @@
 		"date": "2026-02-24",
 		"topics": [
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-dKn9f4Itqt4,8008,8086": {
@@ -5010,17 +5810,16 @@
 			"yt-5t56gFZ8I0M"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,3315,3348",
 			"yt-9C-nS_aD7xc",
-			"yt-xO_uubsn0Fw,1002,1015",
-			"yt-18adbNCTav4",
-			"yt-xO_uubsn0Fw,1002,1015"
+			"yt-18adbNCTav4"
 		]
 	},
 	"yt-xO_uubsn0Fw,1024,1178": {
 		"title": "Q&A: Do you have any plans for releasing 1.2 in the future? (Part 1)",
 		"date": "2026-02-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -5037,7 +5836,7 @@
 		"title": "Q&A: Do you have any plans for releasing 1.2 in the future? (Part 2)",
 		"date": "2026-02-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -5057,7 +5856,7 @@
 		"title": "Q&A: Do you have any plans for releasing 1.2 in the future? (Part 3)",
 		"date": "2026-02-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-xO_uubsn0Fw,1556,1591": {
@@ -5128,7 +5927,7 @@
 		"title": "Q&A: How many gigabytes is the 1.2 Update?",
 		"date": "2026-02-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-xO_uubsn0Fw,2600,2651": {
@@ -5136,7 +5935,7 @@
 		"date": "2026-02-17",
 		"topics": [
 			"features/buildings/space-elevator",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-xO_uubsn0Fw,2655,2659": {
@@ -5178,15 +5977,15 @@
 		"title": "Q&A: Will there be anything not released in Experimental held for official release?",
 		"date": "2026-02-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/release-builds"
+			"satisfactory-updates/release-builds",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-xO_uubsn0Fw,3050,3120": {
 		"title": "Q&A: Does 1.2 have a theme?",
 		"date": "2026-02-17",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-xO_uubsn0Fw,3373,3397": {
@@ -5264,7 +6063,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-xO_uubsn0Fw,5478,5547": {
 		"title": "Q&A: Is Jason locked in a basement?",
@@ -5300,7 +6099,7 @@
 		"date": "2026-02-17",
 		"topics": [
 			"features/fluids",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-VrT480n5c2E"
@@ -5332,7 +6131,7 @@
 		"date": "2026-02-17",
 		"topics": [
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-8lBuwhJ_dic,5970,6000"
 	},
@@ -5354,7 +6153,7 @@
 		"date": "2026-02-17",
 		"topics": [
 			"features/transportation/vehicles/explorer",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-dLqdFXh8pTk"
@@ -5576,7 +6375,7 @@
 			"features/fluids",
 			"features/requested-features",
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-5q4sSvCP_po",
@@ -5863,7 +6662,7 @@
 		"date": "2026-02-10",
 		"topics": [
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-8lBuwhJ_dic,5970,6000"
 	},
@@ -6034,7 +6833,7 @@
 		"title": "Q&A: What are the chances that 1.2 will break current working factories?",
 		"date": "2026-02-10",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-Y2ikAUhc19E,8317,8352": {
@@ -6061,7 +6860,7 @@
 		"title": "Q&A: Are HDR / other visual improvements coming in 1.2?",
 		"date": "2026-02-10",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/graphics",
 			"technology/unreal-engine/unreal-engine-5"
 		],
@@ -6109,7 +6908,7 @@
 		"date": "2026-02-10",
 		"topics": [
 			"features/achievements",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-2hb_I_nZmKA,23,85"
@@ -6119,7 +6918,7 @@
 		"title": "Q&A: Are we going to get new Story stuff?",
 		"date": "2026-02-10",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"story-and-lore"
 		],
 		"seealso": [
@@ -6171,7 +6970,7 @@
 		"date": "2026-02-10",
 		"topics": [
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-Xz1-3Fjdy_4",
@@ -6321,7 +7120,7 @@
 		"date": "2026-02-10",
 		"topics": [
 			"features/buildings/awesome-store",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-ff7kc51OUeg,5706,5716"
@@ -6331,7 +7130,7 @@
 		"title": "Q&A: Is 1.2 going to be today?",
 		"date": "2026-02-10",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -6352,16 +7151,16 @@
 		"date": "2026-02-10",
 		"topics": [
 			"features/buildings/awesome-store",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-Y2ikAUhc19E,9512,9562": {
 		"title": "Q&A: What is the reasoning behind the Unreal Engine update?",
 		"date": "2026-02-10",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/unreal-engine/unreal-engine-5"
 		],
 		"seealso": [
@@ -6663,7 +7462,7 @@
 			"features/console-release",
 			"features/possible-features/dlc",
 			"satisfactory-updates",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3",
 			"satisfactory-updates/speculative/satisfactory-1-4",
 			"satisfactory-updates/speculative/satisfactory-2-0"
@@ -6969,7 +7768,7 @@
 		"topics": [
 			"features/console-release",
 			"features/possible-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-HHBFMoNs7xY,1831,1858"
 	},
@@ -7013,7 +7812,7 @@
 			"features/buildings/space-elevator",
 			"features/game-modes",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-eFqU_XQfL8A",
@@ -7030,7 +7829,7 @@
 		"date": "2025-12-02",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replaces": [
 			"yt-uAx7gdQ26N4",
@@ -7092,7 +7891,7 @@
 		"date": "2025-12-02",
 		"topics": [
 			"environment/weather-systems",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/unreal-engine/unreal-engine-5"
 		],
 		"replacedby": "yt-OOu9c2fo1_4,6669,6681"
@@ -7101,8 +7900,8 @@
 		"title": "Q&A: Is 1.2 going to come out this year? (Part 1)",
 		"date": "2025-12-02",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/seasonal-events/fics-mas"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
@@ -7239,7 +8038,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-7TCZm_nIZFU,4072,4091": {
 		"title": "Q&A: Heard anything about hypertube entrances picking you up when they're not on?",
@@ -7252,7 +8051,7 @@
 		"title": "Q&A: Hints about 1.2? (Part 1)",
 		"date": "2025-12-02",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/teasers-and-trailers/1-2-teasers"
 		],
 		"seealso": [
@@ -7267,28 +8066,7 @@
 			"features/pioneer",
 			"features/requested-features"
 		],
-		"duplicates": [
-			"yt-9o02HnPy5cY",
-			"yt-84Mwit3dmQk",
-			"yt-f57Lrnspk10",
-			"yt-I-wckc7yt1M",
-			"yt-IjgJZAsYXQc",
-			"yt-jjSwJEPFH6o",
-			"yt-kDwywg_UJoc",
-			"yt-QAOOxosXeDw",
-			"tc-DaintyYummyLemurANELE",
-			"tc-PrettiestObedientLegItsBoshyTime",
-			"yt-U6UAVFjQvVo",
-			"yt-uskbxtN069Q",
-			"yt-vB8Drt_Ybhw"
-		],
-		"seealso": [
-			"yt-5KRdfYoVv-c",
-			"yt-7DWgWPlxhEo,0,21",
-			"yt-KcuUinkvc8M",
-			"yt-BZABc7C2eXA",
-			"yt-HUFsO3ZHBwI"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-7TCZm_nIZFU,4889,4943": {
 		"title": "Q&A: Will there be an option to sleep in the HUB to skip the night? (Part 2)",
@@ -7330,7 +8108,7 @@
 		"date": "2025-12-02",
 		"topics": [
 			"features/unplanned-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-NylDyER79yM,0,72": {
@@ -7346,7 +8124,7 @@
 		"date": "2025-12-02",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-7TCZm_nIZFU,7110,7144": {
@@ -7574,8 +8352,8 @@
 			"features/unplanned-features/golf",
 			"off-topic/final-fantasy",
 			"satisfactory-updates",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-0",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-update-1",
 			"satisfactory-updates/released/satisfactory-update-2",
 			"satisfactory-updates/released/satisfactory-update-3",
@@ -7679,7 +8457,7 @@
 		"title": "Q&A: When does 1.2 start getting Teasers? (Part 1)",
 		"date": "2025-11-11",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/teasers-and-trailers/1-2-teasers",
 			"trolling"
 		],
@@ -7810,12 +8588,7 @@
 			"features/transportation/vehicles/autopilot",
 			"satisfactory-updates/teasers-and-trailers/1-2-teasers"
 		],
-		"duplicates": [
-			"yt-p2b6zbUfaTg"
-		],
-		"seealso": [
-			"yt-XABEHCVMvn8"
-		]
+		"replacedby": "yt-iG2A88c8Fd4,4933,5011"
 	},
 	"yt-MunCq5FXjg8,0,43": {
 		"title": "Q&A: With Consoles having their Blueprints baked into their saves, will that be an option for PC?",
@@ -7857,6 +8630,7 @@
 			"soundtrack"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,2869,2957",
 			"yt-vzEVLo0c5Ls"
 		]
 	},
@@ -7964,7 +8738,7 @@
 		"date": "2025-11-04",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"trolling"
 		]
 	},
@@ -7973,7 +8747,7 @@
 		"date": "2025-11-04",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"trolling"
 		]
 	},
@@ -7990,8 +8764,8 @@
 		"date": "2025-11-04",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/seasonal-events/fics-mas"
 		]
 	},
@@ -8082,7 +8856,7 @@
 		"date": "2025-11-04",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"trolling"
 		],
 		"duplicates": [
@@ -8169,7 +8943,7 @@
 		],
 		"seealso": [
 			"yt-2qT0tUC8VoA,0,27",
-			"yt-YGybUYHfFjE,0,93",
+			"yt-iG2A88c8Fd4,4015,4080",
 			"yt-hO6aEgHMHJk",
 			"yt-Im3yXvWhlEc"
 		]
@@ -8181,27 +8955,7 @@
 			"coffee-stainers/uzu",
 			"off-topic/food-and-drink/pizza"
 		],
-		"duplicates": [
-			"yt-RtVbl7ivbaM"
-		],
-		"seealso": [
-			"yt-1SJA0S2IagA",
-			"yt-E9cvnFnfm0M",
-			"yt-hCcT5uhzwso",
-			"yt-KwsiVfRUKNE",
-			"yt-MQSdhIKAjNc",
-			"yt-6HZzPbgw3pg,72,128",
-			"yt-8WZYDHAVmio,3950,4109",
-			"yt-CB9bSigNYH8,361,375",
-			"yt-CB9bSigNYH8,1688,1695",
-			"yt-CB9bSigNYH8,2630,2724",
-			"yt-CB9bSigNYH8,3266,3336",
-			"yt-CG-63B4g11U,130,159",
-			"yt-N1o3tK1h8cM,72,193",
-			"yt-U72R6-uUHDc",
-			"yt-0nvUg3HGvqk",
-			"yt-hO6aEgHMHJk"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,4015,4080"
 	},
 	"yt-0nvUg3HGvqk": {
 		"title": "Q&A: What did Guru like so much about Satisfactory before joining CSS?",
@@ -8210,7 +8964,7 @@
 			"coffee-stainers/guru"
 		],
 		"seealso": [
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-LzOHpaOl6ro": {
@@ -8264,7 +9018,7 @@
 		],
 		"seealso": [
 			"yt-U72R6-uUHDc",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-JHTclPMvdxc": {
@@ -8477,7 +9231,7 @@
 		],
 		"seealso": [
 			"yt-U72R6-uUHDc",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-P12elmeK-NU,5012,5018": {
@@ -8526,7 +9280,7 @@
 		"seealso": [
 			"yt-ORJx_gm-PJ4",
 			"yt-piTvF4dhY0I",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-P12elmeK-NU,6018,6203": {
@@ -8545,8 +9299,8 @@
 		"date": "2025-11-04",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/seasonal-events/fics-mas"
 		],
 		"duplicatedby": "yt-XGX4HqoypQg,0,374"
@@ -8582,7 +9336,7 @@
 		"topics": [
 			"features/possible-features/dlc",
 			"satisfactory-updates",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-1XE5PQG9k_k",
@@ -8805,6 +9559,7 @@
 			"yt-2aPewfg_pUQ"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,4697,4708",
 			"yt-pV_fYCOpw34,437,453"
 		]
 	},
@@ -8929,7 +9684,7 @@
 		"title": "Q&A: 1.2, when?",
 		"date": "2025-11-04",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -9042,7 +9797,7 @@
 		"title": "Q&A: Do we know at least if 1.2 is 2025 or 2026?",
 		"date": "2025-10-28",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -9050,7 +9805,7 @@
 		"title": "Q&A: Do we know what quarter?",
 		"date": "2025-10-28",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-XL6LuYWKlSA,0,10": {
@@ -9058,7 +9813,7 @@
 		"date": "2025-10-28",
 		"topics": [
 			"features/equipment/customizer",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		]
 	},
@@ -9067,7 +9822,7 @@
 		"date": "2025-10-28",
 		"topics": [
 			"features/equipment/customizer",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		]
 	},
@@ -9088,8 +9843,8 @@
 		"topics": [
 			"features/requested-features",
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
 		"duplicates": [
@@ -9139,9 +9894,9 @@
 		"topics": [
 			"features/requested-features",
 			"features/transportation/vehicles/autopilot",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
-		"duplicatedby": "yt-FAwx2Gl2qxA,0,29"
+		"replacedby": "yt-iG2A88c8Fd4,4933,5011"
 	},
 	"yt-R9Uo1xTl0AI": {
 		"title": "Q&A: Will you add Fluid Drones?",
@@ -9150,7 +9905,7 @@
 			"features/fluids",
 			"features/requested-features",
 			"features/transportation/vehicles/drones",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-YWQVYpImiyM": {
@@ -9160,7 +9915,7 @@
 			"features/fluids",
 			"features/requested-features",
 			"features/transportation/vehicles/truck",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-rxi_M0xKnpI"
@@ -9187,7 +9942,7 @@
 		"date": "2025-10-28",
 		"topics": [
 			"features/unplanned-features/golf",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"trolling"
 		]
 	},
@@ -9197,7 +9952,7 @@
 		"topics": [
 			"features/buildings/dimensional-depot",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-xO_uubsn0Fw,6898,6905"
 	},
@@ -9205,7 +9960,7 @@
 		"title": "Q&A: Will there be any other features in 1.2 that will impact planning with current factories?",
 		"date": "2025-10-28",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-rxi_M0xKnpI": {
@@ -9214,7 +9969,7 @@
 		"topics": [
 			"features/fluids",
 			"features/transportation/vehicles/truck",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replaces": [
 			"yt-2EiZU9aWekQ",
@@ -9288,7 +10043,7 @@
 			"features/fluids",
 			"features/transportation/vehicles/factory-cart",
 			"features/transportation/vehicles/tractor",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-rxi_M0xKnpI"
@@ -9299,7 +10054,7 @@
 		"date": "2025-10-28",
 		"topics": [
 			"features/fluids",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-xO_uubsn0Fw,5901,5964"
 	},
@@ -9308,7 +10063,7 @@
 		"date": "2025-10-28",
 		"topics": [
 			"features/transportation/vehicles",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-U33dCEd7lBI"
@@ -9319,7 +10074,7 @@
 		"date": "2025-10-28",
 		"topics": [
 			"features/game-modes",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-rxi_M0xKnpI"
@@ -9349,7 +10104,7 @@
 			"features/fluids",
 			"features/requested-features",
 			"features/transportation/trains",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-5gocUPR3gbQ": {
@@ -9383,7 +10138,7 @@
 			"environment/biomes",
 			"environment/world-map",
 			"satisfactory-updates",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
 		"seealso": [
@@ -9405,7 +10160,7 @@
 		"title": "Q&A: Is there a release date for the 1.2 Feature list?",
 		"date": "2025-10-28",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-NmGzgw8odBw,4155,4347"
@@ -9527,7 +10282,7 @@
 		"topics": [
 			"features/fluids",
 			"features/transportation/vehicles/truck",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/teasers-and-trailers/1-2-teasers"
 		],
 		"seealso": [
@@ -9581,8 +10336,8 @@
 		"date": "2025-10-28",
 		"topics": [
 			"environment/weather-systems",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-OOu9c2fo1_4,6669,6681"
 	},
@@ -9606,9 +10361,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9635,9 +10390,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9664,9 +10419,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9693,9 +10448,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9722,9 +10477,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9751,9 +10506,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9780,9 +10535,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9809,9 +10564,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9838,9 +10593,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9867,9 +10622,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9896,9 +10651,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9925,9 +10680,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9954,9 +10709,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -9983,9 +10738,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -10013,9 +10768,9 @@
 			"off-topic/sweden",
 			"off-topic/valheim",
 			"retail",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/release-builds",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers",
 			"technology/physics",
@@ -10031,7 +10786,7 @@
 			"features/game-modes",
 			"features/requested-features",
 			"features/tiers/tier-10",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		]
 	},
@@ -10044,7 +10799,7 @@
 			"features/game-modes",
 			"features/requested-features",
 			"features/tiers/tier-10",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		]
 	},
@@ -10055,7 +10810,7 @@
 			"features/buildables/foundations",
 			"features/buildables/walls",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-ut9Ttjk45Dg"
 	},
@@ -10066,7 +10821,7 @@
 			"features/buildables/foundations",
 			"features/buildables/walls",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-Tn0YbVlJNRA,0,142": {
@@ -10123,7 +10878,7 @@
 		"topics": [
 			"features/buildables",
 			"features/crafting/recipes/alternate-recipes",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-dKn9f4Itqt4,7900,7906"
 	},
@@ -10157,7 +10912,7 @@
 		"topics": [
 			"features/game-modes",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-dUS1wSorYGA",
@@ -10183,7 +10938,7 @@
 			"features/fluids",
 			"features/fluids/pipes",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-DXPTIvV6exI,80,141",
@@ -10219,7 +10974,7 @@
 		"date": "2025-10-21",
 		"topics": [
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"technology/graphics"
 		],
 		"duplicates": [
@@ -10269,7 +11024,7 @@
 		"date": "2025-10-21",
 		"topics": [
 			"features/roadmap",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3"
 		],
 		"duplicates": [
@@ -10292,7 +11047,7 @@
 			"satisfactory-updates/speculative/satisfactory-1-3",
 			"trolling"
 		],
-		"duplicatedby": "yt-3YxdcC6LcQQ,6126,6153"
+		"replacedby": "yt-iG2A88c8Fd4,3825,3960"
 	},
 	"yt-jjSwJEPFH6o": {
 		"title": "Q&A: When do we get to sleep in the beds inside The HUB?",
@@ -10302,7 +11057,7 @@
 			"features/pioneer",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-Kxz5Eb3yadE": {
 		"title": "Q&A: If distant spline hitboxes get removed, will the Fluid fall out of the Pipes?",
@@ -10377,7 +11132,7 @@
 		"topics": [
 			"features/console-release",
 			"features/roadmap",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-LQRcYO_-MJM"
 	},
@@ -10387,7 +11142,7 @@
 		"topics": [
 			"features/buildables/walls",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-dKn9f4Itqt4,7668,7694"
 	},
@@ -10397,7 +11152,7 @@
 		"topics": [
 			"features/buildables/walls",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-znbWStfyO8I,1796,1870": {
@@ -10418,8 +11173,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10445,8 +11200,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10472,8 +11227,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10499,8 +11254,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10526,8 +11281,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10556,8 +11311,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10583,8 +11338,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10610,8 +11365,8 @@
 			"features/save-system",
 			"features/transportation/hypertubes",
 			"off-topic/final-fantasy",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev",
 			"technology/physics",
 			"technology/user-interface",
@@ -10694,7 +11449,7 @@
 		"date": "2025-10-14",
 		"topics": [
 			"coffee-stainers/emmet",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-Y2ikAUhc19E,8368,8403"
 	},
@@ -10703,7 +11458,7 @@
 		"date": "2025-10-14",
 		"topics": [
 			"features/console-release",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-DXPTIvV6exI,80,141"
@@ -10734,7 +11489,7 @@
 		"date": "2025-10-14",
 		"topics": [
 			"coffee-stainers/lym",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"trolling"
 		],
 		"seealso": [
@@ -10909,7 +11664,7 @@
 		"topics": [
 			"features/buildables/elevators",
 			"features/requested-features",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicates": [
 			"yt-e9h94OV8lo8"
@@ -11049,7 +11804,7 @@
 		"topics": [
 			"features/buildables/walls",
 			"features/buildables/windows",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-DXPTIvV6exI,80,141",
@@ -11208,8 +11963,8 @@
 			"features/console-release",
 			"features/console-release/fishlabs",
 			"features/photo-mode",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev"
 		]
 	},
@@ -11228,8 +11983,8 @@
 			"features/console-release",
 			"features/console-release/fishlabs",
 			"features/photo-mode",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev"
 		]
 	},
@@ -11248,8 +12003,8 @@
 			"features/console-release",
 			"features/console-release/fishlabs",
 			"features/photo-mode",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/state-of-dev"
 		]
 	},
@@ -11288,8 +12043,8 @@
 		"topics": [
 			"features/console-release",
 			"features/possible-features/dlc",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-I-1tTVA6GAA,3797,3799"
 	},
@@ -11693,7 +12448,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-i-t3UzyQgUk": {
 		"title": "Q&A: What is the best way to keep your Drones & Drone Ports fueled?",
@@ -12120,7 +12875,7 @@
 			"coffee-stainers/emmet",
 			"features/possible-features",
 			"satisfactory-updates",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"special-guests"
 		],
 		"seealso": [
@@ -12152,7 +12907,7 @@
 			"coffee-stainers/emmet",
 			"features/possible-features/dlc",
 			"satisfactory-updates",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"special-guests"
 		],
 		"seealso": [
@@ -12261,6 +13016,7 @@
 			"special-guests"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,5997,6069",
 			"yt-m_UVVHl1CxA,8629,8691"
 		]
 	},
@@ -12483,7 +13239,7 @@
 		"topics": [
 			"coffee-stainers/lym",
 			"features",
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"special-guests"
 		],
 		"seealso": [
@@ -12689,8 +13445,8 @@
 		"title": "Q&A: 1.2, when?; 1.3, when?; 1.4, when?",
 		"date": "2025-06-03",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-4",
 			"satisfactory-updates/speculative/satisfactory-3-0",
 			"trolling"
@@ -12704,8 +13460,8 @@
 		"title": "Q&A: After 1.1, 1.2 100%?",
 		"date": "2025-06-03",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-update-8",
 			"satisfactory-updates/speculative/satisfactory-update-9"
 		],
@@ -12844,7 +13600,7 @@
 		"title": "Q&A: How long until 1.2?",
 		"date": "2025-05-27",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -13313,14 +14069,7 @@
 			"environment/creatures/giant-flying-manta",
 			"features/unplanned-features"
 		],
-		"duplicates": [
-			"yt-rV2iNBm3S-k"
-		],
-		"seealso": [
-			"yt-544C8V8neKk",
-			"yt-bWnZ-OI-_Og",
-			"yt-cG95MV6RHhw"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,8206,8240"
 	},
 	"yt-dQ8O7OdLFFo,1430,1473": {
 		"title": "Q&A: Is that clip that Jason made on the skateboard actually in-game?",
@@ -13509,7 +14258,7 @@
 		"topics": [
 			"environment/world-map",
 			"features/possible-features/dlc",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"seealso": [
 			"yt-WBYv6z_ZNa4",
@@ -14103,7 +14852,7 @@
 			"yt-ZRGTEESCIo8"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-H5U1BtcMMIA",
 			"yt-K5yusrXE5Tw"
 		]
@@ -14309,8 +15058,8 @@
 			"coffee-stainers/hannah",
 			"coffee-stainers/mikael",
 			"features",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-N3W1n1Wz9SU": {
@@ -14989,6 +15738,9 @@
 			"features/buildables/walls",
 			"features/equipment/customizer",
 			"features/requested-features"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,2794,2839"
 		]
 	},
 	"yt-d0CLc1aKOI8,86,97": {
@@ -15207,7 +15959,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-JF3P7rxwKhc": {
 		"title": "Q&A: Why do Nobelisks take so long to throw?",
@@ -15767,7 +16519,7 @@
 		"title": "Q&A: 1.2 release date, when?",
 		"date": "2025-03-25",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"trolling"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
@@ -17495,18 +18247,7 @@
 			"features/requested-features",
 			"special-guests"
 		],
-		"duplicates": [
-			"yt-AOP6ppi6KhA",
-			"yt-Ck_8bT0Ez1k",
-			"yt-rmrSDP4Bbrs",
-			"yt-WuwsRGT_9FQ"
-		],
-		"seealso": [
-			"yt-jJdIedudxi4",
-			"yt-NmGzgw8odBw,2024,2041",
-			"yt-uWzjA0DGAag",
-			"yt-dKn9f4Itqt4,6428,6512"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,3016,3059"
 	},
 	"yt-7hseNbmgA38": {
 		"title": "Q&A: Is there any potential to introduce a feature to randomise the Resource Nodes across the Map?",
@@ -17837,7 +18578,7 @@
 			"features/requested-features",
 			"features/transportation/trains",
 			"off-topic/terrible-jokes",
-			"satisfactory-updates/pending/satisfactory-1-2"
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-OOu9c2fo1_4,6871,6900"
 	},
@@ -18283,21 +19024,7 @@
 			"environment/creatures/lizard-doggo",
 			"features/requested-features"
 		],
-		"duplicates": [
-			"yt-fZwy0R_pGDs",
-			"yt-KK-x3KKUMrk",
-			"yt-laV5SyI3MXg",
-			"yt-qdl_Ef5OIMo",
-			"yt-uAJX0gy44Ss",
-			"yt-VOpTrVlT95g",
-			"yt-zN9bnZKIqbo"
-		],
-		"seealso": [
-			"yt-CquWVMvEM2s",
-			"yt-iEwR52Xl2sc",
-			"yt-n7GV7t18JZ8",
-			"yt-QDDE0XSbGB8"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-x1v8YnHxcMA": {
 		"title": "Q&A: What Satisfactory easter eggs would you want to see in the next game CSS makes?",
@@ -18531,9 +19258,9 @@
 			"features/console-release",
 			"off-topic/factorio",
 			"off-topic/sweden",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-0",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3",
 			"satisfactory-updates/speculative/satisfactory-2-0",
 			"satisfactory-updates/speculative/satisfactory-2-1",
@@ -18556,9 +19283,9 @@
 			"features/console-release",
 			"off-topic/factorio",
 			"off-topic/sweden",
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-0",
 			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2",
 			"satisfactory-updates/speculative/satisfactory-1-3",
 			"satisfactory-updates/speculative/satisfactory-2-0",
 			"satisfactory-updates/speculative/satisfactory-2-1",
@@ -18799,8 +19526,8 @@
 		"date": "2024-12-10",
 		"topics": [
 			"features/possible-features/dlc",
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"duplicatedby": "yt-I-1tTVA6GAA,3797,3799"
 	},
@@ -20032,9 +20759,9 @@
 		"title": "Q&A: What are your priorities now, fixing bugs or content?",
 		"date": "2024-11-26",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
 			"satisfactory-updates/released/satisfactory-1-0",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		]
 	},
 	"yt-wEGfeX2sYZk": {
@@ -21228,7 +21955,7 @@
 			"environment/creatures/lizard-doggo",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-WfIjntfWHYI": {
 		"title": "Q&A: Shortcut to get to the Blueprints menu?",
@@ -21737,8 +22464,8 @@
 		"title": "Q&A: 1.2, when?",
 		"date": "2024-10-15",
 		"topics": [
-			"satisfactory-updates/pending/satisfactory-1-2",
-			"satisfactory-updates/released/satisfactory-1-1"
+			"satisfactory-updates/released/satisfactory-1-1",
+			"satisfactory-updates/released/satisfactory-1-2"
 		],
 		"replacedby": "yt-IOkCbcu2cME,1767,1844"
 	},
@@ -21785,7 +22512,7 @@
 			"environment/creatures/lizard-doggo",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-hLjl2BsWeLw": {
 		"title": "Q&A: Can we get official Displates?",
@@ -21895,53 +22622,7 @@
 			"features/possible-features/dlc",
 			"features/possible-features/farming"
 		],
-		"duplicates": [
-			"yt--9WFYJETif4",
-			"yt--pjqXHzqWGE",
-			"yt-1HxhGdiIGwk",
-			"yt-1zv1F61GQuI",
-			"yt-2Cq3xmLN8sQ",
-			"yt-2i5toplIVJo",
-			"yt-2sE4CPkkc3o",
-			"yt-4txPAGPmzXQ",
-			"yt-70U_d1fVoHk",
-			"yt-axNVUjsuMwo",
-			"yt-bGXZgS3dKc8",
-			"yt-DmcB5IOlqVs",
-			"yt-drp-Fjdq8Q0",
-			"yt-ED-aBac3et8",
-			"yt-FqwSycZqJWo",
-			"yt-hv9v539zaa8",
-			"yt-kq125_HSqqE",
-			"yt-L1Ur5X7gVH8",
-			"yt-nwkc5YeXylk",
-			"yt-NWrOF30yb5s",
-			"yt-o2GDy5QKSfQ",
-			"yt-qO1Zl01HfqU",
-			"yt-TpcscsCHVCQ",
-			"yt-UijCvihSvzE",
-			"yt-Ul9AgRudGpw",
-			"yt--JXPsTlJIiI,844,876",
-			"yt-NlIVwoRqjVk,1164,1177"
-		],
-		"seealso": [
-			"yt-I-1tTVA6GAA,4864,4871",
-			"yt-1-qnuaEigs8",
-			"yt-2--yx9IFs7U",
-			"yt-BsNMpP14MPg",
-			"yt-bTv4d3rpidI",
-			"yt-BVeWwm2cyYU",
-			"yt-egeMfFZ2lSs",
-			"yt-FNwy0D9q20E",
-			"yt-haID3MR0-fQ",
-			"yt-hbm5XfpQ1O0",
-			"yt-jPJMi6h_Wh4",
-			"yt-kS3TiCJd-wI",
-			"yt-o0Nv2p1dVMM",
-			"yt-qljHFWpwy10",
-			"yt-utNw--4HLFY",
-			"yt-rATcozDE25c,905,937"
-		]
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-yR04EtdnHDA": {
 		"title": "Q&A: Will the Buildables bugged to 0,0,0 remain there or be cleaned up automatically?",
@@ -23457,7 +24138,7 @@
 		"seealso": [
 			"yt-1a099owXMxE",
 			"yt-8wm6buatRpY",
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-LjCbSSlwrTo",
 			"yt-Rb-gKC3AQ64"
 		]
@@ -24980,6 +25661,7 @@
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,8152,8165",
 			"yt-o2bWTOQiTww"
 		]
 	},
@@ -25915,7 +26597,7 @@
 			"features/buildables/walls",
 			"features/possible-features"
 		],
-		"duplicatedby": "yt-ovVoBzgz4gA"
+		"duplicatedby": "yt-iG2A88c8Fd4,3016,3059"
 	},
 	"yt-2vGLsoKigOw": {
 		"title": "Q&A: Why is the new alternate Iron Ingot Recipe worse than before?",
@@ -26456,7 +27138,7 @@
 		"seealso": [
 			"yt-CquWVMvEM2s",
 			"yt-M1scUrrPPX4",
-			"yt-VwVh6PF_V-c"
+			"yt-iG2A88c8Fd4,3260,3293"
 		]
 	},
 	"yt-c6FS7MSK7og": {
@@ -30968,7 +31650,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-4UdJrh0aGeQ": {
 		"title": "Q&A: Any info about how long the Closed Beta will last?",
@@ -33036,7 +33718,7 @@
 			"environment/creatures/lizard-doggo/biology",
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-syupGVnlweI": {
 		"title": "Q&A: What's the chances of this stream being swear-free?",
@@ -33124,6 +33806,7 @@
 			"off-topic/food-and-drink"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,3315,3348",
 			"yt-R7v3dfzLtq8",
 			"yt-gVIBtXVtBpU"
 		]
@@ -33659,7 +34342,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-5kxgSLfMPkM": {
 		"title": "Q&A: Satisfactory Dark Souls DLC, when?",
@@ -33814,7 +34497,7 @@
 			"yt-NlIVwoRqjVk,867,918"
 		],
 		"seealso": [
-			"yt-8lBuwhJ_dic,7423,7444",
+			"yt-iG2A88c8Fd4,8187,8207",
 			"yt-xXbrwFqiS5g"
 		]
 	},
@@ -34007,7 +34690,7 @@
 			"features/buildables/foundations",
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
-		"duplicatedby": "yt-ovVoBzgz4gA"
+		"duplicatedby": "yt-iG2A88c8Fd4,3016,3059"
 	},
 	"yt-pkFGbpiKDB4": {
 		"title": "Q&A: Will S.A.M. Ore & the artefacts be included in 1.0?",
@@ -35766,6 +36449,7 @@
 			"off-topic/valheim"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,1760,1896",
 			"yt--P_1IPQMwWQ",
 			"yt-GRMZrGu59L4"
 		]
@@ -36653,7 +37337,7 @@
 		],
 		"seealso": [
 			"yt-w7XOnVE5-zY",
-			"yt-7TCZm_nIZFU,4840,4880"
+			"yt-iG2A88c8Fd4,3347,3360"
 		]
 	},
 	"yt-X4mfXsTjAP8": {
@@ -38698,6 +39382,9 @@
 			"satisfactory-updates/state-of-dev",
 			"satisfactory-updates/teasers-and-trailers/update-8-teasers",
 			"technology/linux"
+		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,3644,3784"
 		]
 	},
 	"yt-7z-BvEjxFsg,2033,2057": {
@@ -39223,7 +39910,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-9AbaCSQAjHQ": {
 		"title": "Q&A: Is there a technical issue why we don't have free rotation on Foundations?",
@@ -39665,7 +40352,7 @@
 			"features/possible-features/farming",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-kelwvyM2sOI": {
 		"title": "Q&A: ETA on Mk.2 Pipes fix?",
@@ -39686,7 +40373,7 @@
 			"satisfactory-updates/speculative/satisfactory-update-9"
 		],
 		"seealso": [
-			"yt-VwVh6PF_V-c"
+			"yt-iG2A88c8Fd4,3260,3293"
 		]
 	},
 	"yt-Kv-VlJCYO-c": {
@@ -39900,7 +40587,7 @@
 			"off-topic/terrible-jokes"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		]
 	},
 	"yt-Yo9TFgcw_qo": {
@@ -40437,7 +41124,7 @@
 			"features/requested-features"
 		],
 		"seealso": [
-			"yt-ovVoBzgz4gA"
+			"yt-iG2A88c8Fd4,3016,3059"
 		]
 	},
 	"yt-dFzdOeidQDg": {
@@ -44015,7 +44702,7 @@
 			"yt-s52yTvp9nbM"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-mdvqDZNlFPA",
 			"yt-QPgQXdWXoj4"
 		]
@@ -45278,6 +45965,7 @@
 			"satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,1719,1731",
 			"yt--lPYgQ5wMv0",
 			"yt-m_UVVHl1CxA,3358,3427"
 		]
@@ -46445,6 +47133,7 @@
 			"technology"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,2960,2998",
 			"yt-8WZYDHAVmio,3950,4109",
 			"yt-Jqj6l9wXip4,123,133"
 		],
@@ -52624,7 +53313,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-I_X3g-jgu1I": {
 		"title": "Q&A: Are there any Mod ideas that you have seen that you are interested in adding to the game?",
@@ -53602,7 +54291,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-_e4CazslQSo": {
 		"title": "Q&A: Why does Gas Mask stop working when in Truck?",
@@ -54138,7 +54827,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEralVcWNAwdbnP_tRGbAhFx"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-LKCtShTuB70": {
 		"title": "Q&A: You guys going to address the bugs & crashes with Dedicated Servers?",
@@ -54976,7 +55665,7 @@
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM",
 			"PLbjDnnBIxiEryYdXQnzrtmN8P6h6BSsA2"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-9dd4paImT1E": {
 		"title": "Q&A: Console release or phone?",
@@ -55560,7 +56249,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-6FYrxhDCs9o": {
 		"title": "Q&A: Are the numbers for the last Phase just to keep us busy, or will 1.0 have different numbers?",
@@ -55852,7 +56541,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpz0p3GUy76rNNYI0kiJ0iW"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-TrtSKbNGWs4": {
 		"title": "Q&A: Are there plans for an indicator for when a Splitter/Merger is actually connected to the Belt?",
@@ -56091,7 +56780,7 @@
 			"trolling"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		]
 	},
 	"yt-xTVg8A2aIc0": {
@@ -56461,7 +57150,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-JrXyDldK4GU": {
 		"title": "Q&A: Add Outer Wilds OST as Boombox Tape in Satisfactory?",
@@ -57820,7 +58509,7 @@
 			"PLbjDnnBIxiEq1P6bQ-17tMjKuFJyxcfSU",
 			"PLbjDnnBIxiEolepny6NyMIt3ItHySMb-x"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-VCo9RAUGV44": {
 		"title": "Q&A: Did you miss the HelloFresh today?",
@@ -58033,7 +58722,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEq1lyHQw0wVik2U0W0lmO1p"
 		],
-		"duplicatedby": "yt-ovVoBzgz4gA"
+		"duplicatedby": "yt-iG2A88c8Fd4,3016,3059"
 	},
 	"yt-sQgy1-YJGzg": {
 		"title": "Q&A: What's in the next Update?",
@@ -61243,7 +61932,7 @@
 			"features/buildables/foundations",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-ovVoBzgz4gA"
+		"duplicatedby": "yt-iG2A88c8Fd4,3016,3059"
 	},
 	"yt-NDIli-Z10Rc": {
 		"title": "Q&A: Will we get new FICSMAS presents?",
@@ -62893,7 +63582,7 @@
 			"features/pioneer",
 			"features/unplanned-features"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-jO3-Sb2c3XU": {
 		"title": "Q&A: Why not pause when I open the menu?",
@@ -63130,7 +63819,7 @@
 			"yt-6HZzPbgw3pg,72,128",
 			"yt-CG-63B4g11U,130,159",
 			"yt-N1o3tK1h8cM,72,193",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-8WZYDHAVmio,7589,7604": {
@@ -63954,7 +64643,7 @@
 			"yt-EjDWJ7WXkC8",
 			"yt-hR3DfXn2jV0",
 			"yt-kH2dOTO1b9w",
-			"yt-ovVoBzgz4gA"
+			"yt-iG2A88c8Fd4,3016,3059"
 		],
 		"seealso_video_cards": [
 			"S8T80EDvfpE"
@@ -64663,7 +65352,7 @@
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh",
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-moVIableguI": {
 		"title": "Q&A: How much room for improvement do you think you still have for performance?",
@@ -65150,7 +65839,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpz0p3GUy76rNNYI0kiJ0iW"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-Gt94bJHuacQ": {
 		"title": "Q&A: When will we get the Toilet DLC?",
@@ -65344,7 +66033,7 @@
 			"features/possible-features/farming"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		],
 		"seealso_video_cards": [
 			"UgeFxfdLV0k"
@@ -65502,7 +66191,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-u3Ki7FrGeLc": {
 		"title": "Q&A: Third-person view?",
@@ -66810,7 +67499,7 @@
 		],
 		"seealso": [
 			"yt-6t1TZRz0NL0",
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-H5U1BtcMMIA"
 		],
 		"seealso_topic_cards": [
@@ -67356,7 +68045,7 @@
 			"features/pioneer",
 			"features/requested-features"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-A7toMdMe1sc": {
 		"title": "Q&A: Can the game support VR later?",
@@ -67367,7 +68056,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-5Opts7tOZys": {
 		"title": "Q&A: Please add a console command to toggle Rain?",
@@ -67785,7 +68474,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-KTTHPxhnpDM": {
 		"title": "Q&A: Any plans to make the Fart Rocks destructable?",
@@ -68218,7 +68907,7 @@
 			"features/requested-features"
 		],
 		"seealso": [
-			"yt-oEd6U2GX_Fo"
+			"yt-iG2A88c8Fd4,8206,8240"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiErLM-OUYLIMpPRKrDekzBfT"
@@ -68337,7 +69026,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-kZJ2uIeMQmI": {
 		"title": "Q&A: Will we get a Patch Notes video for Update 6?",
@@ -71052,7 +71741,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-aO02dQNOhf4": {
 		"title": "Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?",
@@ -71104,7 +71793,7 @@
 			"off-topic/food-and-drink"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-DAckE7CsuEc",
 			"yt-llJeyL1axW8",
 			"yt-zrJMWjKyMfU"
@@ -74929,7 +75618,7 @@
 			"yt-ByLE4EI11HA",
 			"yt-iEwR52Xl2sc",
 			"yt-n7GV7t18JZ8",
-			"yt-VwVh6PF_V-c"
+			"yt-iG2A88c8Fd4,3260,3293"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs"
@@ -75814,7 +76503,7 @@
 			"yt-QKmEWdHZSyg"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs",
@@ -76795,7 +77484,7 @@
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM",
 			"PLbjDnnBIxiEr8o-WHAZJf8lAVaNJlbHmH"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-VOpTrVlT95g": {
 		"title": "Q&A: When can you pick up the tamed Doggo?",
@@ -76807,7 +77496,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-VnNOTVQhZ5c": {
 		"title": "Q&A: Real life Satisfactory theme park, when?",
@@ -77920,7 +78609,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-IiP1xsdJU28": {
 		"title": "Q&A: What's for dinner this evening?",
@@ -78072,7 +78761,7 @@
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM",
 			"PLbjDnnBIxiErABErNV8_bjXIF_CFZILeP"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-wwpW6KvDzcg": {
 		"title": "Q&A: Flippers for fast travel through water?",
@@ -79520,7 +80209,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-ORJx_gm-PJ4": {
 		"title": "Q&A: How much time do you spend in the game?",
@@ -81103,7 +81792,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-iVDRQg_aWpU,6351,6365": {
 		"title": "Q&A: What state is Jace from?",
@@ -81804,7 +82493,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEqe6yJj8TvkF6VxhLGiah3b"
 		],
-		"duplicatedby": "yt-YGybUYHfFjE,0,93"
+		"duplicatedby": "yt-iG2A88c8Fd4,4015,4080"
 	},
 	"yt-TaAxXh2ZXQo": {
 		"title": "Q&A: How do you guys still making money out of Satisfactory, when is the point you run out of money?",
@@ -84601,7 +85290,7 @@
 			"features/unplanned-features/vr",
 			"satisfactory-updates/teasers-and-trailers/update-5-launch-stream"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-Rumqu_lyapg,1873,2084": {
 		"title": "Q&A: Dedicated Servers?",
@@ -87329,7 +88018,7 @@
 			"PLbjDnnBIxiEoNob1WtMvqzwc3KqxW9dvM",
 			"PLbjDnnBIxiEoXyQTLOJbkWv8yo-nzAsSH"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-0nVP8r62DHg": {
 		"title": "Q&A: Since you put the position for Game Designer in Skövde, do you have plans for interns?",
@@ -89780,7 +90469,7 @@
 			"PLbjDnnBIxiErbdgIq2TL2rTjyGvOiwC9O",
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-Pt1KjHKo_As": {
 		"title": "Q&A: Can you put ceiling Lights on the slanted Roof pieces?",
@@ -92628,7 +93317,7 @@
 			"yt-ERZuus5HBho"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-IcBOMf884h0",
 			"yt-WhC-hQINr20",
 			"yt-yoD51h2g5T0"
@@ -93439,6 +94128,7 @@
 			"coffee-stainers/jace"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,5997,6069",
 			"yt-zz3FDAM8zxs"
 		],
 		"seealso_topic_cards": [
@@ -94219,6 +94909,7 @@
 			"features/buildables/railings"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,5088,5177",
 			"yt-9DPH8dxJkA8",
 			"yt-Gw9-dD_ovEk",
 			"yt-MgzUxL3jGfs",
@@ -94928,7 +95619,7 @@
 		],
 		"seealso": [
 			"yt-CquWVMvEM2s",
-			"yt-VwVh6PF_V-c"
+			"yt-iG2A88c8Fd4,3260,3293"
 		],
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs"
@@ -95307,7 +95998,7 @@
 		"incoming_video_cards": [
 			"Rfq5XpdNCnA"
 		],
-		"duplicatedby": "yt-8lBuwhJ_dic,7423,7444"
+		"duplicatedby": "yt-iG2A88c8Fd4,8187,8207"
 	},
 	"yt-Rfq5XpdNCnA": {
 		"title": "Q&A: Sleep & Food?",
@@ -96005,7 +96696,7 @@
 			"PLbjDnnBIxiEpeue2wFBDqf_qrb1h1Fvgs",
 			"PLbjDnnBIxiEosbWcrHc-p6N-xeS77Rv5P"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-qiA_5oti7s8": {
 		"title": "Q&A: Will we be able to equip more than one item?",
@@ -96346,7 +97037,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-LxR-pnwW_so": {
 		"title": "Q&A: I know Jace likes Portal, if you get Doggos near each other they could sing like the turrets?",
@@ -97570,7 +98261,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-Otus1GbtWtE": {
 		"title": "Q&A: How will the FPS be with this change to the Biome?",
@@ -98925,7 +99616,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-f3C99ZImAj8": {
 		"title": "Q&A: Update 4 increased loading times so much, is it a known issue?",
@@ -99187,7 +99878,7 @@
 			"yt-I2HtPSih_u8",
 			"yt-T4jtXQz63o8",
 			"yt-N4N1RbmIncw",
-			"yt-7TCZm_nIZFU,4840,4880"
+			"yt-iG2A88c8Fd4,3347,3360"
 		],
 		"seealso_video_cards": [
 			"aA0KIR6AKC8",
@@ -99635,6 +100326,9 @@
 		"topics": [
 			"features/requested-features/pionr"
 		],
+		"seealso": [
+			"yt-iG2A88c8Fd4,4327,4334"
+		],
 		"seealso_video_cards": [
 			"PIgEg9qFI6I"
 		],
@@ -100057,7 +100751,7 @@
 			"yt-unMHGjOsGAc"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-w0ZjmVkKGpU"
 		],
 		"seealso_topic_cards": [
@@ -101548,7 +102242,7 @@
 		"seealso_topic_cards": [
 			"PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-vGF9MjeBuus": {
 		"title": "Q&A: How many Updates until 1.0?",
@@ -103821,7 +104515,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-nkrBqOatRWI": {
 		"title": "Q&A: Will Stairs & the Walkways be more connectable?",
@@ -103884,7 +104578,7 @@
 			"qa-site"
 		],
 		"seealso": [
-			"yt-oEd6U2GX_Fo"
+			"yt-iG2A88c8Fd4,8206,8240"
 		]
 	},
 	"yt-0iBQzOBv4aI": {
@@ -106034,7 +106728,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-nhwUgABKGmE": {
 		"title": "Q&A: Any plans for Mac or Linux?",
@@ -106759,7 +107453,7 @@
 			"mods/mods-vs-features"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		]
 	},
 	"yt-1JyWZYpxLsk": {
@@ -107180,7 +107874,7 @@
 		],
 		"seealso": [
 			"yt-KwsiVfRUKNE",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-CJ8fQV1ttF4": {
@@ -107721,7 +108415,7 @@
 		"incoming_video_cards": [
 			"4txPAGPmzXQ"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-oxRXMC8b2q8": {
 		"title": "Q&A: More weapons?",
@@ -108653,7 +109347,7 @@
 			"satisfactory-updates/released/satisfactory-update-4",
 			"technology/unreal-engine"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-_zbrGpdnQF4": {
 		"title": "Q&A: Just add headlights to the Vehicles, please?",
@@ -108833,7 +109527,7 @@
 			"satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video",
 			"trolling"
 		],
-		"duplicatedby": "yt-VwVh6PF_V-c"
+		"duplicatedby": "yt-iG2A88c8Fd4,3260,3293"
 	},
 	"yt-2bk0Yp7BSi4": {
 		"title": "Q&A: Do you need to make another Engine Upgrade to make the Cyber Wagon wheels round?",
@@ -109208,7 +109902,7 @@
 			"qa-site",
 			"satisfactory-updates/released/satisfactory-1-0"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-5K3tV4ufnxY": {
 		"title": "Q&A: Are Vehicle Modules still being considered?",
@@ -109603,7 +110297,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-Vfo9KYbuM6Q": {
 		"title": "Q&A: Please fix first-person vehicles?",
@@ -110326,7 +111020,7 @@
 		],
 		"seealso": [
 			"yt-5KRdfYoVv-c",
-			"yt-7TCZm_nIZFU,4840,4880"
+			"yt-iG2A88c8Fd4,3347,3360"
 		]
 	},
 	"yt-O0qKftrufFM": {
@@ -110368,7 +111062,7 @@
 			"features/possible-features/farming"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		]
 	},
 	"yt-HMIybK6hW1k": {
@@ -110728,7 +111422,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-tS_CE6H7Oc4": {
 		"title": "Q&A: Any ETA on Valheim Earth & Home Update?",
@@ -111169,7 +111863,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-MVijm9JAoaw": {
 		"title": "Q&A: What are your thoughts on an in-game project planner, similar to Satisfactory Calculator?",
@@ -111555,7 +112249,7 @@
 			"features/buildings/the-hub",
 			"features/pioneer"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-8SVPBlq4ORQ": {
 		"title": "Q&A: Regain health?",
@@ -112577,7 +113271,7 @@
 		"topics": [
 			"environment/creatures/giant-flying-manta"
 		],
-		"duplicatedby": "yt-oEd6U2GX_Fo"
+		"duplicatedby": "yt-iG2A88c8Fd4,8206,8240"
 	},
 	"yt-TVmelqDZCWc": {
 		"title": "Q&A: Will you upgrade the middle of the Cyber Wagon?",
@@ -113482,7 +114176,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-wRc1dgpRDrM": {
 		"title": "Q&A: Why don't the saves from Experimental work on normal?",
@@ -114075,6 +114769,7 @@
 			"yt-_i9f2NI9JNc"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,4697,4708",
 			"yt-3spifwbAEDE",
 			"yt-cPFaiUJc9LE",
 			"yt-yQe_yYHAwsQ",
@@ -114590,7 +115285,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-eLNc5DHoejU": {
 		"title": "Q&A: Jace been teaching Snutt accents?",
@@ -115530,7 +116225,7 @@
 		],
 		"seealso": [
 			"yt-KcuUinkvc8M",
-			"yt-7TCZm_nIZFU,4840,4880",
+			"yt-iG2A88c8Fd4,3347,3360",
 			"yt-fVCw51TOHeA,7408,7438"
 		]
 	},
@@ -115921,7 +116616,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-pYPBpZdBvP4": {
 		"title": "Q&A: Planning on making any space stuff?",
@@ -116433,7 +117128,7 @@
 			"features/buildings/the-hub",
 			"features/pioneer"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-lABA3NfAMXw": {
 		"title": "Q&A: Where's the mug?",
@@ -116533,7 +117228,7 @@
 			"yt-CG-63B4g11U,130,159",
 			"yt-Dtm6xIj-wM4,3518,3546",
 			"yt-N1o3tK1h8cM,72,193",
-			"yt-YGybUYHfFjE,0,93",
+			"yt-iG2A88c8Fd4,4015,4080",
 			"yt-W1E6EWrAsII,520,539"
 		],
 		"seealso_topic_cards": [
@@ -119225,7 +119920,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-3d5h-Okw-uU": {
 		"title": "Q&A: Did you know Satisfactory Experimental is running well on Linux Mint?",
@@ -119443,7 +120138,7 @@
 			"technology/graphics",
 			"technology/unreal-engine"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-U2LUOKgE_7M": {
 		"title": "Q&A: My friend says Satisfactory is just Factorio in 3d, how do I convince them otherwise?",
@@ -119486,7 +120181,7 @@
 			"environment/plants",
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-MFCmy7atLDk": {
 		"title": "Q&A: Any thoughts on letting you have a planning tool mode?",
@@ -121814,7 +122509,7 @@
 			"KH5SkE4nzhg",
 			"njXBs_p2l1w"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt--JXPsTlJIiI,875,912": {
 		"title": "Q&A: Will there ever be 3rd person?",
@@ -122212,7 +122907,7 @@
 			"yt-6HZzPbgw3pg,72,128",
 			"yt-CG-63B4g11U,130,159",
 			"yt-N1o3tK1h8cM,72,193",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-w2zJd6F1Udw": {
@@ -122401,7 +123096,7 @@
 		"seealso": [
 			"yt-dbyTU3Wdpog",
 			"yt-ekFl5tlk2ig",
-			"yt-7TCZm_nIZFU,4840,4880",
+			"yt-iG2A88c8Fd4,3347,3360",
 			"yt-N4N1RbmIncw",
 			"yt-w7XOnVE5-zY"
 		]
@@ -122421,7 +123116,7 @@
 			"environment/plants",
 			"mods/mods-vs-features"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-pSGEDxxLn2E": {
 		"title": "Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?",
@@ -124642,7 +125337,7 @@
 		"seealso": [
 			"yt-KwsiVfRUKNE",
 			"yt-CB9bSigNYH8,3125,3146",
-			"yt-YGybUYHfFjE,0,93",
+			"yt-iG2A88c8Fd4,4015,4080",
 			"yt-Zo2ybvs7keI,300,311"
 		],
 		"seealso_video_cards": [
@@ -124692,7 +125387,7 @@
 			"yt-CB9bSigNYH8,4535,4588",
 			"yt-CG-63B4g11U,130,159",
 			"yt-N1o3tK1h8cM,72,193",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-z_DRaH3tfvY": {
@@ -125322,7 +126017,7 @@
 		"seealso": [
 			"yt-7DWgWPlxhEo,0,21",
 			"yt-w7XOnVE5-zY",
-			"yt-7TCZm_nIZFU,4840,4880"
+			"yt-iG2A88c8Fd4,3347,3360"
 		]
 	},
 	"yt-71mjlgW3J28": {
@@ -125854,7 +126549,7 @@
 		"topics": [
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-Gi08SVnHyLU": {
 		"title": "Q&A: Are Steam Achievements going to be added in the future?",
@@ -126625,7 +127320,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-CfUusHOKqcY": {
 		"title": "Q&A: Can we train Lizard Doggos to feed Biomass into Generators?",
@@ -128226,7 +128921,7 @@
 		"topics": [
 			"features/buildings/the-hub"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"yt-nFJUho2El3Y": {
 		"title": "Q&A: How is the World Building going?",
@@ -128639,7 +129334,7 @@
 			"yt-IWbaPON5Dq0"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		],
 		"seealso_video_cards": [
 			"8WYNwGDLYNE",
@@ -128973,7 +129668,7 @@
 		"seealso": [
 			"yt-A9UFYHeroas",
 			"yt-aXNyMSx6VyM",
-			"yt-CCFhq3egWEY",
+			"yt-iG2A88c8Fd4,3161,3223",
 			"yt-Y2ikAUhc19E,7625,7669",
 			"yt-JWWjHNSxKEs"
 		]
@@ -129668,7 +130363,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-IXroe1QFRzc": {
 		"title": "Q&A: DLSS one day?",
@@ -129975,7 +130670,7 @@
 			"features/buildings/the-hub"
 		],
 		"seealso": [
-			"yt-7TCZm_nIZFU,4840,4880"
+			"yt-iG2A88c8Fd4,3347,3360"
 		]
 	},
 	"yt-BZtRginha6g": {
@@ -130386,7 +131081,7 @@
 			"features/game-modes",
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-zoDYA4Y9jdE": {
 		"title": "Q&A: Releasing the Soundtrack on Spotify?",
@@ -131358,7 +132053,7 @@
 		"topics": [
 			"mods/mods-vs-features"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-GWoHn3wkLTM": {
 		"title": "Q&A: Is liking Coffee a requirement to work at the Studio?",
@@ -134113,7 +134808,7 @@
 		"topics": [
 			"features/buildings/the-hub"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"tc-EagerPeacefulMonkeyDoubleRainbow": {
 		"title": "Q&A: Dedicated Servers, start building a community around that?",
@@ -134223,7 +134918,7 @@
 		"topics": [
 			"features/buildings/the-hub"
 		],
-		"duplicatedby": "yt-7TCZm_nIZFU,4840,4880"
+		"duplicatedby": "yt-iG2A88c8Fd4,3347,3360"
 	},
 	"tc-RespectfulDreamyHabaneroMrDestructoid": {
 		"title": "Q&A: Anything inside the HUB where the MAM used to be?",
@@ -134569,7 +135264,7 @@
 		"topics": [
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-ftJxvHWUROQ": {
 		"title": "Q&A: Where is Jace and why has he been replaced with a large child?",
@@ -135696,7 +136391,7 @@
 			"fI7gnbG4Omk",
 			"mci92Mhr7MM"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-NlIVwoRqjVk,1176,1214": {
 		"title": "Q&A: What are your thoughts regarding replayability?",
@@ -135785,7 +136480,7 @@
 			"yt-6HZzPbgw3pg,72,128",
 			"yt-8WZYDHAVmio,3950,4109",
 			"yt-N1o3tK1h8cM,72,193",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-CG-63B4g11U,158,233": {
@@ -136097,7 +136792,7 @@
 			"environment/plants",
 			"features/possible-features/farming"
 		],
-		"duplicatedby": "yt-CCFhq3egWEY"
+		"duplicatedby": "yt-iG2A88c8Fd4,3161,3223"
 	},
 	"yt-PIlduefx6Vk": {
 		"title": "Q&A: Merch?",
@@ -136244,6 +136939,27 @@
 		],
 		"seealso_video_cards": [
 			"UIEnhYio0VQ"
+		]
+	},
+	"yt-nyJjLjxaXt0,13591,13621": {
+		"title": "Q&A: Why is the company called Coffee Stain?",
+		"date": "2020-02-11",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-nyJjLjxaXt0,2171,2179": {
+		"title": "Q&A: Modding?",
+		"date": "2020-02-11",
+		"topics": [
+			"mods"
+		]
+	},
+	"yt-nyJjLjxaXt0,8271,8276": {
+		"title": "Q&A: Add the game to Steam?",
+		"date": "2020-02-11",
+		"topics": [
+			"retail/steam-store/steam-release"
 		]
 	},
 	"yt-sh2faQb1DPQ": {
@@ -136944,7 +137660,7 @@
 			"environment/plants"
 		],
 		"seealso": [
-			"yt-CCFhq3egWEY"
+			"yt-iG2A88c8Fd4,3161,3223"
 		]
 	},
 	"yt-Wqkx9p4mbn0": {
@@ -137819,7 +138535,7 @@
 			"yt-6HZzPbgw3pg,72,128",
 			"yt-8WZYDHAVmio,3950,4109",
 			"yt-CG-63B4g11U,130,159",
-			"yt-YGybUYHfFjE,0,93",
+			"yt-iG2A88c8Fd4,4015,4080",
 			"yt-wBWmXDPDpL8,356,367"
 		]
 	},
@@ -138279,7 +138995,7 @@
 			"yt-C45QlJMMGGc",
 			"yt-dspo4FmBxqI",
 			"yt-MncPu1Yxuf8",
-			"yt-oEd6U2GX_Fo"
+			"yt-iG2A88c8Fd4,8206,8240"
 		]
 	},
 	"yt-HzaMvf15Ty8": {
@@ -139377,7 +140093,7 @@
 			"yt--nsfNFSevf4",
 			"yt-BUZ4evkepcs",
 			"yt-KwsiVfRUKNE",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-CB9bSigNYH8,374,386": {
@@ -139781,7 +140497,7 @@
 			"yt-KwsiVfRUKNE",
 			"yt-CB9bSigNYH8,1091,1116",
 			"yt-CB9bSigNYH8,2538,2606",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-CB9bSigNYH8,1696,1746": {
@@ -139985,7 +140701,7 @@
 			"yt-GqwMEnqK-84",
 			"yt-KwsiVfRUKNE",
 			"yt-fVCw51TOHeA,7169,7192",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-CB9bSigNYH8,2723,2734": {
@@ -140172,7 +140888,7 @@
 		],
 		"seealso": [
 			"yt-KwsiVfRUKNE",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-CB9bSigNYH8,3335,3347": {
@@ -140796,6 +141512,7 @@
 			"coffee-stainers/hannah"
 		],
 		"seealso": [
+			"yt-iG2A88c8Fd4,3644,3784",
 			"yt--aoKEMcw0_o",
 			"yt-12jI0fsLxsY",
 			"yt--JXPsTlJIiI,1078,1095",
@@ -141502,7 +142219,7 @@
 			"features/multiplayer",
 			"features/unplanned-features/vr"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-Dtm6xIj-wM4,2532,2686": {
 		"title": "Q&A: How do you divide work on the various programmers on the team?",
@@ -142391,7 +143108,7 @@
 			"IxoCzb2M0vQ",
 			"7gRGSXP0rW4"
 		],
-		"duplicatedby": "yt-HHBFMoNs7xY,7825,7861"
+		"duplicatedby": "yt-iG2A88c8Fd4,7889,7914"
 	},
 	"yt-iFAy1NZUOGU,68,73": {
 		"title": "Q&A: Any more news on the alpha? Can we pay to get in?",
@@ -143020,7 +143737,7 @@
 			"yt-CG-63B4g11U,130,159",
 			"yt-Dtm6xIj-wM4,3433,3482",
 			"yt-N1o3tK1h8cM,72,193",
-			"yt-YGybUYHfFjE,0,93"
+			"yt-iG2A88c8Fd4,4015,4080"
 		]
 	},
 	"yt-6HZzPbgw3pg,127,171": {

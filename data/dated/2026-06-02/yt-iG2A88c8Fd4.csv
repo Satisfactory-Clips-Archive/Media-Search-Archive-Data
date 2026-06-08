@@ -69,7 +69,7 @@
 4887.276984,4933.477835,Intro
 4933.477835,6589.663292,Q&A (Part 3)
 4933.477835,5010.342057,Q&A: Why did CSS rework Vehicle Paths?
-5010.342057,5176.482127777778,Q&A: What are the differences between the different Path types?
+5010.342057,5176.482127777778,Differences between the different Path types
 5010.342057,5088.337018,Q&A: What are the differences between the different Path types?
 5088.337018,5176.482127777778,Q&A: Why would you automate a Factory Cart?
 5176.482127777778,5337.530945,"Jason, Gab, Nikita Talk: Community Challenge (Part 1)"
@@ -78,7 +78,7 @@
 5617.666014,5631.49019,Q&A: Why does Jason not simply eat the other five?
 5640.429296,5720.842047,"Jason, Gab, Nikita Talk: Fanta"
 5758.229345,5997.704482,Q&A: What's the process Gab & Nikita use for debugging?
-5997.704482,6096.581214,Q&A: What's Nikita's hair care routine?
+5997.704482,6096.581214,Hair
 5997.704482,6068.384949,Q&A: What's Nikita's hair care routine?
 6068.384949,6086.976758,Q&A: Does the Pioneer have hair?
 6086.976758,6096.581214,Outro
@@ -95,16 +95,16 @@
 7081.650305,8276.216666666667,Q&A (Part 4)
 7081.650305,7217.725958,Q&A: What is something the Sound & VFX team have done that people might not have noticed?
 7217.725958,7285.625027,Q&A: How does the wetness work with the different materials?
-7285.625027,7399.896383,Q&A: What's your favourite Weather states?
+7285.625027,7399.896383,Favourite Weather states
 7285.625027,7337.889783,Q&A: What's your favourite Weather states?
 7337.889783,7399.896383,Q&A: Do you use foley ?
 7399.896383,7435.938446,Q&A: Can the thunder be dangerous?
 7435.938446,7546.473544,Q&A: What was the development process like with the new Weather System?
-7546.473544,7769.125694,Q&A: How much strain does the Weather add on the GPU?
+7546.473544,7769.125694,Weather and the GPU
 7546.473544,7638.433856,Q&A: How much strain does the Weather add on the GPU? (Part 1)
 7638.433856,7680.885789,Q&A: Do you need a high spec computer since 1.1?
 7680.885789,7769.125694,Q&A: How much strain does the Weather add on the GPU? (Part 2)
-7769.125694,7953.405788,Q&A: Is there anything we can look forward to when Unreal Engine 6 comes out?
+7769.125694,7953.405788,Unreal Engine 6
 7769.125694,7839.72829,Q&A: Is there anything we can look forward to when Unreal Engine 6 comes out?
 7839.72829,7889.270156,Q&A: Do companies have to upgrade Engines? (Part 1)
 7889.270156,7913.182306,Q&A: Satisfactory in VR?

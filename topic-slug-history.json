@@ -1792,7 +1792,8 @@
 	},
 	"PLbjDnnBIxiEruo0Lbpj6lJAWFcxyKZpJY": {
 		"satisfactory-updates/speculative/satisfactory-1-2": 1729376675,
-		"satisfactory-updates/pending/satisfactory-1-2": 1774168873
+		"satisfactory-updates/pending/satisfactory-1-2": 1774168873,
+		"satisfactory-updates/released/satisfactory-1-2": 1780952515
 	},
 	"Portals": {
 		"features/quantum-technology/portals": 1729418474
@@ -1916,5 +1917,8 @@
 	},
 	"PLbjDnnBIxiEpP74nI_jdkN2UL5j-dsEcx": {
 		"coffee-stainers/mykhailo": 1775258788
+	},
+	"Unreal Engine 6": {
+		"technology/unreal-engine/unreal-engine-6": 1780943419
 	}
 }
