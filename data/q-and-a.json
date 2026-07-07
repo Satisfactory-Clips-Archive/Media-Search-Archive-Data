@@ -6654,6 +6654,7 @@
 			"mods/official-mod-support/steam-workshop"
 		],
 		"seealso": [
+			"yt-VJyJrBqvn9I",
 			"yt-JamGITdmzqQ"
 		]
 	},
@@ -12197,7 +12198,30 @@
 			"mods",
 			"mods/official-mod-support/steam-workshop"
 		],
+		"duplicates": [
+			"yt-0M3RKdwK5mA",
+			"yt-gJlAJ9md_2c,2775,2844",
+			"yt-dy137Wbx24M",
+			"yt-E6Z4op4C6Jc",
+			"yt-FkG749zfA2w",
+			"yt-GC8pyFLf1Rw",
+			"yt-Ildv99O7E0M",
+			"yt-n4fagQ4eivI",
+			"yt-PwFxPAf0nuM",
+			"yt-pZVLOQVG8Ro",
+			"yt-qzu-mnG_8uA",
+			"yt-sKwcRFzwGzI",
+			"tc-SwissTameCoffeeDansGame",
+			"yt-U2Dufcqf9G8",
+			"yt-VshaC16CO0w",
+			"yt-NlIVwoRqjVk,346,369",
+			"yt-Z2WggHmVHGI,135,236"
+		],
 		"seealso": [
+			"yt-JamGITdmzqQ",
+			"yt-KrZNo3kPAaQ",
+			"yt-OQI_L-M2vEg",
+			"yt-R2NhOHsOEO8",
 			"yt-Y2ikAUhc19E,7698,7722",
 			"yt-KrZNo3kPAaQ",
 			"yt-PzGBJPjFrFo"
@@ -41349,31 +41373,6 @@
 			"mods",
 			"mods/official-mod-support",
 			"mods/official-mod-support/steam-workshop"
-		],
-		"duplicates": [
-			"yt-0M3RKdwK5mA",
-			"yt-5KyHoIVdGzc",
-			"yt-dy137Wbx24M",
-			"yt-E6Z4op4C6Jc",
-			"yt-FkG749zfA2w",
-			"yt-GC8pyFLf1Rw",
-			"yt-Ildv99O7E0M",
-			"yt-n4fagQ4eivI",
-			"yt-PwFxPAf0nuM",
-			"yt-pZVLOQVG8Ro",
-			"yt-qzu-mnG_8uA",
-			"yt-sKwcRFzwGzI",
-			"tc-SwissTameCoffeeDansGame",
-			"yt-U2Dufcqf9G8",
-			"yt-VshaC16CO0w",
-			"yt-NlIVwoRqjVk,346,369",
-			"yt-Z2WggHmVHGI,135,236"
-		],
-		"seealso": [
-			"yt-JamGITdmzqQ",
-			"yt-KrZNo3kPAaQ",
-			"yt-OQI_L-M2vEg",
-			"yt-R2NhOHsOEO8"
 		]
 	},
 	"yt-kjtEzfP8fPE": {
@@ -47783,6 +47782,7 @@
 			"off-topic/sweden"
 		],
 		"seealso": [
+			"yt-Y2ikAUhc19E,7698,7722",
 			"yt-QHqLDc6L46g",
 			"yt-sDqoInm05LM",
 			"yt-iVDRQg_aWpU,6351,6365"
@@ -64145,6 +64145,8 @@
 			"features/multiplayer/crossplay"
 		],
 		"duplicates": [
+			"yt-gJlAJ9md_2c,8599,8604",
+			"yt-gJlAJ9md_2c,7525,7576",
 			"yt--kVvrassZVw",
 			"yt-0BJijGAInLU",
 			"yt-5THxL1hH6GI",
@@ -72606,6 +72608,7 @@
 			"coffee-stainers/mark"
 		],
 		"seealso": [
+			"yt-gJlAJ9md_2c,3645,3777",
 			"yt-ND_3mG1Bn_Y"
 		],
 		"seealso_topic_cards": [
@@ -85393,7 +85396,10 @@
 			"yt-_IXLS7G2Ef0",
 			"yt-_W5YNDh8nCY"
 		],
-		"replacedby": "yt-Rumqu_lyapg,16555,16580"
+		"replacedby": "yt-Rumqu_lyapg,16555,16580",
+		"replaces": [
+			"yt-gJlAJ9md_2c,8512,8524"
+		]
 	},
 	"yt-Rumqu_lyapg,2901,2944": {
 		"title": "Q&A: Are you a ceiling builder, Tobias?",
@@ -115928,6 +115934,7 @@
 			"community/josh"
 		],
 		"seealso": [
+			"yt-gJlAJ9md_2c,8142,8175",
 			"yt-8sbjtuLdwbA",
 			"yt-KH-MlrotoAg"
 		]
@@ -124463,6 +124470,7 @@
 			"off-topic"
 		],
 		"seealso": [
+			"yt-gJlAJ9md_2c,8142,8175",
 			"yt-jD4WtAxzhCk"
 		]
 	},
@@ -131669,6 +131677,7 @@
 			"yt-PIlduefx6Vk"
 		],
 		"seealso": [
+			"yt-gJlAJ9md_2c,9422,9431",
 			"yt-vNCmjf3ERnY",
 			"tc-ComfortableAltruisticHerringDansGame",
 			"tc-EnticingPricklyWitchM4xHeh",
@@ -135237,6 +135246,141 @@
 		],
 		"duplicatedby": "yt-YJLWX_-_trA"
 	},
+	"yt-gJlAJ9md_2c,2843,2867": {
+		"title": "Q&A: How much will it cost on Steam? (Part 1)",
+		"date": "2020-06-08",
+		"topics": [
+			"retail/steam-store"
+		],
+		"replaces": [
+			"yt-NlIVwoRqjVk,368,375",
+			"yt-Q2pyvicFkxA"
+		]
+	},
+	"yt-gJlAJ9md_2c,2874,2895": {
+		"title": "Q&A: Will you using Steam Workshop? (Part 2)",
+		"date": "2020-06-08",
+		"topics": [
+			"mods/official-mod-support/steam-workshop"
+		]
+	},
+	"yt-gJlAJ9md_2c,2894,2912": {
+		"title": "Q&A: How much will it cost on Steam? (Part 2)",
+		"date": "2020-06-08",
+		"topics": [
+			"retail/steam-store"
+		]
+	},
+	"yt-gJlAJ9md_2c,3645,3777": {
+		"title": "Q&A: What is Mark responsible for?",
+		"date": "2020-06-08",
+		"topics": [
+			"coffee-stainers/mark",
+			"special-guests"
+		],
+		"seealso": [
+			"yt-VVMNv0PCcIA"
+		]
+	},
+	"yt-gJlAJ9md_2c,7525,7576": {
+		"title": "Q&A: Will Crossplay be available?",
+		"date": "2020-06-08",
+		"topics": [
+			"features/multiplayer/crossplay"
+		]
+	},
+	"yt-gJlAJ9md_2c,8142,8175": {
+		"title": "Q&A: Why don't you two make a Let's Play series?",
+		"date": "2020-06-08",
+		"topics": [
+			"coffee-stainers/jace",
+			"coffee-stainers/snutt"
+		],
+		"seealso": [
+			"yt-jD4WtAxzhCk",
+			"yt-KH-MlrotoAg"
+		]
+	},
+	"yt-gJlAJ9md_2c,8500,8513": {
+		"title": "Q&A: How much will it cost? (Part 1)",
+		"date": "2020-06-08",
+		"topics": [
+			"retail",
+			"retail/steam-store/steam-release"
+		]
+	},
+	"yt-gJlAJ9md_2c,8512,8524": {
+		"title": "Q&A: Are you putting out Dedicated Servers with this release?",
+		"date": "2020-06-08",
+		"topics": [
+			"features/multiplayer/dedicated-servers",
+			"features/requested-features"
+		]
+	},
+	"yt-gJlAJ9md_2c,8523,8530": {
+		"title": "Q&A: How much will it cost? (Part 2)",
+		"date": "2020-06-08",
+		"topics": [
+			"retail",
+			"retail/steam-store/steam-release"
+		]
+	},
+	"yt-gJlAJ9md_2c,8529,8543": {
+		"title": "Q&A: How did Jace get from Australia to Coffee Stain?",
+		"date": "2020-06-08",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios",
+			"coffee-stainers/jace",
+			"off-topic/australia"
+		]
+	},
+	"yt-gJlAJ9md_2c,8542,8590": {
+		"title": "Q&A: Can you transfer Saves between Epic & Steam?",
+		"date": "2020-06-08",
+		"topics": [
+			"features/save-system",
+			"retail/epic-store",
+			"retail/steam-store"
+		],
+		"duplicates": [
+			"yt-BmKMv6SZJ5M,168,188"
+		]
+	},
+	"yt-gJlAJ9md_2c,8592,8600": {
+		"title": "Q&A: If you purchase on Epic will you get it on Steam? (Part 1)",
+		"date": "2020-06-08",
+		"topics": [
+			"retail",
+			"retail/epic-store",
+			"retail/steam-store"
+		]
+	},
+	"yt-gJlAJ9md_2c,8599,8604": {
+		"title": "Q&A: Can Steam users play with Epic?",
+		"date": "2020-06-08",
+		"topics": [
+			"features/multiplayer/crossplay"
+		]
+	},
+	"yt-gJlAJ9md_2c,8603,8724": {
+		"title": "Q&A: If you purchase on Epic will you get it on Steam? (Part 2)",
+		"date": "2020-06-08",
+		"topics": [
+			"retail",
+			"retail/epic-store",
+			"retail/steam-store"
+		]
+	},
+	"yt-gJlAJ9md_2c,9422,9431": {
+		"title": "Q&A: How much is the Merch going to cost?",
+		"date": "2020-06-08",
+		"topics": [
+			"merch"
+		],
+		"seealso": [
+			"yt-jQyDj_wa0LA"
+		]
+	},
 	"yt-KICxTv2a3rY": {
 		"title": "Q&A: Can I play on my Steam and Epic account if I have the game on both and link them?",
 		"date": "2020-06-08",
@@ -135541,8 +135685,8 @@
 		],
 		"duplicatedby": "yt-_UZr4JLSA1c"
 	},
-	"yt-5KyHoIVdGzc": {
-		"title": "Q&A: Will you using Steam Workshop?",
+	"yt-gJlAJ9md_2c,2775,2844": {
+		"title": "Q&A: Will you using Steam Workshop? (Part 1)",
 		"date": "2020-06-08",
 		"topics": [
 			"mods/official-mod-support",
@@ -135623,10 +135767,12 @@
 			"retail/steam-store/steam-release"
 		],
 		"duplicates": [
+			"yt-gJlAJ9md_2c,8500,8513",
 			"yt-FILck3h3n0A",
 			"yt-BmKMv6SZJ5M,145,169"
 		],
 		"seealso": [
+			"yt-gJlAJ9md_2c,8523,8530",
 			"yt-5kcpbR2ViOg"
 		]
 	},
@@ -135652,6 +135798,8 @@
 			"retail/steam-store/steam-release"
 		],
 		"duplicates": [
+			"yt-gJlAJ9md_2c,8592,8600",
+			"yt-gJlAJ9md_2c,8603,8724",
 			"yt-cCWKieE8O8g",
 			"yt-BmKMv6SZJ5M,187,207",
 			"yt-NlIVwoRqjVk,397,407",
