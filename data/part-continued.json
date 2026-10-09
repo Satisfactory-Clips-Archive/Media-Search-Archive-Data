@@ -1,5 +1,365 @@
 [
 	{
+		"id": "yt-0IcD3lp8tEY,2813,2868",
+		"id_disambiguated": "yt-0IcD3lp8tEY,2813,2868~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-0IcD3lp8tEY,2881,2928",
+		"next_disambiguated": "yt-0IcD3lp8tEY,2881,2928~0",
+		"date": "2026-09-29",
+		"title": "Q&A: Is Satisfactory getting a Switch or Switch 2 release? (Part 1)"
+	},
+	{
+		"id": "yt-0IcD3lp8tEY,2881,2928",
+		"id_disambiguated": "yt-0IcD3lp8tEY,2881,2928~0",
+		"previous": "yt-0IcD3lp8tEY,2813,2868",
+		"previous_disambiguated": "yt-0IcD3lp8tEY,2813,2868~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-29",
+		"title": "Q&A: Is Satisfactory getting a Switch or Switch 2 release? (Part 2)"
+	},
+	{
+		"id": "yt-0IcD3lp8tEY,5391,5510",
+		"id_disambiguated": "yt-0IcD3lp8tEY,5391,5510~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-0IcD3lp8tEY,5632,5639",
+		"next_disambiguated": "yt-0IcD3lp8tEY,5632,5639~0",
+		"date": "2026-09-29",
+		"title": "Q&A: What is on that Pizza? (Part 1)"
+	},
+	{
+		"id": "yt-0IcD3lp8tEY,5632,5639",
+		"id_disambiguated": "yt-0IcD3lp8tEY,5632,5639~0",
+		"previous": "yt-0IcD3lp8tEY,5391,5510",
+		"previous_disambiguated": "yt-0IcD3lp8tEY,5391,5510~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-29",
+		"title": "Q&A: What is on that Pizza? (Part 2)"
+	},
+	{
+		"id": "yt-0IcD3lp8tEY,8095,8107",
+		"id_disambiguated": "yt-0IcD3lp8tEY,8095,8107~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-0IcD3lp8tEY,8162,8179",
+		"next_disambiguated": "yt-0IcD3lp8tEY,8162,8179~0",
+		"date": "2026-09-29",
+		"title": "Q&A: When is the DRG news? (Part 1)"
+	},
+	{
+		"id": "yt-0IcD3lp8tEY,8162,8179",
+		"id_disambiguated": "yt-0IcD3lp8tEY,8162,8179~0",
+		"previous": "yt-0IcD3lp8tEY,8095,8107",
+		"previous_disambiguated": "yt-0IcD3lp8tEY,8095,8107~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-29",
+		"title": "Q&A: When is the DRG news? (Part 2)"
+	},
+	{
+		"id": "yt-y00Jlg8i7Tk,825,843",
+		"id_disambiguated": "yt-y00Jlg8i7Tk,825,843~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-y00Jlg8i7Tk,4653,4683",
+		"next_disambiguated": "yt-y00Jlg8i7Tk,4653,4683~0",
+		"date": "2026-09-22",
+		"title": "Q&A: Is Mikael alive? (Part 1)"
+	},
+	{
+		"id": "yt-y00Jlg8i7Tk,4653,4683",
+		"id_disambiguated": "yt-y00Jlg8i7Tk,4653,4683~0",
+		"previous": "yt-y00Jlg8i7Tk,825,843",
+		"previous_disambiguated": "yt-y00Jlg8i7Tk,825,843~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-22",
+		"title": "Q&A: Is Mikael alive? (Part 2)"
+	},
+	{
+		"id": "yt-y00Jlg8i7Tk,5999,6033",
+		"id_disambiguated": "yt-y00Jlg8i7Tk,5999,6033~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-y00Jlg8i7Tk,6061,6079",
+		"next_disambiguated": "yt-y00Jlg8i7Tk,6061,6079~0",
+		"date": "2026-09-22",
+		"title": "Q&A: What's for dinner today? (Part 1)"
+	},
+	{
+		"id": "yt-y00Jlg8i7Tk,6061,6079",
+		"id_disambiguated": "yt-y00Jlg8i7Tk,6061,6079~0",
+		"previous": "yt-y00Jlg8i7Tk,5999,6033",
+		"previous_disambiguated": "yt-y00Jlg8i7Tk,5999,6033~0",
+		"next": "yt-y00Jlg8i7Tk,6145,6158",
+		"next_disambiguated": "yt-y00Jlg8i7Tk,6145,6158~0",
+		"date": "2026-09-22",
+		"title": "Q&A: What's for dinner today? (Part 2)"
+	},
+	{
+		"id": "yt-y00Jlg8i7Tk,6145,6158",
+		"id_disambiguated": "yt-y00Jlg8i7Tk,6145,6158~0",
+		"previous": "yt-y00Jlg8i7Tk,6061,6079",
+		"previous_disambiguated": "yt-y00Jlg8i7Tk,6061,6079~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-22",
+		"title": "Q&A: What's for dinner today? (Part 3)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,8196,8960",
+		"id_disambiguated": "yt-U7j6bxpfFFE,8196,8960~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,9002,9219",
+		"next_disambiguated": "yt-U7j6bxpfFFE,9002,9219~0",
+		"date": "2026-09-16",
+		"title": "Gab, Jason, and Emmet Talk: Food (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,9002,9219",
+		"id_disambiguated": "yt-U7j6bxpfFFE,9002,9219~0",
+		"previous": "yt-U7j6bxpfFFE,8196,8960",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,8196,8960~0",
+		"next": "yt-U7j6bxpfFFE,9245,9265",
+		"next_disambiguated": "yt-U7j6bxpfFFE,9245,9265~0",
+		"date": "2026-09-16",
+		"title": "Gab, Jason, and Emmet Talk: Food (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,9245,9265",
+		"id_disambiguated": "yt-U7j6bxpfFFE,9245,9265~0",
+		"previous": "yt-U7j6bxpfFFE,9002,9219",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,9002,9219~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Gab, Jason, and Emmet Talk: Food (Part 3)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,3874,3949",
+		"id_disambiguated": "yt-U7j6bxpfFFE,3874,3949~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,4026,4055",
+		"next_disambiguated": "yt-U7j6bxpfFFE,4026,4055~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Doesn't the Factory Cart have faster acceleration? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,4026,4055",
+		"id_disambiguated": "yt-U7j6bxpfFFE,4026,4055~0",
+		"previous": "yt-U7j6bxpfFFE,3874,3949",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,3874,3949~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: Doesn't the Factory Cart have faster acceleration? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,10768,10950",
+		"id_disambiguated": "yt-U7j6bxpfFFE,10768,10950~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,11234,11300",
+		"next_disambiguated": "yt-U7j6bxpfFFE,11234,11300~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Do you guys play other factory or automation games? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,11234,11300",
+		"id_disambiguated": "yt-U7j6bxpfFFE,11234,11300~0",
+		"previous": "yt-U7j6bxpfFFE,10768,10950",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,10768,10950~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: Do you guys play other factory or automation games? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,4512,4522",
+		"id_disambiguated": "yt-U7j6bxpfFFE,4512,4522~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,4681,4698",
+		"next_disambiguated": "yt-U7j6bxpfFFE,4681,4698~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Is there a video this Friday? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,4681,4698",
+		"id_disambiguated": "yt-U7j6bxpfFFE,4681,4698~0",
+		"previous": "yt-U7j6bxpfFFE,4512,4522",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,4512,4522~0",
+		"next": "yt-U7j6bxpfFFE,5203,5294",
+		"next_disambiguated": "yt-U7j6bxpfFFE,5203,5294~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Is there a video this Friday? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,5203,5294",
+		"id_disambiguated": "yt-U7j6bxpfFFE,5203,5294~0",
+		"previous": "yt-U7j6bxpfFFE,4681,4698",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,4681,4698~0",
+		"next": "yt-U7j6bxpfFFE,9264,9289",
+		"next_disambiguated": "yt-U7j6bxpfFFE,9264,9289~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Is there a video this Friday? (Part 3)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,9264,9289",
+		"id_disambiguated": "yt-U7j6bxpfFFE,9264,9289~0",
+		"previous": "yt-U7j6bxpfFFE,5203,5294",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,5203,5294~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: Is there a video this Friday? (Part 4)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,12500,12540",
+		"id_disambiguated": "yt-U7j6bxpfFFE,12500,12540~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,12603,12620",
+		"next_disambiguated": "yt-U7j6bxpfFFE,12603,12620~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Is this gameplay all vanilla or is it modded? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,12603,12620",
+		"id_disambiguated": "yt-U7j6bxpfFFE,12603,12620~0",
+		"previous": "yt-U7j6bxpfFFE,12500,12540",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,12500,12540~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: Is this gameplay all vanilla or is it modded? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,5636,5700",
+		"id_disambiguated": "yt-U7j6bxpfFFE,5636,5700~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,7480,7490",
+		"next_disambiguated": "yt-U7j6bxpfFFE,7480,7490~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Pioneer in Fortnite? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,7480,7490",
+		"id_disambiguated": "yt-U7j6bxpfFFE,7480,7490~0",
+		"previous": "yt-U7j6bxpfFFE,5636,5700",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,5636,5700~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: Pioneer in Fortnite? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,11335,11393",
+		"id_disambiguated": "yt-U7j6bxpfFFE,11335,11393~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,11412,11876",
+		"next_disambiguated": "yt-U7j6bxpfFFE,11412,11876~0",
+		"date": "2026-09-16",
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,11412,11876",
+		"id_disambiguated": "yt-U7j6bxpfFFE,11412,11876~0",
+		"previous": "yt-U7j6bxpfFFE,11335,11393",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,11335,11393~0",
+		"next": "yt-U7j6bxpfFFE,11992,12137",
+		"next_disambiguated": "yt-U7j6bxpfFFE,11992,12137~0",
+		"date": "2026-09-16",
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,11992,12137",
+		"id_disambiguated": "yt-U7j6bxpfFFE,11992,12137~0",
+		"previous": "yt-U7j6bxpfFFE,11412,11876",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,11412,11876~0",
+		"next": "yt-U7j6bxpfFFE,12150,12501",
+		"next_disambiguated": "yt-U7j6bxpfFFE,12150,12501~0",
+		"date": "2026-09-16",
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 3)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,12150,12501",
+		"id_disambiguated": "yt-U7j6bxpfFFE,12150,12501~0",
+		"previous": "yt-U7j6bxpfFFE,11992,12137",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,11992,12137~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 4)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,11022,11185",
+		"id_disambiguated": "yt-U7j6bxpfFFE,11022,11185~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,11299,11336",
+		"next_disambiguated": "yt-U7j6bxpfFFE,11299,11336~0",
+		"date": "2026-09-16",
+		"title": "Q&A: What is something you'd like to see the Community make? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,11299,11336",
+		"id_disambiguated": "yt-U7j6bxpfFFE,11299,11336~0",
+		"previous": "yt-U7j6bxpfFFE,11022,11185",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,11022,11185~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: What is something you'd like to see the Community make? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,12541,12604",
+		"id_disambiguated": "yt-U7j6bxpfFFE,12541,12604~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,12619,12865",
+		"next_disambiguated": "yt-U7j6bxpfFFE,12619,12865~0",
+		"date": "2026-09-16",
+		"title": "Q&A: What is your favourite fast food or restaurant in Sweden? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,12619,12865",
+		"id_disambiguated": "yt-U7j6bxpfFFE,12619,12865~0",
+		"previous": "yt-U7j6bxpfFFE,12541,12604",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,12541,12604~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: What is your favourite fast food or restaurant in Sweden? (Part 2)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,5456,5531",
+		"id_disambiguated": "yt-U7j6bxpfFFE,5456,5531~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-U7j6bxpfFFE,5801,5827",
+		"next_disambiguated": "yt-U7j6bxpfFFE,5801,5827~0",
+		"date": "2026-09-16",
+		"title": "Q&A: Will Jason do a Let's Play on stream with Mikael? (Part 1)"
+	},
+	{
+		"id": "yt-U7j6bxpfFFE,5801,5827",
+		"id_disambiguated": "yt-U7j6bxpfFFE,5801,5827~0",
+		"previous": "yt-U7j6bxpfFFE,5456,5531",
+		"previous_disambiguated": "yt-U7j6bxpfFFE,5456,5531~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-09-16",
+		"title": "Q&A: Will Jason do a Let's Play on stream with Mikael? (Part 2)"
+	},
+	{
 		"id": "yt-iG2A88c8Fd4,5176,5338",
 		"id_disambiguated": "yt-iG2A88c8Fd4,5176,5338~0",
 		"previous": null,

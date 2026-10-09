@@ -1,4 +1,814 @@
 {
+	"yt-0IcD3lp8tEY,1540,1552": {
+		"title": "Q&A: Are you guys gonna to do a Fortnite collab?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/requested-features/crossovers"
+		]
+	},
+	"yt-0IcD3lp8tEY,2341,2422": {
+		"title": "Q&A: Satisfactory an HBO Original Series, when?",
+		"date": "2026-09-29",
+		"topics": [
+			"merch"
+		]
+	},
+	"yt-0IcD3lp8tEY,2686,2729": {
+		"title": "Q&A: Is the Map Zoom resetting fixed?",
+		"date": "2026-09-29",
+		"topics": [
+			"satisfactory-updates/released/satisfactory-1-2",
+			"technology/user-interface"
+		]
+	},
+	"yt-0IcD3lp8tEY,2728,2797": {
+		"title": "Q&A: Are the DX12 issues with CrossOver fixed?",
+		"date": "2026-09-29",
+		"topics": [
+			"technology/directx",
+			"technology/mac"
+		]
+	},
+	"yt-0IcD3lp8tEY,2796,2814": {
+		"title": "Q&A: Can you make a Satisfactory story or art book?",
+		"date": "2026-09-29",
+		"topics": [
+			"merch"
+		]
+	},
+	"yt-0IcD3lp8tEY,2813,2868": {
+		"title": "Q&A: Is Satisfactory getting a Switch or Switch 2 release? (Part 1)",
+		"date": "2026-09-29",
+		"topics": [
+			"features/console-release"
+		]
+	},
+	"yt-0IcD3lp8tEY,2867,2882": {
+		"title": "Q&A: Did you guys improve performance?",
+		"date": "2026-09-29",
+		"topics": [
+			"technology/graphics"
+		]
+	},
+	"yt-0IcD3lp8tEY,2881,2928": {
+		"title": "Q&A: Is Satisfactory getting a Switch or Switch 2 release? (Part 2)",
+		"date": "2026-09-29",
+		"topics": [
+			"features/console-release"
+		]
+	},
+	"yt-0IcD3lp8tEY,2927,2968": {
+		"title": "Q&A: Golf?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/unplanned-features/golf"
+		]
+	},
+	"yt-0IcD3lp8tEY,2967,2987": {
+		"title": "Q&A: Can we trust what you're saying?",
+		"date": "2026-09-29",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-0IcD3lp8tEY,4465,4570": {
+		"title": "Q&A: Will you be removing tiny Lifts?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/buildables/conveyor-belts"
+		]
+	},
+	"yt-0IcD3lp8tEY,5294,5310": {
+		"title": "Q&A: Blueprint Designer bugfixes, when?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/buildings/blueprint-designer"
+		]
+	},
+	"yt-0IcD3lp8tEY,5313,5392": {
+		"title": "Q&A: Videos this week?",
+		"date": "2026-09-29",
+		"topics": [
+			"big-break-showcase"
+		]
+	},
+	"yt-0IcD3lp8tEY,5391,5510": {
+		"title": "Q&A: What is on that Pizza? (Part 1)",
+		"date": "2026-09-29",
+		"topics": [
+			"off-topic/food-and-drink/pizza"
+		]
+	},
+	"yt-0IcD3lp8tEY,5522,5556": {
+		"title": "Q&A: Issue with smoke, fix please?",
+		"date": "2026-09-29",
+		"topics": [
+			"technology/graphics"
+		]
+	},
+	"yt-0IcD3lp8tEY,5555,5599": {
+		"title": "Q&A: Any plans to add more Tiers for Radars?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/buildings/radar-tower"
+		]
+	},
+	"yt-0IcD3lp8tEY,5599,5633": {
+		"title": "Q&A: Vehicles with Jump Pads?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/buildables/jump-pads"
+		]
+	},
+	"yt-0IcD3lp8tEY,5632,5639": {
+		"title": "Q&A: What is on that Pizza? (Part 2)",
+		"date": "2026-09-29",
+		"topics": [
+			"off-topic/food-and-drink/pizza"
+		]
+	},
+	"yt-0IcD3lp8tEY,5640,5681": {
+		"title": "Q&A: Why don't we have different speed Train Tracks?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/requested-features",
+			"features/transportation/trains"
+		]
+	},
+	"yt-0IcD3lp8tEY,5686,5830": {
+		"title": "Q&A: Fluid priority?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/fluids"
+		]
+	},
+	"yt-0IcD3lp8tEY,5831,5883": {
+		"title": "Q&A: Will disappearing Buildings when using Blueprints with Dedicated Servers be fixed?",
+		"date": "2026-09-29",
+		"topics": [
+			"features/blueprints",
+			"features/multiplayer/dedicated-servers"
+		]
+	},
+	"yt-0IcD3lp8tEY,7556,7576": {
+		"title": "Q&A: On what stream will be the big break?",
+		"date": "2026-09-29",
+		"topics": [
+			"big-break-showcase"
+		]
+	},
+	"yt-0IcD3lp8tEY,8095,8107": {
+		"title": "Q&A: When is the DRG news? (Part 1)",
+		"date": "2026-09-29",
+		"topics": [
+			"big-break-showcase",
+			"off-topic/deep-rock-galactic"
+		]
+	},
+	"yt-0IcD3lp8tEY,8162,8179": {
+		"title": "Q&A: When is the DRG news? (Part 2)",
+		"date": "2026-09-29",
+		"topics": [
+			"big-break-showcase",
+			"off-topic/deep-rock-galactic"
+		]
+	},
+	"yt-y00Jlg8i7Tk,1350,1395": {
+		"title": "Q&A: Jason, why did you undercut your peer by sabotaging their Coffee Cup run?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/gab",
+			"coffee-stainers/jason",
+			"community"
+		]
+	},
+	"yt-y00Jlg8i7Tk,1498,1573": {
+		"title": "Q&A: How often are these streams?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-y00Jlg8i7Tk,1762,1801": {
+		"title": "Q&A: Where's Mikael?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-y00Jlg8i7Tk,2127,2136": {
+		"title": "Q&A: When will you allow SCUBA and Underwater construction?",
+		"date": "2026-09-22",
+		"topics": [
+			"environment/biomes/unplanned-biomes/underwater"
+		]
+	},
+	"yt-y00Jlg8i7Tk,3787,3821": {
+		"title": "Q&A: Linux build?",
+		"date": "2026-09-22",
+		"topics": [
+			"technology/linux"
+		]
+	},
+	"yt-y00Jlg8i7Tk,3820,3827": {
+		"title": "Q&A: Did you buy Gab his lunch or dinner?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/gab",
+			"coffee-stainers/jason",
+			"community"
+		]
+	},
+	"yt-y00Jlg8i7Tk,3849,3861": {
+		"title": "Q&A: Is the break over, are you guys back to developing?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-y00Jlg8i7Tk,3860,3873": {
+		"title": "Q&A: Why is there a poster about Beans shitting behind you?",
+		"date": "2026-09-22",
+		"topics": [
+			"merch"
+		]
+	},
+	"yt-y00Jlg8i7Tk,4025,4105": {
+		"title": "Q&A: Can we know more about the board game?",
+		"date": "2026-09-22",
+		"topics": [
+			"merch"
+		]
+	},
+	"yt-y00Jlg8i7Tk,4436,4465": {
+		"title": "Q&A: How can we upload an image to these Community Highlights?",
+		"date": "2026-09-22",
+		"topics": [
+			"community/community-highlights"
+		]
+	},
+	"yt-y00Jlg8i7Tk,4653,4683": {
+		"title": "Q&A: Is Mikael alive? (Part 2)",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5162,5218": {
+		"title": "Q&A: Any news on any new Merch?",
+		"date": "2026-09-22",
+		"topics": [
+			"merch"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5219,5262": {
+		"title": "Q&A: What's an average day at Coffee Stain like?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5263,5284": {
+		"title": "Q&A: Are you aware of the DX12 crash when playing through Crossover?",
+		"date": "2026-09-22",
+		"topics": [
+			"technology/directx",
+			"technology/mac"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5283,5314": {
+		"title": "Q&A: Will the BoomBox Merch come back?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/equipment/boom-box",
+			"merch"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5317,5347": {
+		"title": "Q&A: Any thoughts on adding modifiers / randomisers & challenges?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/game-modes"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5352,5373": {
+		"title": "Q&A: Why can't Inhalers be automated via machines?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/buildings",
+			"features/crafting/recipes/alternate-recipes",
+			"features/equipment"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5380,5415": {
+		"title": "Q&A: Will there ever be a support engine for Trains?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/requested-features",
+			"features/transportation/trains"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5418,5469": {
+		"title": "Q&A: Will you be doing a stream to find out what the Community wants in the game?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/requested-features"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5477,5505": {
+		"title": "Q&A: Coal Trains?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/requested-features",
+			"features/transportation/trains"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5504,5520": {
+		"title": "Q&A: What's it like being the best studio on the planet?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5519,5575": {
+		"title": "Q&A: What are Dev Streams going to be like for the next few weeks?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5575,5583": {
+		"title": "Q&A: Obligatory \"Golf, when?\"",
+		"date": "2026-09-22",
+		"topics": [
+			"features/unplanned-features/golf"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5582,5595": {
+		"title": "Q&A: Post links to the reddit posts during Community Highlights?",
+		"date": "2026-09-22",
+		"topics": [
+			"community/community-highlights"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5594,5600": {
+		"title": "Q&A: Biofuel playthrough, when?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5599,5656": {
+		"title": "Q&A: Any new FICSMAS content this year?",
+		"date": "2026-09-22",
+		"topics": [
+			"satisfactory-updates/seasonal-events/fics-mas"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5655,5734": {
+		"title": "Q&A: Will there be more Wall and Foundation materials?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/buildables/foundations",
+			"features/buildables/walls",
+			"features/equipment/customizer",
+			"features/requested-features"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5825,5853": {
+		"title": "Q&A: PC / Console Crossplay?",
+		"date": "2026-09-22",
+		"topics": [
+			"features/multiplayer/crossplay"
+		]
+	},
+	"yt-y00Jlg8i7Tk,5999,6033": {
+		"title": "Q&A: What's for dinner today? (Part 1)",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-y00Jlg8i7Tk,6061,6079": {
+		"title": "Q&A: What's for dinner today? (Part 2)",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-y00Jlg8i7Tk,6140,6146": {
+		"title": "Q&A: Satisfactory 2, when?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-y00Jlg8i7Tk,6145,6158": {
+		"title": "Q&A: What's for dinner today? (Part 3)",
+		"date": "2026-09-22",
+		"topics": [
+			"satisfactory-updates/speculative/satisfactory-2-0"
+		]
+	},
+	"yt-y00Jlg8i7Tk,6935,7162": {
+		"title": "New CSS Vidya?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-y00Jlg8i7Tk,825,843": {
+		"title": "Q&A: Is Mikael alive? (Part 1)",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-y00Jlg8i7Tk,894,916": {
+		"title": "Q&A: Jason, remind us what your dad does for a living again?",
+		"date": "2026-09-22",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-U7j6bxpfFFE,10128,10236": {
+		"title": "Q&A: Are there members of the team that do not like Pepsi?",
+		"date": "2026-09-16",
+		"topics": [
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-U7j6bxpfFFE,10286,10316": {
+		"title": "Q&A: Office tour?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-U7j6bxpfFFE,10315,10357": {
+		"title": "Q&A: What is Hannah's go-to game right now?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/hannah"
+		]
+	},
+	"yt-U7j6bxpfFFE,10571,10769": {
+		"title": "Q&A: What is your favourite part of the track?",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,10768,10950": {
+		"title": "Q&A: Do you guys play other factory or automation games? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers",
+			"off-topic"
+		]
+	},
+	"yt-U7j6bxpfFFE,11022,11185": {
+		"title": "Q&A: What is something you'd like to see the Community make? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,11234,11300": {
+		"title": "Q&A: Do you guys play other factory or automation games? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers",
+			"off-topic"
+		]
+	},
+	"yt-U7j6bxpfFFE,11299,11336": {
+		"title": "Q&A: What is something you'd like to see the Community make? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,11335,11393": {
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers"
+		]
+	},
+	"yt-U7j6bxpfFFE,11392,11413": {
+		"title": "Q&A: How many Mods does this have?",
+		"date": "2026-09-16",
+		"topics": [
+			"community",
+			"mods"
+		]
+	},
+	"yt-U7j6bxpfFFE,11412,11876": {
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers"
+		]
+	},
+	"yt-U7j6bxpfFFE,11992,12137": {
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 3)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers"
+		]
+	},
+	"yt-U7j6bxpfFFE,12136,12151": {
+		"title": "Q&A: We need better Multiplayer parity",
+		"date": "2026-09-16",
+		"topics": [
+			"features/requested-features/crossovers"
+		]
+	},
+	"yt-U7j6bxpfFFE,12150,12501": {
+		"title": "Q&A: What's a game that you remember from your childhood that's probably a garbage game? (Part 4)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers"
+		]
+	},
+	"yt-U7j6bxpfFFE,12500,12540": {
+		"title": "Q&A: Is this gameplay all vanilla or is it modded? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,12541,12604": {
+		"title": "Q&A: What is your favourite fast food or restaurant in Sweden? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"off-topic/food-and-drink",
+			"off-topic/sweden"
+		]
+	},
+	"yt-U7j6bxpfFFE,12603,12620": {
+		"title": "Q&A: Is this gameplay all vanilla or is it modded? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,12619,12865": {
+		"title": "Q&A: What is your favourite fast food or restaurant in Sweden? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"off-topic/food-and-drink",
+			"off-topic/sweden"
+		]
+	},
+	"yt-U7j6bxpfFFE,1876,1908": {
+		"title": "Q&A: Did you talk about VR yet?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/unplanned-features/vr"
+		]
+	},
+	"yt-U7j6bxpfFFE,2314,2357": {
+		"title": "Q&A: Is CSS part of the showcase?",
+		"date": "2026-09-16",
+		"topics": [
+			"big-break-showcase"
+		]
+	},
+	"yt-U7j6bxpfFFE,2356,2381": {
+		"title": "Q&A: Jason & Mikael DLC?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/jason",
+			"coffee-stainers/mikael",
+			"features/possible-features/dlc"
+		]
+	},
+	"yt-U7j6bxpfFFE,3054,3128": {
+		"title": "Q&A: Has anyone in Coffee Cup considered a career in level design?",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,3128,3174": {
+		"title": "Q&A: Who else from CSS is going to try it?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers",
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,3874,3949": {
+		"title": "Q&A: Doesn't the Factory Cart have faster acceleration? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"features/transportation/vehicles/factory-cart"
+		]
+	},
+	"yt-U7j6bxpfFFE,3965,3998": {
+		"title": "Q&A: Where is map download?",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,4026,4055": {
+		"title": "Q&A: Doesn't the Factory Cart have faster acceleration? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"features/transportation/vehicles/factory-cart"
+		]
+	},
+	"yt-U7j6bxpfFFE,4512,4522": {
+		"title": "Q&A: Is there a video this Friday? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"satisfactory-updates/teasers-and-trailers"
+		]
+	},
+	"yt-U7j6bxpfFFE,4596,4646": {
+		"title": "Q&A: Is there a build limit?",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,4681,4698": {
+		"title": "Q&A: Is there a video this Friday? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"satisfactory-updates/teasers-and-trailers"
+		]
+	},
+	"yt-U7j6bxpfFFE,5203,5294": {
+		"title": "Q&A: Is there a video this Friday? (Part 3)",
+		"date": "2026-09-16",
+		"topics": [
+			"satisfactory-updates/teasers-and-trailers"
+		]
+	},
+	"yt-U7j6bxpfFFE,5384,5401": {
+		"title": "Q&A: Can you turn off the Anniversary music this year?",
+		"date": "2026-09-16",
+		"topics": [
+			"satisfactory-updates/seasonal-events"
+		]
+	},
+	"yt-U7j6bxpfFFE,5456,5531": {
+		"title": "Q&A: Will Jason do a Let's Play on stream with Mikael? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/jason",
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-U7j6bxpfFFE,5594,5637": {
+		"title": "Q&A: Was Third-Person mode considered?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/requested-features/third-person-view"
+		]
+	},
+	"yt-U7j6bxpfFFE,5636,5700": {
+		"title": "Q&A: Pioneer in Fortnite? (Part 1)",
+		"date": "2026-09-16",
+		"topics": [
+			"features/requested-features/crossovers"
+		]
+	},
+	"yt-U7j6bxpfFFE,5801,5827": {
+		"title": "Q&A: Will Jason do a Let's Play on stream with Mikael? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/jason",
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-U7j6bxpfFFE,6220,6370": {
+		"title": "Q&A: What was the worst part of the Vehicle rework in 1.2?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/transportation/vehicles",
+			"satisfactory-updates/released/satisfactory-1-2"
+		]
+	},
+	"yt-U7j6bxpfFFE,6408,6493": {
+		"title": "Q&A: Where do you stand on a road tool idea that everyone is hoping for?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/buildables",
+			"features/requested-features",
+			"features/transportation/vehicles"
+		]
+	},
+	"yt-U7j6bxpfFFE,6492,6968": {
+		"title": "Q&A: What was the last racing game Gab & Emmet played?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/emmet",
+			"coffee-stainers/gab",
+			"off-topic"
+		]
+	},
+	"yt-U7j6bxpfFFE,6974,7116": {
+		"title": "Q&A: What's Gab, Jason, and Emmet's favourite and least favourite part of Unreal Engine?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/emmet",
+			"coffee-stainers/gab",
+			"coffee-stainers/jason",
+			"technology/unreal-engine"
+		]
+	},
+	"yt-U7j6bxpfFFE,7115,7349": {
+		"title": "Q&A: What do you think of the GPT/Astra games?",
+		"date": "2026-09-16",
+		"topics": [
+			"technology/chatgpt"
+		]
+	},
+	"yt-U7j6bxpfFFE,7480,7490": {
+		"title": "Q&A: Pioneer in Fortnite? (Part 2)",
+		"date": "2026-09-16",
+		"topics": [
+			"features/requested-features/crossovers"
+		]
+	},
+	"yt-U7j6bxpfFFE,7507,7634": {
+		"title": "Q&A: Why does the Fluid Truck Station have a different offset to the Truck Station?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/buildings",
+			"features/fluids",
+			"features/transportation/vehicles"
+		]
+	},
+	"yt-U7j6bxpfFFE,7633,7763": {
+		"title": "Q&A: Adding Crossplay?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/multiplayer/crossplay"
+		]
+	},
+	"yt-U7j6bxpfFFE,7762,7843": {
+		"title": "Q&A: Any thoughts on new game modifiers?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/game-modes"
+		]
+	},
+	"yt-U7j6bxpfFFE,8992,9003": {
+		"title": "Q&A: Who do we ask for language questions?",
+		"date": "2026-09-16",
+		"topics": [
+			"localisation"
+		]
+	},
+	"yt-U7j6bxpfFFE,9264,9289": {
+		"title": "Q&A: Is there a video this Friday? (Part 4)",
+		"date": "2026-09-16",
+		"topics": [
+			"satisfactory-updates/teasers-and-trailers"
+		]
+	},
+	"yt-U7j6bxpfFFE,9352,9539": {
+		"title": "Q&A: What's the last racing game Hannah played?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers/hannah",
+			"off-topic"
+		]
+	},
+	"yt-U7j6bxpfFFE,9538,9635": {
+		"title": "Q&A: How was GamesCom?",
+		"date": "2026-09-16",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-U7j6bxpfFFE,9881,9918": {
+		"title": "Q&A: Do former team members like Jace & Snutt visit sometimes?",
+		"date": "2026-09-16",
+		"topics": [
+			"coffee-stainers",
+			"coffee-stainers/jace",
+			"coffee-stainers/snutt"
+		]
+	},
+	"yt-U7j6bxpfFFE,9917,9974": {
+		"title": "Q&A: Enable physics and see how many factories get destroyed?",
+		"date": "2026-09-16",
+		"topics": [
+			"features/buildables",
+			"technology/physics"
+		]
+	},
 	"yt-iG2A88c8Fd4,1521,1572": {
 		"title": "Q&A: Where is Mikael? (Part 1)",
 		"date": "2026-06-02",
