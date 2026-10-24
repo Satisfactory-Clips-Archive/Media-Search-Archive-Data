@@ -1032,7 +1032,8 @@
 		"features/buildings/overclocking-and-underclocking": 1636539478
 	},
 	"PLbjDnnBIxiEqpoKbEqKcyh5D006HnL3xJ": {
-		"features/possible-features/underground-biome": 1622921459
+		"features/possible-features/underground-biome": 1622921459,
+		"features/planned-features/underground-biome": 1792758817
 	},
 	"PLbjDnnBIxiEpOl-wg1r4-qo3TyvXUy-ev": {
 		"features/requested-features": 1619030968
@@ -1923,5 +1924,14 @@
 	},
 	"Big Break Showcase": {
 		"big-break-showcase": 1791215874
+	},
+	"Lizard Catto": {
+		"environment/creatures/lizard-catto": 1792758817
+	},
+	"Pending DLC": {
+		"satisfactory-updates/pending/dlc": 1792758817
+	},
+	"Core Values": {
+		"satisfactory-updates/pending/dlc/core-values": 1792758817
 	}
 }
