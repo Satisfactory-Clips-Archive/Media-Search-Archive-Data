@@ -1,5 +1,845 @@
 [
 	{
+		"id": "yt-RlT5uUssxN0,1537,1550",
+		"id_disambiguated": "yt-RlT5uUssxN0,1537,1550~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,1573,1616",
+		"next_disambiguated": "yt-RlT5uUssxN0,1573,1616~0",
+		"date": "2026-11-09",
+		"title": "Big Break Showcase (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1573,1616",
+		"id_disambiguated": "yt-RlT5uUssxN0,1573,1616~0",
+		"previous": "yt-RlT5uUssxN0,1537,1550",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1537,1550~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Big Break Showcase (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4789,4861",
+		"id_disambiguated": "yt-RlT5uUssxN0,4789,4861~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,4902,4940",
+		"next_disambiguated": "yt-RlT5uUssxN0,4902,4940~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4902,4940",
+		"id_disambiguated": "yt-RlT5uUssxN0,4902,4940~0",
+		"previous": "yt-RlT5uUssxN0,4789,4861",
+		"previous_disambiguated": "yt-RlT5uUssxN0,4789,4861~0",
+		"next": "yt-RlT5uUssxN0,4957,4987",
+		"next_disambiguated": "yt-RlT5uUssxN0,4957,4987~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4957,4987",
+		"id_disambiguated": "yt-RlT5uUssxN0,4957,4987~0",
+		"previous": "yt-RlT5uUssxN0,4902,4940",
+		"previous_disambiguated": "yt-RlT5uUssxN0,4902,4940~0",
+		"next": "yt-RlT5uUssxN0,5076,5095",
+		"next_disambiguated": "yt-RlT5uUssxN0,5076,5095~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5076,5095",
+		"id_disambiguated": "yt-RlT5uUssxN0,5076,5095~0",
+		"previous": "yt-RlT5uUssxN0,4957,4987",
+		"previous_disambiguated": "yt-RlT5uUssxN0,4957,4987~0",
+		"next": "yt-RlT5uUssxN0,5154,5167",
+		"next_disambiguated": "yt-RlT5uUssxN0,5154,5167~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5154,5167",
+		"id_disambiguated": "yt-RlT5uUssxN0,5154,5167~0",
+		"previous": "yt-RlT5uUssxN0,5076,5095",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5076,5095~0",
+		"next": "yt-RlT5uUssxN0,5190,5203",
+		"next_disambiguated": "yt-RlT5uUssxN0,5190,5203~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 5)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5190,5203",
+		"id_disambiguated": "yt-RlT5uUssxN0,5190,5203~0",
+		"previous": "yt-RlT5uUssxN0,5154,5167",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5154,5167~0",
+		"next": "yt-RlT5uUssxN0,5365,5410",
+		"next_disambiguated": "yt-RlT5uUssxN0,5365,5410~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 6)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5365,5410",
+		"id_disambiguated": "yt-RlT5uUssxN0,5365,5410~0",
+		"previous": "yt-RlT5uUssxN0,5190,5203",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5190,5203~0",
+		"next": "yt-RlT5uUssxN0,6663,6676",
+		"next_disambiguated": "yt-RlT5uUssxN0,6663,6676~0",
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 7)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6663,6676",
+		"id_disambiguated": "yt-RlT5uUssxN0,6663,6676~0",
+		"previous": "yt-RlT5uUssxN0,5365,5410",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5365,5410~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Jason Talk: Butts and Beans (Part 8)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5790,5804",
+		"id_disambiguated": "yt-RlT5uUssxN0,5790,5804~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,5896,5907",
+		"next_disambiguated": "yt-RlT5uUssxN0,5896,5907~0",
+		"date": "2026-11-09",
+		"title": "Community FYI: Board game in it's last day of it's campaign (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5896,5907",
+		"id_disambiguated": "yt-RlT5uUssxN0,5896,5907~0",
+		"previous": "yt-RlT5uUssxN0,5790,5804",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5790,5804~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Community FYI: Board game in it's last day of it's campaign (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1396,1491",
+		"id_disambiguated": "yt-RlT5uUssxN0,1396,1491~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,1519,1538",
+		"next_disambiguated": "yt-RlT5uUssxN0,1519,1538~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1519,1538",
+		"id_disambiguated": "yt-RlT5uUssxN0,1519,1538~0",
+		"previous": "yt-RlT5uUssxN0,1396,1491",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1396,1491~0",
+		"next": "yt-RlT5uUssxN0,1615,1646",
+		"next_disambiguated": "yt-RlT5uUssxN0,1615,1646~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1615,1646",
+		"id_disambiguated": "yt-RlT5uUssxN0,1615,1646~0",
+		"previous": "yt-RlT5uUssxN0,1519,1538",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1519,1538~0",
+		"next": "yt-RlT5uUssxN0,1677,1695",
+		"next_disambiguated": "yt-RlT5uUssxN0,1677,1695~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1677,1695",
+		"id_disambiguated": "yt-RlT5uUssxN0,1677,1695~0",
+		"previous": "yt-RlT5uUssxN0,1615,1646",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1615,1646~0",
+		"next": "yt-RlT5uUssxN0,1729,1735",
+		"next_disambiguated": "yt-RlT5uUssxN0,1729,1735~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1729,1735",
+		"id_disambiguated": "yt-RlT5uUssxN0,1729,1735~0",
+		"previous": "yt-RlT5uUssxN0,1677,1695",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1677,1695~0",
+		"next": "yt-RlT5uUssxN0,1766,1790",
+		"next_disambiguated": "yt-RlT5uUssxN0,1766,1790~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 5)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1766,1790",
+		"id_disambiguated": "yt-RlT5uUssxN0,1766,1790~0",
+		"previous": "yt-RlT5uUssxN0,1729,1735",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1729,1735~0",
+		"next": "yt-RlT5uUssxN0,1816,1939",
+		"next_disambiguated": "yt-RlT5uUssxN0,1816,1939~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 6)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1816,1939",
+		"id_disambiguated": "yt-RlT5uUssxN0,1816,1939~0",
+		"previous": "yt-RlT5uUssxN0,1766,1790",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1766,1790~0",
+		"next": "yt-RlT5uUssxN0,1949,2002",
+		"next_disambiguated": "yt-RlT5uUssxN0,1949,2002~0",
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 7)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1949,2002",
+		"id_disambiguated": "yt-RlT5uUssxN0,1949,2002~0",
+		"previous": "yt-RlT5uUssxN0,1816,1939",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1816,1939~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Crossplay & Crossplay Issues (Part 8)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7476,7485",
+		"id_disambiguated": "yt-RlT5uUssxN0,7476,7485~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,7535,7581",
+		"next_disambiguated": "yt-RlT5uUssxN0,7535,7581~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Anything new with FICSMAS this year or just the calendar art? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7535,7581",
+		"id_disambiguated": "yt-RlT5uUssxN0,7535,7581~0",
+		"previous": "yt-RlT5uUssxN0,7476,7485",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7476,7485~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Anything new with FICSMAS this year or just the calendar art? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4940,4958",
+		"id_disambiguated": "yt-RlT5uUssxN0,4940,4958~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,4986,5042",
+		"next_disambiguated": "yt-RlT5uUssxN0,4986,5042~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Are we missing something with Epic overlay invites? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4986,5042",
+		"id_disambiguated": "yt-RlT5uUssxN0,4986,5042~0",
+		"previous": "yt-RlT5uUssxN0,4940,4958",
+		"previous_disambiguated": "yt-RlT5uUssxN0,4940,4958~0",
+		"next": "yt-RlT5uUssxN0,5094,5114",
+		"next_disambiguated": "yt-RlT5uUssxN0,5094,5114~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Are we missing something with Epic overlay invites? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5094,5114",
+		"id_disambiguated": "yt-RlT5uUssxN0,5094,5114~0",
+		"previous": "yt-RlT5uUssxN0,4986,5042",
+		"previous_disambiguated": "yt-RlT5uUssxN0,4986,5042~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Are we missing something with Epic overlay invites? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5611,5625",
+		"id_disambiguated": "yt-RlT5uUssxN0,5611,5625~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,5679,5717",
+		"next_disambiguated": "yt-RlT5uUssxN0,5679,5717~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can we get more goofy joke thingies in the game? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5679,5717",
+		"id_disambiguated": "yt-RlT5uUssxN0,5679,5717~0",
+		"previous": "yt-RlT5uUssxN0,5611,5625",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5611,5625~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Can we get more goofy joke thingies in the game? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7249,7271",
+		"id_disambiguated": "yt-RlT5uUssxN0,7249,7271~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,7315,7342",
+		"next_disambiguated": "yt-RlT5uUssxN0,7315,7342~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can we send you fanmail? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7315,7342",
+		"id_disambiguated": "yt-RlT5uUssxN0,7315,7342~0",
+		"previous": "yt-RlT5uUssxN0,7249,7271",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7249,7271~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Can we send you fanmail? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1816,1939",
+		"id_disambiguated": "yt-RlT5uUssxN0,1816,1939~1",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,1949,2002",
+		"next_disambiguated": "yt-RlT5uUssxN0,1949,2002~1",
+		"date": "2026-11-09",
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1949,2002",
+		"id_disambiguated": "yt-RlT5uUssxN0,1949,2002~1",
+		"previous": "yt-RlT5uUssxN0,1816,1939",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1816,1939~1",
+		"next": "yt-RlT5uUssxN0,5113,5155",
+		"next_disambiguated": "yt-RlT5uUssxN0,5113,5155~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5113,5155",
+		"id_disambiguated": "yt-RlT5uUssxN0,5113,5155~0",
+		"previous": "yt-RlT5uUssxN0,1949,2002",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1949,2002~1",
+		"next": "yt-RlT5uUssxN0,7042,7248",
+		"next_disambiguated": "yt-RlT5uUssxN0,7042,7248~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7042,7248",
+		"id_disambiguated": "yt-RlT5uUssxN0,7042,7248~0",
+		"previous": "yt-RlT5uUssxN0,5113,5155",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5113,5155~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7664,7697",
+		"id_disambiguated": "yt-RlT5uUssxN0,7664,7697~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,7750,7761",
+		"next_disambiguated": "yt-RlT5uUssxN0,7750,7761~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7750,7761",
+		"id_disambiguated": "yt-RlT5uUssxN0,7750,7761~0",
+		"previous": "yt-RlT5uUssxN0,7664,7697",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7664,7697~0",
+		"next": "yt-RlT5uUssxN0,7846,7917",
+		"next_disambiguated": "yt-RlT5uUssxN0,7846,7917~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7846,7917",
+		"id_disambiguated": "yt-RlT5uUssxN0,7846,7917~0",
+		"previous": "yt-RlT5uUssxN0,7750,7761",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7750,7761~0",
+		"next": "yt-RlT5uUssxN0,7925,7937",
+		"next_disambiguated": "yt-RlT5uUssxN0,7925,7937~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7925,7937",
+		"id_disambiguated": "yt-RlT5uUssxN0,7925,7937~0",
+		"previous": "yt-RlT5uUssxN0,7846,7917",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7846,7917~0",
+		"next": "yt-RlT5uUssxN0,7950,7967",
+		"next_disambiguated": "yt-RlT5uUssxN0,7950,7967~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7950,7967",
+		"id_disambiguated": "yt-RlT5uUssxN0,7950,7967~0",
+		"previous": "yt-RlT5uUssxN0,7925,7937",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7925,7937~0",
+		"next": "yt-RlT5uUssxN0,8075,8092",
+		"next_disambiguated": "yt-RlT5uUssxN0,8075,8092~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 5)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,8075,8092",
+		"id_disambiguated": "yt-RlT5uUssxN0,8075,8092~0",
+		"previous": "yt-RlT5uUssxN0,7950,7967",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7950,7967~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 6)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5633,5680",
+		"id_disambiguated": "yt-RlT5uUssxN0,5633,5680~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,5747,5791",
+		"next_disambiguated": "yt-RlT5uUssxN0,5747,5791~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5747,5791",
+		"id_disambiguated": "yt-RlT5uUssxN0,5747,5791~0",
+		"previous": "yt-RlT5uUssxN0,5633,5680",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5633,5680~0",
+		"next": "yt-RlT5uUssxN0,5803,5831",
+		"next_disambiguated": "yt-RlT5uUssxN0,5803,5831~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5803,5831",
+		"id_disambiguated": "yt-RlT5uUssxN0,5803,5831~0",
+		"previous": "yt-RlT5uUssxN0,5747,5791",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5747,5791~0",
+		"next": "yt-RlT5uUssxN0,5858,5864",
+		"next_disambiguated": "yt-RlT5uUssxN0,5858,5864~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5858,5864",
+		"id_disambiguated": "yt-RlT5uUssxN0,5858,5864~0",
+		"previous": "yt-RlT5uUssxN0,5803,5831",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5803,5831~0",
+		"next": "yt-RlT5uUssxN0,6687,6775",
+		"next_disambiguated": "yt-RlT5uUssxN0,6687,6775~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6687,6775",
+		"id_disambiguated": "yt-RlT5uUssxN0,6687,6775~0",
+		"previous": "yt-RlT5uUssxN0,5858,5864",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5858,5864~0",
+		"next": "yt-RlT5uUssxN0,6782,6808",
+		"next_disambiguated": "yt-RlT5uUssxN0,6782,6808~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 5)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6782,6808",
+		"id_disambiguated": "yt-RlT5uUssxN0,6782,6808~0",
+		"previous": "yt-RlT5uUssxN0,6687,6775",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6687,6775~0",
+		"next": "yt-RlT5uUssxN0,6887,6903",
+		"next_disambiguated": "yt-RlT5uUssxN0,6887,6903~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 6)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6887,6903",
+		"id_disambiguated": "yt-RlT5uUssxN0,6887,6903~0",
+		"previous": "yt-RlT5uUssxN0,6782,6808",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6782,6808~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Dinner? (Part 7)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,2073,2083",
+		"id_disambiguated": "yt-RlT5uUssxN0,2073,2083~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6387,6394",
+		"next_disambiguated": "yt-RlT5uUssxN0,6387,6394~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Do you have a release date planned? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6387,6394",
+		"id_disambiguated": "yt-RlT5uUssxN0,6387,6394~0",
+		"previous": "yt-RlT5uUssxN0,2073,2083",
+		"previous_disambiguated": "yt-RlT5uUssxN0,2073,2083~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Do you have a release date planned? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6324,6336",
+		"id_disambiguated": "yt-RlT5uUssxN0,6324,6336~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6369,6374",
+		"next_disambiguated": "yt-RlT5uUssxN0,6369,6374~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Do you plan to complete the Map (the black spots in the base game)? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6369,6374",
+		"id_disambiguated": "yt-RlT5uUssxN0,6369,6374~0",
+		"previous": "yt-RlT5uUssxN0,6324,6336",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6324,6336~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Do you plan to complete the Map (the black spots in the base game)? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,8011,8076",
+		"id_disambiguated": "yt-RlT5uUssxN0,8011,8076~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,8091,8108",
+		"next_disambiguated": "yt-RlT5uUssxN0,8091,8108~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Has a lot of stuff changed since the last studio tour in 2019? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,8091,8108",
+		"id_disambiguated": "yt-RlT5uUssxN0,8091,8108~0",
+		"previous": "yt-RlT5uUssxN0,8011,8076",
+		"previous_disambiguated": "yt-RlT5uUssxN0,8011,8076~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Has a lot of stuff changed since the last studio tour in 2019? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7846,7917",
+		"id_disambiguated": "yt-RlT5uUssxN0,7846,7917~1",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,7925,7937",
+		"next_disambiguated": "yt-RlT5uUssxN0,7925,7937~1",
+		"date": "2026-11-09",
+		"title": "Q&A: Has anything been said about Core Values vs. the base Map? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7925,7937",
+		"id_disambiguated": "yt-RlT5uUssxN0,7925,7937~1",
+		"previous": "yt-RlT5uUssxN0,7846,7917",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7846,7917~1",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Has anything been said about Core Values vs. the base Map? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6807,6888",
+		"id_disambiguated": "yt-RlT5uUssxN0,6807,6888~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6921,6993",
+		"next_disambiguated": "yt-RlT5uUssxN0,6921,6993~0",
+		"date": "2026-11-09",
+		"title": "Q&A: How are taxes in Sweden? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6921,6993",
+		"id_disambiguated": "yt-RlT5uUssxN0,6921,6993~0",
+		"previous": "yt-RlT5uUssxN0,6807,6888",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6807,6888~0",
+		"next": "yt-RlT5uUssxN0,7000,7027",
+		"next_disambiguated": "yt-RlT5uUssxN0,7000,7027~0",
+		"date": "2026-11-09",
+		"title": "Q&A: How are taxes in Sweden? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7000,7027",
+		"id_disambiguated": "yt-RlT5uUssxN0,7000,7027~0",
+		"previous": "yt-RlT5uUssxN0,6921,6993",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6921,6993~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: How are taxes in Sweden? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6457,6462",
+		"id_disambiguated": "yt-RlT5uUssxN0,6457,6462~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6627,6664",
+		"next_disambiguated": "yt-RlT5uUssxN0,6627,6664~0",
+		"date": "2026-11-09",
+		"title": "Q&A: How long will the stream continue? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6627,6664",
+		"id_disambiguated": "yt-RlT5uUssxN0,6627,6664~0",
+		"previous": "yt-RlT5uUssxN0,6457,6462",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6457,6462~0",
+		"next": "yt-RlT5uUssxN0,6675,6688",
+		"next_disambiguated": "yt-RlT5uUssxN0,6675,6688~0",
+		"date": "2026-11-09",
+		"title": "Q&A: How long will the stream continue? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6675,6688",
+		"id_disambiguated": "yt-RlT5uUssxN0,6675,6688~0",
+		"previous": "yt-RlT5uUssxN0,6627,6664",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6627,6664~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: How long will the stream continue? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6188,6217",
+		"id_disambiguated": "yt-RlT5uUssxN0,6188,6217~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6255,6268",
+		"next_disambiguated": "yt-RlT5uUssxN0,6255,6268~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Is there anyone at Coffee Stain that doesn't drink Coffee? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6255,6268",
+		"id_disambiguated": "yt-RlT5uUssxN0,6255,6268~0",
+		"previous": "yt-RlT5uUssxN0,6188,6217",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6188,6217~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Is there anyone at Coffee Stain that doesn't drink Coffee? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7270,7305",
+		"id_disambiguated": "yt-RlT5uUssxN0,7270,7305~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,7341,7476",
+		"next_disambiguated": "yt-RlT5uUssxN0,7341,7476~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Is there any plan where you can host a server on the PS5? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7341,7476",
+		"id_disambiguated": "yt-RlT5uUssxN0,7341,7476~0",
+		"previous": "yt-RlT5uUssxN0,7270,7305",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7270,7305~0",
+		"next": "yt-RlT5uUssxN0,7484,7536",
+		"next_disambiguated": "yt-RlT5uUssxN0,7484,7536~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Is there any plan where you can host a server on the PS5? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7484,7536",
+		"id_disambiguated": "yt-RlT5uUssxN0,7484,7536~0",
+		"previous": "yt-RlT5uUssxN0,7341,7476",
+		"previous_disambiguated": "yt-RlT5uUssxN0,7341,7476~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Is there any plan where you can host a server on the PS5? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5850,5859",
+		"id_disambiguated": "yt-RlT5uUssxN0,5850,5859~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,5906,5949",
+		"next_disambiguated": "yt-RlT5uUssxN0,5906,5949~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Talk about the Lizard Catto? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5906,5949",
+		"id_disambiguated": "yt-RlT5uUssxN0,5906,5949~0",
+		"previous": "yt-RlT5uUssxN0,5850,5859",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5850,5859~0",
+		"next": "yt-RlT5uUssxN0,5980,5990",
+		"next_disambiguated": "yt-RlT5uUssxN0,5980,5990~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Talk about the Lizard Catto? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,5980,5990",
+		"id_disambiguated": "yt-RlT5uUssxN0,5980,5990~0",
+		"previous": "yt-RlT5uUssxN0,5906,5949",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5906,5949~0",
+		"next": "yt-RlT5uUssxN0,6244,6249",
+		"next_disambiguated": "yt-RlT5uUssxN0,6244,6249~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Talk about the Lizard Catto? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6244,6249",
+		"id_disambiguated": "yt-RlT5uUssxN0,6244,6249~0",
+		"previous": "yt-RlT5uUssxN0,5980,5990",
+		"previous_disambiguated": "yt-RlT5uUssxN0,5980,5990~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Talk about the Lizard Catto? (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1694,1730",
+		"id_disambiguated": "yt-RlT5uUssxN0,1694,1730~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,1734,1761",
+		"next_disambiguated": "yt-RlT5uUssxN0,1734,1761~0",
+		"date": "2026-11-09",
+		"title": "Q&A: Upside-down Trains? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,1734,1761",
+		"id_disambiguated": "yt-RlT5uUssxN0,1734,1761~0",
+		"previous": "yt-RlT5uUssxN0,1694,1730",
+		"previous_disambiguated": "yt-RlT5uUssxN0,1694,1730~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: Upside-down Trains? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6415,6453",
+		"id_disambiguated": "yt-RlT5uUssxN0,6415,6453~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6461,6483",
+		"next_disambiguated": "yt-RlT5uUssxN0,6461,6483~0",
+		"date": "2026-11-09",
+		"title": "Q&A: When are you going to stream WoW Forever? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6461,6483",
+		"id_disambiguated": "yt-RlT5uUssxN0,6461,6483~0",
+		"previous": "yt-RlT5uUssxN0,6415,6453",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6415,6453~0",
+		"next": "yt-RlT5uUssxN0,6494,6532",
+		"next_disambiguated": "yt-RlT5uUssxN0,6494,6532~0",
+		"date": "2026-11-09",
+		"title": "Q&A: When are you going to stream WoW Forever? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6494,6532",
+		"id_disambiguated": "yt-RlT5uUssxN0,6494,6532~0",
+		"previous": "yt-RlT5uUssxN0,6461,6483",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6461,6483~0",
+		"next": "yt-RlT5uUssxN0,6618,6628",
+		"next_disambiguated": "yt-RlT5uUssxN0,6618,6628~0",
+		"date": "2026-11-09",
+		"title": "Q&A: When are you going to stream WoW Forever? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6618,6628",
+		"id_disambiguated": "yt-RlT5uUssxN0,6618,6628~0",
+		"previous": "yt-RlT5uUssxN0,6494,6532",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6494,6532~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: When are you going to stream WoW Forever? (Part 4)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6992,7001",
+		"id_disambiguated": "yt-RlT5uUssxN0,6992,7001~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,7026,7043",
+		"next_disambiguated": "yt-RlT5uUssxN0,7026,7043~0",
+		"date": "2026-11-09",
+		"title": "Q&A: When is the next sale? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,7026,7043",
+		"id_disambiguated": "yt-RlT5uUssxN0,7026,7043~0",
+		"previous": "yt-RlT5uUssxN0,6992,7001",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6992,7001~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: When is the next sale? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6216,6245",
+		"id_disambiguated": "yt-RlT5uUssxN0,6216,6245~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,6269,6325",
+		"next_disambiguated": "yt-RlT5uUssxN0,6269,6325~0",
+		"date": "2026-11-09",
+		"title": "Q&A: When will Jason do a Let's Play? (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6269,6325",
+		"id_disambiguated": "yt-RlT5uUssxN0,6269,6325~0",
+		"previous": "yt-RlT5uUssxN0,6216,6245",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6216,6245~0",
+		"next": "yt-RlT5uUssxN0,6335,6342",
+		"next_disambiguated": "yt-RlT5uUssxN0,6335,6342~0",
+		"date": "2026-11-09",
+		"title": "Q&A: When will Jason do a Let's Play? (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,6335,6342",
+		"id_disambiguated": "yt-RlT5uUssxN0,6335,6342~0",
+		"previous": "yt-RlT5uUssxN0,6269,6325",
+		"previous_disambiguated": "yt-RlT5uUssxN0,6269,6325~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Q&A: When will Jason do a Let's Play? (Part 3)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4399,4445",
+		"id_disambiguated": "yt-RlT5uUssxN0,4399,4445~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,4461,4588",
+		"next_disambiguated": "yt-RlT5uUssxN0,4461,4588~0",
+		"date": "2026-11-09",
+		"title": "Replication Rate (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4461,4588",
+		"id_disambiguated": "yt-RlT5uUssxN0,4461,4588~0",
+		"previous": "yt-RlT5uUssxN0,4399,4445",
+		"previous_disambiguated": "yt-RlT5uUssxN0,4399,4445~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Replication Rate (Part 2)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,3343,3428",
+		"id_disambiguated": "yt-RlT5uUssxN0,3343,3428~0",
+		"previous": null,
+		"previous_disambiguated": null,
+		"next": "yt-RlT5uUssxN0,4209,4782",
+		"next_disambiguated": "yt-RlT5uUssxN0,4209,4782~0",
+		"date": "2026-11-09",
+		"title": "Unreal Replication Graph (Part 1)"
+	},
+	{
+		"id": "yt-RlT5uUssxN0,4209,4782",
+		"id_disambiguated": "yt-RlT5uUssxN0,4209,4782~0",
+		"previous": "yt-RlT5uUssxN0,3343,3428",
+		"previous_disambiguated": "yt-RlT5uUssxN0,3343,3428~0",
+		"next": null,
+		"next_disambiguated": null,
+		"date": "2026-11-09",
+		"title": "Unreal Replication Graph (Part 2)"
+	},
+	{
 		"id": "yt-W5LUUZ2cKag,856,887",
 		"id_disambiguated": "yt-W5LUUZ2cKag,856,887~0",
 		"previous": null,

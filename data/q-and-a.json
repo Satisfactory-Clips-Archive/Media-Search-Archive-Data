@@ -1,4 +1,849 @@
 {
+	"yt-RlT5uUssxN0,1148,1171": {
+		"title": "Q&A: What microphone does Jason use?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,1176,1186": {
+		"title": "Q&A: How is it already dark at 4pm in Sweden?",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sweden"
+		]
+	},
+	"yt-RlT5uUssxN0,1396,1432": {
+		"title": "Q&A: Crossplay not works?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer/crossplay"
+		]
+	},
+	"yt-RlT5uUssxN0,1431,1466": {
+		"title": "Q&A: Jason is going to teach Multiplayer (Part 1)?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer",
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,1468,1491": {
+		"title": "Q&A: Crossplay not working with PC as host?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer/crossplay"
+		]
+	},
+	"yt-RlT5uUssxN0,1490,1502": {
+		"title": "Q&A: Is keyboard & mouse working on PS5?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/console-release"
+		]
+	},
+	"yt-RlT5uUssxN0,1501,1520": {
+		"title": "Q&A: Will we ever be able to get Spotify into the music player in-game?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/equipment/boom-box",
+			"features/unplanned-features"
+		]
+	},
+	"yt-RlT5uUssxN0,1537,1550": {
+		"title": "Q&A: They let Jason out of the basement after the fortnite incident?",
+		"date": "2026-11-09",
+		"topics": [
+			"big-break-showcase",
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,1549,1574": {
+		"title": "Q&A: Add farming in Satisfactory?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/possible-features/farming"
+		]
+	},
+	"yt-RlT5uUssxN0,1573,1616": {
+		"title": "Q&A: What happened to the Pokemon cards?",
+		"date": "2026-11-09",
+		"topics": [
+			"big-break-showcase"
+		]
+	},
+	"yt-RlT5uUssxN0,1645,1678": {
+		"title": "Q&A: Can we have a personal Dimensional Depot and a friends-only Dimensional Depot?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/buildings/dimensional-depot"
+		]
+	},
+	"yt-RlT5uUssxN0,1677,1695": {
+		"title": "Q&A: Does the cross-platform Multiplayer have in-game voice?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer/crossplay",
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,1694,1730": {
+		"title": "Q&A: Upside-down Trains? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/requested-features",
+			"features/transportation/trains"
+		]
+	},
+	"yt-RlT5uUssxN0,1734,1761": {
+		"title": "Q&A: Upside-down Trains? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/requested-features",
+			"features/transportation/trains"
+		]
+	},
+	"yt-RlT5uUssxN0,1766,1773": {
+		"title": "Q&A: Do Consoles have Session ID?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/console-release"
+		]
+	},
+	"yt-RlT5uUssxN0,1772,1790": {
+		"title": "Q&A: Have you talked about Multiplayer yet?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer"
+		]
+	},
+	"yt-RlT5uUssxN0,1800,1814": {
+		"title": "Q&A: When are we getting gore in Satisfactory, I want to pop the Space Giraffe?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/space-giraffe-tick-penguin-whale-thing",
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,1816,1939": {
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/blueprints",
+			"features/multiplayer/crossplay",
+			"features/requested-features",
+			"features/save-system"
+		]
+	},
+	"yt-RlT5uUssxN0,1939,1950": {
+		"title": "Q&A: Will there be a subway to the new DLC Update?",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,1949,2002": {
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/blueprints",
+			"features/multiplayer/crossplay",
+			"features/requested-features",
+			"features/save-system"
+		]
+	},
+	"yt-RlT5uUssxN0,2001,2074": {
+		"title": "Q&A: Lizard Catto plushie?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/lizard-catto",
+			"merch"
+		]
+	},
+	"yt-RlT5uUssxN0,2073,2083": {
+		"title": "Q&A: Do you have a release date planned? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,2098,2125": {
+		"title": "Q&A: Curves?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,2124,2191": {
+		"title": "Q&A: Jason is going to teach Multiplayer (Part 2)?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer"
+		]
+	},
+	"yt-RlT5uUssxN0,2191,2206": {
+		"title": "Q&A: Do you guys still have any of the save games from the days of Jace & Snutt?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jace",
+			"coffee-stainers/snutt"
+		]
+	},
+	"yt-RlT5uUssxN0,2242,2249": {
+		"title": "Q&A: Where is Mikael?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/mikael"
+		]
+	},
+	"yt-RlT5uUssxN0,3729,3770": {
+		"title": "Q&A: What is Jason's background?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,4157,4163": {
+		"title": "Q&A: Who is Dylan?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/dylan"
+		]
+	},
+	"yt-RlT5uUssxN0,4162,4184": {
+		"title": "Q&A: Is any of this proprietary data & potentially bad to share online?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-RlT5uUssxN0,4444,4462": {
+		"title": "Q&A: Is \"Ultra\" a requirement for the initial bandwidth boost?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer",
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,4861,4903": {
+		"title": "Q&A: Will Map Ping come back?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer",
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,4940,4958": {
+		"title": "Q&A: Are we missing something with Epic overlay invites? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer",
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,4986,5042": {
+		"title": "Q&A: Are we missing something with Epic overlay invites? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer",
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,5052,5074": {
+		"title": "Q&A: Could we get more information about what's going on with the loading process?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/requested-features",
+			"features/save-system"
+		]
+	},
+	"yt-RlT5uUssxN0,5094,5114": {
+		"title": "Q&A: Are we missing something with Epic overlay invites? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer",
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,5113,5155": {
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/blueprints",
+			"features/multiplayer/crossplay",
+			"features/requested-features",
+			"features/save-system"
+		]
+	},
+	"yt-RlT5uUssxN0,5169,5191": {
+		"title": "Q&A: Are there any plans to release a web GUI for managing Dedicated Servers?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer/dedicated-servers",
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,5205,5216": {
+		"title": "Q&A: Why can't the player choose the character gender?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/possible-features/character-customisation"
+		]
+	},
+	"yt-RlT5uUssxN0,5342,5366": {
+		"title": "Q&A: Are you aware of the issues where players on PS5 Multiplayer can't move?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/console-release",
+			"features/multiplayer"
+		]
+	},
+	"yt-RlT5uUssxN0,5411,5450": {
+		"title": "Q&A: Any ideas why the other player crashed when I jumped on a Bean?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/space-giraffe-tick-penguin-whale-thing",
+			"features/multiplayer"
+		]
+	},
+	"yt-RlT5uUssxN0,5468,5475": {
+		"title": "Q&A: I tried to boot the game on a Chromebook and it exploded, is this normal?",
+		"date": "2026-11-09",
+		"topics": [
+			"trolling"
+		]
+	},
+	"yt-RlT5uUssxN0,5474,5493": {
+		"title": "Q&A: Can we use 1-2 letters in a fuel sign like on the title screen?",
+		"date": "2026-11-09",
+		"topics": [
+			"technology/user-interface",
+			"trolling"
+		]
+	},
+	"yt-RlT5uUssxN0,5611,5625": {
+		"title": "Q&A: Can we get more goofy joke thingies in the game? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"easter-eggs",
+			"off-topic/terrible-jokes",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,5633,5680": {
+		"title": "Q&A: Dinner? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,5679,5717": {
+		"title": "Q&A: Can we get more goofy joke thingies in the game? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"easter-eggs",
+			"off-topic/terrible-jokes",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,5747,5791": {
+		"title": "Q&A: Dinner? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,5803,5831": {
+		"title": "Q&A: Dinner? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,5830,5851": {
+		"title": "Q&A: When Jason plays, do they like being tidy with their Belts or just if it works it works?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,5850,5859": {
+		"title": "Q&A: Talk about the Lizard Catto? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/lizard-catto"
+		]
+	},
+	"yt-RlT5uUssxN0,5858,5864": {
+		"title": "Q&A: Dinner? (Part 4)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,5863,5894": {
+		"title": "Q&A: Does Jason play at work?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,5906,5949": {
+		"title": "Q&A: Talk about the Lizard Catto? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/lizard-catto"
+		]
+	},
+	"yt-RlT5uUssxN0,5948,5981": {
+		"title": "Q&A: What does Jason spend their time doing?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,5980,5990": {
+		"title": "Q&A: Talk about the Lizard Catto? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/lizard-catto"
+		]
+	},
+	"yt-RlT5uUssxN0,5989,6000": {
+		"title": "Q&A: Why are the spiders so terrifying?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures"
+		]
+	},
+	"yt-RlT5uUssxN0,6010,6142": {
+		"title": "Q&A: What inspiration do you look for as far as making game Updates?",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,6141,6189": {
+		"title": "Q&A: When is rough idea for next dev stream?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-RlT5uUssxN0,6188,6217": {
+		"title": "Q&A: Is there anyone at Coffee Stain that doesn't drink Coffee? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers",
+			"off-topic/food-and-drink/coffee"
+		]
+	},
+	"yt-RlT5uUssxN0,6216,6245": {
+		"title": "Q&A: When will Jason do a Let's Play? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,6244,6249": {
+		"title": "Q&A: Talk about the Lizard Catto? (Part 4)",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures/lizard-catto"
+		]
+	},
+	"yt-RlT5uUssxN0,6255,6268": {
+		"title": "Q&A: Is there anyone at Coffee Stain that doesn't drink Coffee? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers",
+			"off-topic/food-and-drink/coffee"
+		]
+	},
+	"yt-RlT5uUssxN0,6269,6325": {
+		"title": "Q&A: When will Jason do a Let's Play? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,6324,6336": {
+		"title": "Q&A: Do you plan to complete the Map (the black spots in the base game)?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment",
+			"environment/world-map"
+		]
+	},
+	"yt-RlT5uUssxN0,6335,6342": {
+		"title": "Q&A: When will Jason do a Let's Play? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,6341,6354": {
+		"title": "Q&A: Can you do custom tapes for the Boombox ?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/equipment/boom-box",
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,6369,6374": {
+		"title": "Q&A: I'm assuming the hole in the world is where we enter the DLC?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment",
+			"environment/world-map",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,6381,6388": {
+		"title": "Q&A: When is Sanctum 3 coming out?",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sanctum"
+		]
+	},
+	"yt-RlT5uUssxN0,6387,6394": {
+		"title": "Q&A: Do you have a release date planned? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,6393,6411": {
+		"title": "Q&A: What about Internet Radio for the Boombox?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/equipment/boom-box",
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,6415,6453": {
+		"title": "Q&A: When are you going to stream WoW Forever?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/mikael",
+			"off-topic"
+		]
+	},
+	"yt-RlT5uUssxN0,6483,6495": {
+		"title": "Q&A: More goodies about DLC in a video soon?",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,6544,6565": {
+		"title": "Q&A: What's happening with the signed posters?",
+		"date": "2026-11-09",
+		"topics": [
+			"community"
+		]
+	},
+	"yt-RlT5uUssxN0,6566,6619": {
+		"title": "Q&A: Was last patch the promised FICSMAS Update, or is that still coming?",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates"
+		]
+	},
+	"yt-RlT5uUssxN0,6618,6628": {
+		"title": "Q&A: What's Jason's favourite track from the Runescape OST?",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/runescape"
+		]
+	},
+	"yt-RlT5uUssxN0,6687,6775": {
+		"title": "Q&A: Dinner? (Part 5)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,6774,6781": {
+		"title": "Q&A: Is it really dark in Sweden?",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sweden"
+		]
+	},
+	"yt-RlT5uUssxN0,6782,6808": {
+		"title": "Q&A: Dinner? (Part 6)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,6807,6888": {
+		"title": "Q&A: How are taxes in Sweden? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sweden"
+		]
+	},
+	"yt-RlT5uUssxN0,6887,6903": {
+		"title": "Q&A: Dinner? (Part 7)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason",
+			"off-topic/food-and-drink"
+		]
+	},
+	"yt-RlT5uUssxN0,6903,6922": {
+		"title": "Q&A: How cold is it there?",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sweden"
+		]
+	},
+	"yt-RlT5uUssxN0,6921,6993": {
+		"title": "Q&A: How are taxes in Sweden? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sweden"
+		]
+	},
+	"yt-RlT5uUssxN0,6992,7001": {
+		"title": "Q&A: When is the next sale? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"retail"
+		]
+	},
+	"yt-RlT5uUssxN0,7000,7027": {
+		"title": "Q&A: How are taxes in Sweden? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"off-topic/sweden"
+		]
+	},
+	"yt-RlT5uUssxN0,7026,7043": {
+		"title": "Q&A: When is the next sale? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"retail"
+		]
+	},
+	"yt-RlT5uUssxN0,7042,7248": {
+		"title": "Q&A: Can we share Blueprints with our Console bros now? (Part 4)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/blueprints",
+			"features/multiplayer/crossplay",
+			"features/requested-features",
+			"features/save-system"
+		]
+	},
+	"yt-RlT5uUssxN0,7249,7271": {
+		"title": "Q&A: Can we send you fanmail? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers",
+			"community"
+		]
+	},
+	"yt-RlT5uUssxN0,7270,7305": {
+		"title": "Q&A: Is there any plan where you can host a server on the PS5? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/console-release",
+			"features/multiplayer/crossplay",
+			"features/multiplayer/dedicated-servers"
+		]
+	},
+	"yt-RlT5uUssxN0,7315,7342": {
+		"title": "Q&A: Can we send you fanmail? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers",
+			"community"
+		]
+	},
+	"yt-RlT5uUssxN0,7341,7476": {
+		"title": "Q&A: Is there any plan where you can host a server on the PS5? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/console-release",
+			"features/multiplayer/crossplay",
+			"features/multiplayer/dedicated-servers"
+		]
+	},
+	"yt-RlT5uUssxN0,7476,7485": {
+		"title": "Q&A: Anything new with FICSMAS this year or just the calendar art? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/seasonal-events/fics-mas"
+		]
+	},
+	"yt-RlT5uUssxN0,7484,7536": {
+		"title": "Q&A: Is there any plan where you can host a server on the PS5? (Part 3)",
+		"date": "2026-11-09",
+		"topics": [
+			"features/console-release",
+			"features/multiplayer/crossplay",
+			"features/multiplayer/dedicated-servers"
+		]
+	},
+	"yt-RlT5uUssxN0,7535,7581": {
+		"title": "Q&A: Anything new with FICSMAS this year or just the calendar art? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/seasonal-events/fics-mas"
+		]
+	},
+	"yt-RlT5uUssxN0,7584,7609": {
+		"title": "Q&A: Will you be doing a FICSMAS build contest this year?",
+		"date": "2026-11-09",
+		"topics": [
+			"community",
+			"satisfactory-updates/seasonal-events/fics-mas"
+		]
+	},
+	"yt-RlT5uUssxN0,7608,7648": {
+		"title": "Q&A: How is Jason & the team doing?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers",
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,7697,7723": {
+		"title": "Q&A: Can we expect a new Map?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/world-map",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,7727,7746": {
+		"title": "Q&A: Is anything being done with Lifts?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/buildables/conveyor-belts",
+			"features/buildables/elevators"
+		]
+	},
+	"yt-RlT5uUssxN0,7750,7761": {
+		"title": "Q&A: Can you tell us _anything_ about the DLC? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,7765,7804": {
+		"title": "Q&A: Is there a timestamp where the meat & potatoes of the Multiplayer Updates are?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/multiplayer"
+		]
+	},
+	"yt-RlT5uUssxN0,7815,7830": {
+		"title": "Q&A: Will you ever consider doing HUBs just for individuals instead of shared?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/buildings/the-hub",
+			"features/multiplayer",
+			"features/requested-features"
+		]
+	},
+	"yt-RlT5uUssxN0,7846,7917": {
+		"title": "Q&A: Has anything been said about Core Values vs. the base Map? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"environment",
+			"environment/world-map",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,7917,7926": {
+		"title": "Q&A: Will you ever do gameplay videos?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers/jason"
+		]
+	},
+	"yt-RlT5uUssxN0,7925,7937": {
+		"title": "Q&A: Has anything been said about Core Values vs. the base Map? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"environment",
+			"environment/world-map",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,7937,7943": {
+		"title": "Q&A: What price range are you all considering?",
+		"date": "2026-11-09",
+		"topics": [
+			"retail",
+			"satisfactory-updates/pending/dlc/core-values"
+		]
+	},
+	"yt-RlT5uUssxN0,7950,7967": {
+		"title": "Q&A: Will there be more eldritch horrors?",
+		"date": "2026-11-09",
+		"topics": [
+			"environment/creatures",
+			"satisfactory-updates/pending/dlc/core-values",
+			"trolling"
+		]
+	},
+	"yt-RlT5uUssxN0,7966,8002": {
+		"title": "Q&A: Will there be icons on Twitch in collaboration with Satisfactory?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/possible-features/third-party-service-integration"
+		]
+	},
+	"yt-RlT5uUssxN0,8011,8076": {
+		"title": "Q&A: Has a lot of stuff changed since the last studio tour in 2019? (Part 1)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-RlT5uUssxN0,8075,8092": {
+		"title": "Q&A: Will the expansion expand on who the Pioneer is, will it include more Lore?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/pioneer",
+			"satisfactory-updates/pending/dlc/core-values",
+			"story-and-lore"
+		]
+	},
+	"yt-RlT5uUssxN0,8091,8108": {
+		"title": "Q&A: Has a lot of stuff changed since the last studio tour in 2019? (Part 2)",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stain-group-ab/coffee-stain-studios"
+		]
+	},
+	"yt-RlT5uUssxN0,8256,8303": {
+		"title": "Q&A: Were the Manufacturer sounds changed in 1.0?",
+		"date": "2026-11-09",
+		"topics": [
+			"features/buildings",
+			"satisfactory-updates/released/satisfactory-1-0"
+		]
+	},
+	"yt-RlT5uUssxN0,8313,8337": {
+		"title": "Q&A: When does the team go on holiday?",
+		"date": "2026-11-09",
+		"topics": [
+			"coffee-stainers",
+			"off-topic/sweden"
+		]
+	},
 	"yt-W5LUUZ2cKag,1271,1319": {
 		"title": "Q&A: Next video, when? (Part 1)",
 		"date": "2026-10-20",
